@@ -1,4 +1,3 @@
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class LanternEffectController : MonoBehaviour
@@ -11,11 +10,13 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private Material lanternEffectMaterial;
     [SerializeField] private Transform lanternTransform;
     [SerializeField] private float lanternRadius = 5f;
+    private float aspectRatio;
 
     void Start()
     {
         UpdateWorldTextures();
         UpdateLanternEnabled();
+        aspectRatio = (float)furtwangenTexture.width / furtwangenTexture.height;
     }
 
     // Update is called once per frame
@@ -28,13 +29,13 @@ public class LanternEffectController : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.L))
         {
-            Debug.Log("test");
             isLanternEnabled = !isLanternEnabled;
             UpdateLanternEnabled();
         }
         Vector2 lanternPosition = new Vector2(lanternTransform.position.x, lanternTransform.position.y);
         lanternEffectMaterial.SetVector("_LanternPosition", lanternPosition);
         lanternEffectMaterial.SetFloat("_LanternRadius", lanternRadius);
+        lanternEffectMaterial.SetFloat("_AspectRatio", aspectRatio);
     }
 
     void UpdateLanternEnabled()
@@ -42,12 +43,10 @@ public class LanternEffectController : MonoBehaviour
         if (isLanternEnabled)
         {
             lanternEffectMaterial.SetInt("_EnableLantern", 1);
-            // lanternEffectMaterial.DisableKeyword("_EnableLantern");
         }
         else
         {
             lanternEffectMaterial.SetInt("_EnableLantern", 0);
-            // lanternEffectMaterial.EnableKeyword("_EnableLantern");
         }
     }
 

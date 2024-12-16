@@ -47,7 +47,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _EnableLantern: 0
+    - _AspectRatio: 1.7777778
+    - _EnableLantern: 1
     - _LanternRadius: 0.1
     - _QueueControl: 0
     - _QueueOffset: 0
