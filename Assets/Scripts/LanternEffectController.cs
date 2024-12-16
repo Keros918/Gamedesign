@@ -12,6 +12,12 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private Transform lanternTransform;
     [SerializeField] private float lanternRadius = 5f;
 
+    void Start()
+    {
+        UpdateWorldTextures();
+        UpdateLanternEnabled();
+    }
+
     // Update is called once per frame
     void Update()
     {
