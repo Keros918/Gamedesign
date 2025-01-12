@@ -48,7 +48,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AspectRatio: 1.7777778
-    - _EnableLantern: 1
+    - _EnableLantern: 0
     - _LanternRadius: 0.1
     - _QueueControl: 0
     - _QueueOffset: 0
