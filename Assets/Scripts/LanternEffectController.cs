@@ -4,6 +4,7 @@ public class LanternEffectController : MonoBehaviour
 {
     [SerializeField] private RenderTexture furtwangenTexture;
     [SerializeField] private RenderTexture narugubiTexture;
+    [SerializeField] private Camera camera;
     private bool isFurtwangenActive = true;
 
     private bool isLanternEnabled = false;
@@ -33,7 +34,9 @@ public class LanternEffectController : MonoBehaviour
             UpdateLanternEnabled();
         }
         Vector2 lanternPosition = new Vector2(lanternTransform.position.x, lanternTransform.position.y);
-        lanternEffectMaterial.SetVector("_LanternPosition", lanternPosition);
+        Vector3 viewportPos = camera.WorldToViewportPoint(lanternPosition);
+        // Vector2 ndcPos = new Vector2(viewportPos.x * 2 - 1, viewportPos.y * 2 - 1);
+        lanternEffectMaterial.SetVector("_LanternPosition", viewportPos);
         lanternEffectMaterial.SetFloat("_LanternRadius", lanternRadius);
         lanternEffectMaterial.SetFloat("_AspectRatio", aspectRatio);
     }
