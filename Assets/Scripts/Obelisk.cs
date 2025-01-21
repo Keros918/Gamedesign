@@ -18,8 +18,7 @@ public class Obelisk : MonoBehaviour
                 spriteRenderer.color = activatedColor;
             }
 
-            Debug.Log(GameManager.Instance);
-            GameManager.Instance.ObeliskActivated();
+            ObeliskManager.Instance.ObeliskActivated();
         }
     }
 }
