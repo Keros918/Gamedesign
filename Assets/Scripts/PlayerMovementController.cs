@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerMovementController : MonoBehaviour
@@ -6,37 +7,39 @@ public class PlayerMovementController : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private Rigidbody2D playerBody;
     private Rigidbody2D rb;
-    private Vector2 movementInput;
+    private Vector2 move;                               //NewInputSystem
+    private PlayerControls playerControls;              //NewInputSystem
     public bool isMoving;
 
     void Awake()
     {
+        playerControls = new PlayerControls();          //NewInputSystem
         animator = GetComponent<Animator>();
         playerBody = GetComponent<Rigidbody2D>();
     }
-
+    private void OnEnable(){                            //NewInputSystem
+        playerControls.Enable();
+    }
+    private void OnDisable(){                           //NewInputSystem
+        playerControls.Disable();
+    }
     // Update is called once per frame
     void Update()
     {
-        movementInput.x = Input.GetAxisRaw("Horizontal");
-        movementInput.y = Input.GetAxisRaw("Vertical");
-        movementInput.Normalize();
+        move = playerControls.World.Move.ReadValue<Vector2>();      //NewInputSystem
 
-        animator.SetFloat("moveSpeed", movementInput.sqrMagnitude);
+        animator.SetFloat("moveSpeed", move.sqrMagnitude);
 
-        if (movementInput.sqrMagnitude > 0) 
+        if (move.sqrMagnitude > 0) 
         {
-            animator.SetFloat("moveX", movementInput.x);
-            animator.SetFloat("moveY", movementInput.y);
+            animator.SetFloat("moveX", move.x);
+            animator.SetFloat("moveY", move.y);
         }
-
+        
     }
 
-    void FixedUpdate()
-    /*{
-        rb.linearVelocity = movementInput * speed;
-    }*/
+    void FixedUpdate()  //Smoother Movement
     {
-        playerBody.MovePosition(playerBody.position + moveSpeed * Time.fixedDeltaTime * movementInput);
+        playerBody.MovePosition(playerBody.position + moveSpeed * Time.fixedDeltaTime * move);
     }
 }
