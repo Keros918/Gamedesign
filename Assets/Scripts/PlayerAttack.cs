@@ -8,7 +8,9 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private int attackDamage = 10;
     [SerializeField] private float staminaCost = 20f;
     [SerializeField] private PlayerStamina stamina;
-
+    
+    private PlayerControls playerControls;
+    private float attack;
     private void Start()
     {
         if (stamina == null)
@@ -17,10 +19,24 @@ public class PlayerAttack : MonoBehaviour
         }
     }
 
+    void Awake()
+    {
+        playerControls = new PlayerControls();
+    }
+    private void OnEnable(){
+        playerControls.Enable();
+    }
+
+    private void OnDisable(){
+        playerControls.Disable();
+    }
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.E))
+
+        attack = playerControls.World.Action1.ReadValue<float>();
+
+        if (playerControls.World.Action1.triggered)
         {
             Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
             stamina.UseStamina(staminaCost);

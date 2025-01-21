@@ -10,6 +10,9 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private Material lanternEffectMaterial;
     [SerializeField] private Transform lanternTransform;
     [SerializeField] private float lanternRadius = 5f;
+
+    private PlayerControls playerControls;
+    private float useLantern;
     private float aspectRatio;
 
     void Start()
@@ -18,16 +21,28 @@ public class LanternEffectController : MonoBehaviour
         UpdateLanternEnabled();
         aspectRatio = (float)furtwangenTexture.width / furtwangenTexture.height;
     }
+    void Awake()
+    {
+        playerControls = new PlayerControls();
+    }
+    private void OnEnable(){
+        playerControls.Enable();
+    }
 
+    private void OnDisable(){
+        playerControls.Disable();
+    }
     // Update is called once per frame
     void Update()
     {
+
+        useLantern = playerControls.World.Action2.ReadValue<float>();
         if (Input.GetKeyDown(KeyCode.Space))
         {
             isFurtwangenActive = !isFurtwangenActive;
             UpdateWorldTextures();
         }
-        if (Input.GetKeyDown(KeyCode.L))
+        if (playerControls.World.Action2.triggered)
         {
             isLanternEnabled = !isLanternEnabled;
             UpdateLanternEnabled();
