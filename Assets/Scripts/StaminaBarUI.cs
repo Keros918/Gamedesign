@@ -6,7 +6,7 @@ public class StaminaBarUI : MonoBehaviour
 
     public void UpdateStaminaBar(PlayerStamina playerStamina)
     {
-        _staminaBar.fillAmount = playerStamina.currentStaminaPercentage;
+        _staminaBar.fillAmount = playerStamina.currentPlayerStaminaPercentage;
     }
 }
 

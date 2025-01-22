@@ -11,7 +11,7 @@ public class PlayerStamina : MonoBehaviour
     private bool isRegenerating = true;
     private float regenDelayTimer;
     
-    public UnityEvent OnStaminaChanged;
+    public UnityEvent OnPlayerStaminaChanged;
 
     private void Start()
     {
@@ -27,13 +27,13 @@ public class PlayerStamina : MonoBehaviour
         if (currentStamina < maxStamina)
         {
             currentStamina += staminaRegenRate * Time.deltaTime;
-            OnStaminaChanged.Invoke();
+            OnPlayerStaminaChanged.Invoke();
             currentStamina = Mathf.Clamp(currentStamina, 0, maxStamina);   
         }
         // Debug.Log(currentStamina);
     }
 
-    public float currentStaminaPercentage
+    public float currentPlayerStaminaPercentage
     {
         get
         {
@@ -43,7 +43,7 @@ public class PlayerStamina : MonoBehaviour
     public bool UseStamina(float amount)
     {
         currentStamina -= amount;
-        OnStaminaChanged.Invoke();
+        OnPlayerStaminaChanged.Invoke();
         CheckStaminaStatus();
         return true;
     }
@@ -68,7 +68,7 @@ public class PlayerStamina : MonoBehaviour
     public void AddStamina(float amount)
     {
         currentStamina = Mathf.Clamp(currentStamina += amount, 0, maxStamina);
-        OnStaminaChanged.Invoke();
+        OnPlayerStaminaChanged.Invoke();
     }
 
     public void AccelerateRegen(float multiplier, float duration)
