@@ -1,9 +1,11 @@
-using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class NPC : Interactable
 {
+    [SerializeField] private Transform target;
+    private NavMeshAgent agent;
     [SerializeField] DialogText[] dialogTexts;
     [SerializeField] DialogText repeatableDialog;
     [SerializeField] DialogController dialogController;
@@ -12,6 +14,9 @@ public class NPC : Interactable
 
     private void Start()
     {
+        agent = GetComponent<NavMeshAgent>();
+        agent.updateRotation = false;
+        agent.updateUpAxis = false;
         foreach (var text in dialogTexts)
         {
             text.completed = false;
