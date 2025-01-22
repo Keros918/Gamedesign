@@ -5,6 +5,7 @@ public abstract class Interactable : MonoBehaviour
     [SerializeField] private SpriteRenderer interactSprite;
     [SerializeField] private Transform playerTransform;
     [SerializeField] private float interactDistance = 5f;
+    protected bool hasInteraction = true;
 
     private float interact;                             //NewInputSystem
     private PlayerControls playerControls;              //NewInputSystem
@@ -24,7 +25,7 @@ public abstract class Interactable : MonoBehaviour
         interact = playerControls.World.Interact.ReadValue<float>();      //NewInputSystem
         bool isWithinInteractDistance = IsWithinInteractDistance();
         interactSprite.gameObject.SetActive(isWithinInteractDistance);
-        if (playerControls.World.Interact.triggered && isWithinInteractDistance)
+        if (Input.GetKeyDown(KeyCode.Q) && isWithinInteractDistance && hasInteraction)
         {
             Interact();
         }

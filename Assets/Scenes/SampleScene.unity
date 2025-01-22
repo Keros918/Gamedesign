@@ -11302,6 +11302,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 75f7db69c9774f448b6f3fb74272b265, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  lanternEffectMaterial: {fileID: 2100000, guid: 1622d6516f573a847b7c653daf833cf3, type: 2}
 --- !u!61 &898998213
 BoxCollider2D:
   m_ObjectHideFlags: 0

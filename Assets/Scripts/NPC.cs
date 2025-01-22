@@ -35,7 +35,11 @@ public class NPC : Interactable
         {
             dialog = repeatableDialog;
         }
-        if (dialog == null) return;
+        if (dialog == null)
+        {
+            hasInteraction = false;
+            return;
+        }
         dialogController.NextParagraph(dialog, closeupSprite, npcName);
     }
 }
