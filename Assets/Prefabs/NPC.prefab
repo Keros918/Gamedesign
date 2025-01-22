@@ -265,7 +265,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerTransform: {fileID: 0}
-  interactDistance: 3
+  interactDistance: 2
   target: {fileID: 0}
   dialogTexts:
   - {fileID: 11400000, guid: 3614c78ce62506248b3113be3e37fb1a, type: 2}

@@ -46,7 +46,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerTransform: {fileID: 0}
-  interactDistance: 5
+  interactDistance: 2
   pfandAmount: 1
 --- !u!1 &4275802477372804866
 GameObject:

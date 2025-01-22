@@ -175,6 +175,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b730986e035f81846a023e4103215d24, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerTransform: {fileID: 0}
+  interactDistance: 2
   isActivated: 0
-  spriteRenderer: {fileID: 3214595020963837237}
   activatedColor: {r: 0, g: 1, b: 0, a: 1}
