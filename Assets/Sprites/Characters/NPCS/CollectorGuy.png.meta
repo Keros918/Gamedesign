@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: eaf18e54f2987ac4190af6c022a38b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4323546329427826098
+    second: CollectorGuy_0
+  - first:
+      213: -3509462207379348128
+    second: CollectorGuy_1
+  - first:
+      213: 5554669934188752621
+    second: CollectorGuy_2
+  - first:
+      213: -4018718930297465381
+    second: CollectorGuy_3
+  - first:
+      213: -1978162886801018767
+    second: CollectorGuy_4
+  - first:
+      213: -1803171149294221047
+    second: CollectorGuy_5
+  - first:
+      213: 5317897901482176632
+    second: CollectorGuy_6
+  - first:
+      213: 4721158229050378922
+    second: CollectorGuy_7
+  - first:
+      213: -4261471591880829870
+    second: CollectorGuy_8
+  - first:
+      213: -3473714824419839229
+    second: CollectorGuy_9
+  - first:
+      213: -5505014375577875027
+    second: CollectorGuy_10
+  - first:
+      213: 1635267027769252547
+    second: CollectorGuy_11
+  - first:
+      213: -8088934186990803310
+    second: CollectorGuy_12
+  - first:
+      213: -632325098627130340
+    second: CollectorGuy_13
+  - first:
+      213: 3929218810398366903
+    second: CollectorGuy_14
+  - first:
+      213: 5668119542341883346
+    second: CollectorGuy_15
+  - first:
+      213: 999152117718554452
+    second: CollectorGuy_16
+  - first:
+      213: 765895963345629178
+    second: CollectorGuy_17
+  - first:
+      213: -1228390493727724451
+    second: CollectorGuy_18
+  - first:
+      213: 3101167141884513872
+    second: CollectorGuy_19
+  - first:
+      213: 3704785055390546689
+    second: CollectorGuy_20
+  - first:
+      213: -8406047365402306747
+    second: CollectorGuy_21
+  - first:
+      213: -6895334826166808880
+    second: CollectorGuy_22
+  - first:
+      213: -8488222792588642868
+    second: CollectorGuy_23
+  - first:
+      213: 9065689171972494031
+    second: CollectorGuy_24
+  - first:
+      213: -8384380530205071909
+    second: CollectorGuy_25
+  - first:
+      213: 2753073989248553102
+    second: CollectorGuy_26
+  - first:
+      213: -1143279808759083265
+    second: CollectorGuy_27
+  - first:
+      213: -5511705898100535431
+    second: CollectorGuy_28
+  - first:
+      213: -1180074063824453326
+    second: CollectorGuy_29
+  - first:
+      213: -1981704315700159261
+    second: CollectorGuy_30
+  - first:
+      213: -6113686928386273599
+    second: CollectorGuy_31
+  - first:
+      213: 8396185736961002100
+    second: CollectorGuy_32
+  - first:
+      213: -5383716377166302558
+    second: CollectorGuy_33
+  - first:
+      213: 8731877248970720065
+    second: CollectorGuy_34
+  - first:
+      213: 3382233936523477422
+    second: CollectorGuy_35
+  - first:
+      213: -2416428706250451955
+    second: CollectorGuy_36
+  - first:
+      213: -7916218505315420507
+    second: CollectorGuy_37
+  - first:
+      213: 8423418167482963274
+    second: CollectorGuy_38
+  - first:
+      213: -3973833143066843991
+    second: CollectorGuy_39
+  - first:
+      213: -372927640257114461
+    second: CollectorGuy_40
+  - first:
+      213: -3852533139883308137
+    second: CollectorGuy_41
+  - first:
+      213: -8006160885720980988
+    second: CollectorGuy_42
+  - first:
+      213: -7417005362878679172
+    second: CollectorGuy_43
+  - first:
+      213: 502100881420953752
+    second: CollectorGuy_44
+  - first:
+      213: -5558834358982831649
+    second: CollectorGuy_45
+  - first:
+      213: 4197972005894552360
+    second: CollectorGuy_46
+  - first:
+      213: -2151713812789538992
+    second: CollectorGuy_47
+  - first:
+      213: 6498938431829161095
+    second: CollectorGuy_48
+  - first:
+      213: 8775652743531381689
+    second: CollectorGuy_49
+  - first:
+      213: -6824125928245008238
+    second: CollectorGuy_50
+  - first:
+      213: 70470113105965965
+    second: CollectorGuy_51
+  - first:
+      213: 4640317540258899509
+    second: CollectorGuy_52
+  - first:
+      213: -5250252960145582794
+    second: CollectorGuy_53
+  - first:
+      213: -9040232474839291298
+    second: CollectorGuy_54
+  - first:
+      213: -5257857285620448065
+    second: CollectorGuy_55
+  - first:
+      213: -7489399610607621550
+    second: CollectorGuy_56
+  - first:
+      213: 873951359646769961
+    second: CollectorGuy_57
+  - first:
+      213: -8512692229932221561
+    second: CollectorGuy_58
+  - first:
+      213: 1911350232031136503
+    second: CollectorGuy_59
+  - first:
+      213: 8857301805154926774
+    second: CollectorGuy_60
+  - first:
+      213: -3137492986414467544
+    second: CollectorGuy_61
+  - first:
+      213: -6405611163861032230
+    second: CollectorGuy_62
+  - first:
+      213: 7188071929035116538
+    second: CollectorGuy_63
+  - first:
+      213: 8225471026466703461
+    second: CollectorGuy_64
+  - first:
+      213: -8960518792329544976
+    second: CollectorGuy_65
+  - first:
+      213: -6759625908125390070
+    second: CollectorGuy_66
+  - first:
+      213: 4599460521111124113
+    second: CollectorGuy_67
+  - first:
+      213: 5315695804950284805
+    second: CollectorGuy_68
+  - first:
+      213: 3008413996215659024
+    second: CollectorGuy_69
+  - first:
+      213: -4894550436328775147
+    second: CollectorGuy_70
+  - first:
+      213: -8072716118476199303
+    second: CollectorGuy_71
+  - first:
+      213: 8706362103476295389
+    second: CollectorGuy_72
+  - first:
+      213: 3709461308825207933
+    second: CollectorGuy_73
+  - first:
+      213: 1781720825219901454
+    second: CollectorGuy_74
+  - first:
+      213: -2897589880916398926
+    second: CollectorGuy_75
+  - first:
+      213: 4306634211126211226
+    second: CollectorGuy_76
+  - first:
+      213: -3317852259770116466
+    second: CollectorGuy_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CollectorGuy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b55d7fba72500c30800000000000000
+      internalID: 4323546329427826098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 769
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065ee7067b2eb4fc0800000000000000
+      internalID: -3509462207379348128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1055
+        width: 769
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeecdf00e6261d40800000000000000
+      internalID: 5554669934188752621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_3
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd55b7bcc64aa38c0800000000000000
+      internalID: -4018718930297465381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1703d50d5572c84e0800000000000000
+      internalID: -1978162886801018767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 909c511b469d9f6e0800000000000000
+      internalID: -1803171149294221047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 385
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870f3a947f7fcc940800000000000000
+      internalID: 5317897901482176632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 863
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaac5f2456ce48140800000000000000
+      internalID: 4721158229050378922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 385
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25456895a263cd4c0800000000000000
+      internalID: -4261471591880829870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_9
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303727f85c2eacfc0800000000000000
+      internalID: -3473714824419839229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_10
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad034c97924a93b0800000000000000
+      internalID: -5505014375577875027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_11
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca581f92b2a1b610800000000000000
+      internalID: 1635267027769252547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29666e4c6355ebf80800000000000000
+      internalID: -8088934186990803310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c14c94ca78937f0800000000000000
+      internalID: -632325098627130340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_14
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcd39ea0b3678630800000000000000
+      internalID: 3929218810398366903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_15
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5dcb951b439ae40800000000000000
+      internalID: 5668119542341883346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_16
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457913dae83bddd00800000000000000
+      internalID: 999152117718554452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_17
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff2f1e125201aa00800000000000000
+      internalID: 765895963345629178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_18
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c64efaa51e3fee0800000000000000
+      internalID: -1228390493727724451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_19
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ec329b51f890b20800000000000000
+      internalID: 3101167141884513872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_20
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bbabb016a0a6330800000000000000
+      internalID: 3704785055390546689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_21
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54756145578b75b80800000000000000
+      internalID: -8406047365402306747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 769
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de82f63289de40a0800000000000000
+      internalID: -6895334826166808880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_23
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc53169b756c33a80800000000000000
+      internalID: -8488222792588642868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_24
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc29683154ccfcd70800000000000000
+      internalID: 9065689171972494031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_25
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5ec638452b4ab80800000000000000
+      internalID: -8384380530205071909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_26
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e801781f432e43620800000000000000
+      internalID: 2753073989248553102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_27
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffec90042114220f0800000000000000
+      internalID: -1143279808759083265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_28
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fca4d10bc7283b0800000000000000
+      internalID: -5511705898100535431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_29
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231871924e88f9fe0800000000000000
+      internalID: -1180074063824453326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_30
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec55d4ac629f74e0800000000000000
+      internalID: -1981704315700159261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_31
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce469d5122d72ba0800000000000000
+      internalID: -6113686928386273599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_32
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a03cf517e358470800000000000000
+      internalID: 8396185736961002100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_33
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2bc87aa723945b0800000000000000
+      internalID: -5383716377166302558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_34
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143073f281cdd2970800000000000000
+      internalID: 8731877248970720065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 1537
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea1c0cd68db10fe20800000000000000
+      internalID: 3382233936523477422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 1281
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0492eaf4ee177ed0800000000000000
+      internalID: -2416428706250451955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_37
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6fc4a1631f32290800000000000000
+      internalID: -7916218505315420507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_38
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45d463b13ef5e470800000000000000
+      internalID: 8423418167482963274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 1792
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4a3d68fcb1ad8c0800000000000000
+      internalID: -3973833143066843991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 1151
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aecc8b794813daf0800000000000000
+      internalID: -372927640257114461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_41
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 479
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79bc5d7558d098ac0800000000000000
+      internalID: -3852533139883308137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_42
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 479
+        width: 609
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40269f7c71764e090800000000000000
+      internalID: -8006160885720980988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 769
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77f2706be0811990800000000000000
+      internalID: -7417005362878679172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 769
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898a1866712d7f600800000000000000
+      internalID: 502100881420953752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 769
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1979b3a9d0bd2b0800000000000000
+      internalID: -5558834358982831649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_46
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bf06c2c41324a30800000000000000
+      internalID: 4197972005894552360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_47
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fc06200b39322e0800000000000000
+      internalID: -2151713812789538992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_48
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784bf46221ed03a50800000000000000
+      internalID: 6498938431829161095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_49
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3ce52cca169c970800000000000000
+      internalID: 8775652743531381689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_50
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2986c60cf95db41a0800000000000000
+      internalID: -6824125928245008238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_51
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8376fac13c5af000800000000000000
+      internalID: 70470113105965965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_52
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5366528a738b56040800000000000000
+      internalID: 4640317540258899509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_53
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6355491ffba5327b0800000000000000
+      internalID: -5250252960145582794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_54
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ae04a1674aa8280800000000000000
+      internalID: -9040232474839291298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_55
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c4e2f7a65807b0800000000000000
+      internalID: -5257857285620448065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_56
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aa8c41cbe401890800000000000000
+      internalID: -7489399610607621550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_57
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92327b69126e02c00800000000000000
+      internalID: 873951359646769961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_58
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b79a0e487dcd980800000000000000
+      internalID: -8512692229932221561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_59
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa8395c8ea768a10800000000000000
+      internalID: 1911350232031136503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_60
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b08fa450157bea70800000000000000
+      internalID: 8857301805154926774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_61
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8267c7380c26574d0800000000000000
+      internalID: -3137492986414467544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_62
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad269c8b592ba17a0800000000000000
+      internalID: -6405611163861032230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_63
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff481ed55921c360800000000000000
+      internalID: 7188071929035116538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_64
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568c0d2715eb62270800000000000000
+      internalID: 8225471026466703461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_65
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa3cfb12a7d5a380800000000000000
+      internalID: -8960518792329544976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_66
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ba8a3fc0cf032a0800000000000000
+      internalID: -6759625908125390070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_67
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198f24799f094df30800000000000000
+      internalID: 4599460521111124113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_68
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a881cbb2525c940800000000000000
+      internalID: 5315695804950284805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_69
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a6fbd179800c920800000000000000
+      internalID: 3008413996215659024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_70
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512e3638f40131cb0800000000000000
+      internalID: -4894550436328775147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_71
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ae7a91673f7ff80800000000000000
+      internalID: -8072716118476199303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_72
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd690af643633d870800000000000000
+      internalID: 8706362103476295389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 513
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7405942867aa7330800000000000000
+      internalID: 3709461308825207933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 769
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08e52c86a1f9b810800000000000000
+      internalID: 1781720825219901454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 403
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc263bfa51b9c7d0800000000000000
+      internalID: -2897589880916398926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92f8bb5ffc34cb30800000000000000
+      internalID: 4306634211126211226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CollectorGuy_77
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86dc2fc2fe94f1d0800000000000000
+      internalID: -3317852259770116466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,8167 @@
+fileFormatVersion: 2
+guid: 4385ea729c0d1814cbed36ab144238fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5570390988352503428
+    second: ThugGirl_0
+  - first:
+      213: -1682415348319575181
+    second: ThugGirl_1
+  - first:
+      213: -4208646976221721740
+    second: ThugGirl_2
+  - first:
+      213: 3625576406148739215
+    second: ThugGirl_3
+  - first:
+      213: 4143875075098101785
+    second: ThugGirl_4
+  - first:
+      213: -1243991191970254268
+    second: ThugGirl_5
+  - first:
+      213: -5944498646721836846
+    second: ThugGirl_6
+  - first:
+      213: 1633782435069712485
+    second: ThugGirl_7
+  - first:
+      213: -6431725888565574064
+    second: ThugGirl_8
+  - first:
+      213: 5834037743211009141
+    second: ThugGirl_9
+  - first:
+      213: -8455286748882126255
+    second: ThugGirl_10
+  - first:
+      213: 2482116053691576681
+    second: ThugGirl_11
+  - first:
+      213: -1935284888757328025
+    second: ThugGirl_12
+  - first:
+      213: -4618243198900926149
+    second: ThugGirl_13
+  - first:
+      213: 5714940141752698580
+    second: ThugGirl_14
+  - first:
+      213: 5097248027391464184
+    second: ThugGirl_15
+  - first:
+      213: 8928534004411089388
+    second: ThugGirl_16
+  - first:
+      213: -6565749725987108751
+    second: ThugGirl_17
+  - first:
+      213: 5549470650394080359
+    second: ThugGirl_18
+  - first:
+      213: 5073687823796352041
+    second: ThugGirl_19
+  - first:
+      213: 3466673875809856113
+    second: ThugGirl_20
+  - first:
+      213: -5345174024894882312
+    second: ThugGirl_21
+  - first:
+      213: 6671829168935232225
+    second: ThugGirl_22
+  - first:
+      213: 819609150889782758
+    second: ThugGirl_23
+  - first:
+      213: 6696436715468770110
+    second: ThugGirl_24
+  - first:
+      213: -492991275216446087
+    second: ThugGirl_25
+  - first:
+      213: 6208853162414779818
+    second: ThugGirl_26
+  - first:
+      213: -442222621330363259
+    second: ThugGirl_27
+  - first:
+      213: -2772428454447562259
+    second: ThugGirl_28
+  - first:
+      213: -1894654942009857256
+    second: ThugGirl_29
+  - first:
+      213: -1229337590031462331
+    second: ThugGirl_30
+  - first:
+      213: -260168074263978252
+    second: ThugGirl_31
+  - first:
+      213: 6842258168892565343
+    second: ThugGirl_32
+  - first:
+      213: 8379985496143382403
+    second: ThugGirl_33
+  - first:
+      213: 7129316805822013552
+    second: ThugGirl_34
+  - first:
+      213: -3613677159368076068
+    second: ThugGirl_35
+  - first:
+      213: -2686723551436409780
+    second: ThugGirl_36
+  - first:
+      213: 4817916893800383719
+    second: ThugGirl_37
+  - first:
+      213: 7306109045448163124
+    second: ThugGirl_38
+  - first:
+      213: 1889231537817133820
+    second: ThugGirl_39
+  - first:
+      213: -4779044685305790102
+    second: ThugGirl_40
+  - first:
+      213: -5913441666144179008
+    second: ThugGirl_41
+  - first:
+      213: -1083016226691370027
+    second: ThugGirl_42
+  - first:
+      213: 3421565399026897848
+    second: ThugGirl_43
+  - first:
+      213: 6072194646438258770
+    second: ThugGirl_44
+  - first:
+      213: 6367023626999962756
+    second: ThugGirl_45
+  - first:
+      213: -6075130969367970939
+    second: ThugGirl_46
+  - first:
+      213: 2160203361315829955
+    second: ThugGirl_47
+  - first:
+      213: 1033978783862960572
+    second: ThugGirl_48
+  - first:
+      213: -1936953972962446981
+    second: ThugGirl_49
+  - first:
+      213: -1762987579686335586
+    second: ThugGirl_50
+  - first:
+      213: -247557396674269291
+    second: ThugGirl_51
+  - first:
+      213: 5597451378370648468
+    second: ThugGirl_52
+  - first:
+      213: 6438939810284718119
+    second: ThugGirl_53
+  - first:
+      213: 7238691369996921124
+    second: ThugGirl_54
+  - first:
+      213: -1731264135363510152
+    second: ThugGirl_55
+  - first:
+      213: -140360479619025748
+    second: ThugGirl_56
+  - first:
+      213: 2732000350485827964
+    second: ThugGirl_57
+  - first:
+      213: 7166133632731977280
+    second: ThugGirl_58
+  - first:
+      213: 3004848364266023947
+    second: ThugGirl_59
+  - first:
+      213: 6036533414781282859
+    second: ThugGirl_60
+  - first:
+      213: 4751109249761154534
+    second: ThugGirl_61
+  - first:
+      213: -1323901848470115959
+    second: ThugGirl_62
+  - first:
+      213: -7759058540842586007
+    second: ThugGirl_63
+  - first:
+      213: 5101258497245971567
+    second: ThugGirl_64
+  - first:
+      213: 4532201304723440244
+    second: ThugGirl_65
+  - first:
+      213: -2827044605465229713
+    second: ThugGirl_66
+  - first:
+      213: -1608299243259124398
+    second: ThugGirl_67
+  - first:
+      213: 8807130167820689072
+    second: ThugGirl_68
+  - first:
+      213: -3124900217618424578
+    second: ThugGirl_69
+  - first:
+      213: -6134868745912875157
+    second: ThugGirl_70
+  - first:
+      213: -9104617887094504927
+    second: ThugGirl_71
+  - first:
+      213: -5175319496073101292
+    second: ThugGirl_72
+  - first:
+      213: 988404160346820814
+    second: ThugGirl_73
+  - first:
+      213: -3698338999682327134
+    second: ThugGirl_74
+  - first:
+      213: -4061999032354378448
+    second: ThugGirl_75
+  - first:
+      213: -1131526654262585428
+    second: ThugGirl_76
+  - first:
+      213: -1046131285820224849
+    second: ThugGirl_77
+  - first:
+      213: -6842310862700109254
+    second: ThugGirl_78
+  - first:
+      213: 2742447551444605018
+    second: ThugGirl_79
+  - first:
+      213: -6410263663929886595
+    second: ThugGirl_80
+  - first:
+      213: 8255903095568972699
+    second: ThugGirl_81
+  - first:
+      213: -8005636039490491361
+    second: ThugGirl_82
+  - first:
+      213: -4403233058223389836
+    second: ThugGirl_83
+  - first:
+      213: -4254891384387067260
+    second: ThugGirl_84
+  - first:
+      213: 4096484627512934140
+    second: ThugGirl_85
+  - first:
+      213: 2864662712011459754
+    second: ThugGirl_86
+  - first:
+      213: 2401999190092665957
+    second: ThugGirl_87
+  - first:
+      213: 2706270114162617772
+    second: ThugGirl_88
+  - first:
+      213: 6893551461005987338
+    second: ThugGirl_89
+  - first:
+      213: -2493246580422607309
+    second: ThugGirl_90
+  - first:
+      213: -3783342199373188010
+    second: ThugGirl_91
+  - first:
+      213: -4209157172128915113
+    second: ThugGirl_92
+  - first:
+      213: 4317059998032947908
+    second: ThugGirl_93
+  - first:
+      213: 8869604793469745396
+    second: ThugGirl_94
+  - first:
+      213: 7337248222995529750
+    second: ThugGirl_95
+  - first:
+      213: 2350858227191013082
+    second: ThugGirl_96
+  - first:
+      213: -262763041644784135
+    second: ThugGirl_97
+  - first:
+      213: -6879805751443679746
+    second: ThugGirl_98
+  - first:
+      213: 6089034713005444927
+    second: ThugGirl_99
+  - first:
+      213: -8997213475966084894
+    second: ThugGirl_100
+  - first:
+      213: 5701218563501840437
+    second: ThugGirl_101
+  - first:
+      213: 4828705885668085680
+    second: ThugGirl_102
+  - first:
+      213: -8789237317982928719
+    second: ThugGirl_103
+  - first:
+      213: 8067789548676351445
+    second: ThugGirl_104
+  - first:
+      213: 947006530745539227
+    second: ThugGirl_105
+  - first:
+      213: 9139811562997737992
+    second: ThugGirl_106
+  - first:
+      213: 4268917471634448031
+    second: ThugGirl_107
+  - first:
+      213: -7072407268270996330
+    second: ThugGirl_108
+  - first:
+      213: -5710608602601109313
+    second: ThugGirl_109
+  - first:
+      213: -2572195587253796265
+    second: ThugGirl_110
+  - first:
+      213: 4986098295352216047
+    second: ThugGirl_111
+  - first:
+      213: -4091834308665711583
+    second: ThugGirl_112
+  - first:
+      213: 5501076937809350077
+    second: ThugGirl_113
+  - first:
+      213: -993208139871976510
+    second: ThugGirl_114
+  - first:
+      213: 5140482597600680971
+    second: ThugGirl_115
+  - first:
+      213: -5314068743079441458
+    second: ThugGirl_116
+  - first:
+      213: 3506224960771002174
+    second: ThugGirl_117
+  - first:
+      213: -8554127171950186209
+    second: ThugGirl_118
+  - first:
+      213: -1153510010868401055
+    second: ThugGirl_119
+  - first:
+      213: -6052661789437673135
+    second: ThugGirl_120
+  - first:
+      213: 146267357345776939
+    second: ThugGirl_121
+  - first:
+      213: -2128057454641150848
+    second: ThugGirl_122
+  - first:
+      213: 8323392989548662702
+    second: ThugGirl_123
+  - first:
+      213: -5456878320029193578
+    second: ThugGirl_124
+  - first:
+      213: 6982754043634713804
+    second: ThugGirl_125
+  - first:
+      213: -6453818918536510990
+    second: ThugGirl_126
+  - first:
+      213: 8099731110051724677
+    second: ThugGirl_127
+  - first:
+      213: -8950327285974848423
+    second: ThugGirl_128
+  - first:
+      213: 5472058238589694625
+    second: ThugGirl_129
+  - first:
+      213: -4425717362510242679
+    second: ThugGirl_130
+  - first:
+      213: -2431712066734385912
+    second: ThugGirl_131
+  - first:
+      213: 7975038417097806033
+    second: ThugGirl_132
+  - first:
+      213: 5457131375893769461
+    second: ThugGirl_133
+  - first:
+      213: 1258948895204342712
+    second: ThugGirl_134
+  - first:
+      213: 1728179268008069140
+    second: ThugGirl_135
+  - first:
+      213: -7917511025427579146
+    second: ThugGirl_136
+  - first:
+      213: -6834642059085227013
+    second: ThugGirl_137
+  - first:
+      213: 8569193273925476635
+    second: ThugGirl_138
+  - first:
+      213: 4027442568053634393
+    second: ThugGirl_139
+  - first:
+      213: -3108750753114347810
+    second: ThugGirl_140
+  - first:
+      213: 936911293431852755
+    second: ThugGirl_141
+  - first:
+      213: -4767000367837871451
+    second: ThugGirl_142
+  - first:
+      213: -2277383874324918032
+    second: ThugGirl_143
+  - first:
+      213: -7352276783053252324
+    second: ThugGirl_144
+  - first:
+      213: 7135752248417242422
+    second: ThugGirl_145
+  - first:
+      213: -6458894260928399849
+    second: ThugGirl_146
+  - first:
+      213: 8539766532182861312
+    second: ThugGirl_147
+  - first:
+      213: 5493308134928533778
+    second: ThugGirl_148
+  - first:
+      213: -3003948000255838414
+    second: ThugGirl_149
+  - first:
+      213: 8391349764970538883
+    second: ThugGirl_150
+  - first:
+      213: 7856773623198666605
+    second: ThugGirl_151
+  - first:
+      213: 4109040820310047190
+    second: ThugGirl_152
+  - first:
+      213: -5381466500571050798
+    second: ThugGirl_153
+  - first:
+      213: -945999182257431470
+    second: ThugGirl_154
+  - first:
+      213: 315649768569154880
+    second: ThugGirl_155
+  - first:
+      213: 7817991468648656246
+    second: ThugGirl_156
+  - first:
+      213: -5518765713781250526
+    second: ThugGirl_157
+  - first:
+      213: 1483704005556496575
+    second: ThugGirl_158
+  - first:
+      213: -1884192236438995920
+    second: ThugGirl_159
+  - first:
+      213: -5906899285003695036
+    second: ThugGirl_160
+  - first:
+      213: 3431735391985216386
+    second: ThugGirl_161
+  - first:
+      213: 7598684879713013086
+    second: ThugGirl_162
+  - first:
+      213: 1251696242777319741
+    second: ThugGirl_163
+  - first:
+      213: -3521082325446019957
+    second: ThugGirl_164
+  - first:
+      213: -6055458432584235772
+    second: ThugGirl_165
+  - first:
+      213: 2936468396878956327
+    second: ThugGirl_166
+  - first:
+      213: -4812452887590416572
+    second: ThugGirl_167
+  - first:
+      213: -2031067708883949318
+    second: ThugGirl_168
+  - first:
+      213: -3535486417445560809
+    second: ThugGirl_169
+  - first:
+      213: -837334009522903031
+    second: ThugGirl_170
+  - first:
+      213: -4718312171519437829
+    second: ThugGirl_171
+  - first:
+      213: 3033833545105936849
+    second: ThugGirl_172
+  - first:
+      213: 6732829437153173018
+    second: ThugGirl_173
+  - first:
+      213: 1311010954028374699
+    second: ThugGirl_174
+  - first:
+      213: -1543185942734662501
+    second: ThugGirl_175
+  - first:
+      213: -615836628733974597
+    second: ThugGirl_176
+  - first:
+      213: 4649941175403405647
+    second: ThugGirl_177
+  - first:
+      213: 5867019799169403648
+    second: ThugGirl_178
+  - first:
+      213: -8723180122908132272
+    second: ThugGirl_179
+  - first:
+      213: 51573021566724498
+    second: ThugGirl_180
+  - first:
+      213: 476485639853530712
+    second: ThugGirl_181
+  - first:
+      213: -4838775297742096765
+    second: ThugGirl_182
+  - first:
+      213: 1916967842763291271
+    second: ThugGirl_183
+  - first:
+      213: -154217228826204745
+    second: ThugGirl_184
+  - first:
+      213: 8918811923983632013
+    second: ThugGirl_185
+  - first:
+      213: 7323201900338559450
+    second: ThugGirl_186
+  - first:
+      213: -7994420707368955541
+    second: ThugGirl_187
+  - first:
+      213: 2106187442683383820
+    second: ThugGirl_188
+  - first:
+      213: 8562348081194592355
+    second: ThugGirl_189
+  - first:
+      213: -8160326813459953901
+    second: ThugGirl_190
+  - first:
+      213: 7335120460977533486
+    second: ThugGirl_191
+  - first:
+      213: 2411848895461259464
+    second: ThugGirl_192
+  - first:
+      213: 3886117955204795029
+    second: ThugGirl_193
+  - first:
+      213: -2784681933712961928
+    second: ThugGirl_194
+  - first:
+      213: -2304993039192707872
+    second: ThugGirl_195
+  - first:
+      213: -2052461009027418731
+    second: ThugGirl_196
+  - first:
+      213: -4205547047338235049
+    second: ThugGirl_197
+  - first:
+      213: 5192941409512456613
+    second: ThugGirl_198
+  - first:
+      213: -956832879415823827
+    second: ThugGirl_199
+  - first:
+      213: -4656788949000751239
+    second: ThugGirl_200
+  - first:
+      213: 2485926626820598052
+    second: ThugGirl_201
+  - first:
+      213: 146751007967803776
+    second: ThugGirl_202
+  - first:
+      213: 2279056279285351180
+    second: ThugGirl_203
+  - first:
+      213: -1425667949619548288
+    second: ThugGirl_204
+  - first:
+      213: 3720489036765452009
+    second: ThugGirl_205
+  - first:
+      213: 3889814124506515358
+    second: ThugGirl_206
+  - first:
+      213: -1289120521619191907
+    second: ThugGirl_207
+  - first:
+      213: -2693113492093323540
+    second: ThugGirl_208
+  - first:
+      213: 6047038772070737112
+    second: ThugGirl_209
+  - first:
+      213: -1095575391417134478
+    second: ThugGirl_210
+  - first:
+      213: -7250032812139890198
+    second: ThugGirl_211
+  - first:
+      213: 6811597778326823408
+    second: ThugGirl_212
+  - first:
+      213: 6528256860061103397
+    second: ThugGirl_213
+  - first:
+      213: -7692863074714684373
+    second: ThugGirl_214
+  - first:
+      213: 2754343957013789099
+    second: ThugGirl_215
+  - first:
+      213: 8591966396597518121
+    second: ThugGirl_216
+  - first:
+      213: 369450369832146216
+    second: ThugGirl_217
+  - first:
+      213: -668309505716316233
+    second: ThugGirl_218
+  - first:
+      213: -306105330333707601
+    second: ThugGirl_219
+  - first:
+      213: -1273922848999916632
+    second: ThugGirl_220
+  - first:
+      213: 7781069719691841444
+    second: ThugGirl_221
+  - first:
+      213: 4120123181149125799
+    second: ThugGirl_222
+  - first:
+      213: 1059591399814126395
+    second: ThugGirl_223
+  - first:
+      213: 7371333395074203485
+    second: ThugGirl_224
+  - first:
+      213: 2236375647810748522
+    second: ThugGirl_225
+  - first:
+      213: 8475500660239333443
+    second: ThugGirl_226
+  - first:
+      213: -7154275176659240353
+    second: ThugGirl_227
+  - first:
+      213: 4650554417339985038
+    second: ThugGirl_228
+  - first:
+      213: -883876484970017782
+    second: ThugGirl_229
+  - first:
+      213: -4262923447086773002
+    second: ThugGirl_230
+  - first:
+      213: -6194364490213222636
+    second: ThugGirl_231
+  - first:
+      213: 8627511969527825373
+    second: ThugGirl_232
+  - first:
+      213: -8420847634616004855
+    second: ThugGirl_233
+  - first:
+      213: -9052717233978353722
+    second: ThugGirl_234
+  - first:
+      213: -7363670482752723701
+    second: ThugGirl_235
+  - first:
+      213: 1619129462813856406
+    second: ThugGirl_236
+  - first:
+      213: 5129772144778295454
+    second: ThugGirl_237
+  - first:
+      213: -3644091556733921153
+    second: ThugGirl_238
+  - first:
+      213: 7945054710585185619
+    second: ThugGirl_239
+  - first:
+      213: 6728807889120687167
+    second: ThugGirl_240
+  - first:
+      213: -2858349933996374505
+    second: ThugGirl_241
+  - first:
+      213: -5470204018584997411
+    second: ThugGirl_242
+  - first:
+      213: 8104056829640719735
+    second: ThugGirl_243
+  - first:
+      213: 5990813399468081893
+    second: ThugGirl_244
+  - first:
+      213: 6574961728919524037
+    second: ThugGirl_245
+  - first:
+      213: -7719847472601619871
+    second: ThugGirl_246
+  - first:
+      213: 8826061408338239228
+    second: ThugGirl_247
+  - first:
+      213: 9038781355783415908
+    second: ThugGirl_248
+  - first:
+      213: 79211360963893781
+    second: ThugGirl_249
+  - first:
+      213: -4252804277210141992
+    second: ThugGirl_250
+  - first:
+      213: 4996261206870452906
+    second: ThugGirl_251
+  - first:
+      213: 3875729388583355667
+    second: ThugGirl_252
+  - first:
+      213: -8209548208735620739
+    second: ThugGirl_253
+  - first:
+      213: 505909890756708113
+    second: ThugGirl_254
+  - first:
+      213: -3204829274968831148
+    second: ThugGirl_255
+  - first:
+      213: 3395219481875866021
+    second: ThugGirl_256
+  - first:
+      213: -8237399115767712092
+    second: ThugGirl_257
+  - first:
+      213: 1130798941665659293
+    second: ThugGirl_258
+  - first:
+      213: -1245965702167380180
+    second: ThugGirl_259
+  - first:
+      213: 8459533196368548689
+    second: ThugGirl_260
+  - first:
+      213: 8305223714175467974
+    second: ThugGirl_261
+  - first:
+      213: -2576855005297064685
+    second: ThugGirl_262
+  - first:
+      213: 8195804387264727754
+    second: ThugGirl_263
+  - first:
+      213: -3105217314127916422
+    second: ThugGirl_264
+  - first:
+      213: -2129335720337051832
+    second: ThugGirl_265
+  - first:
+      213: 7123153544912837113
+    second: ThugGirl_266
+  - first:
+      213: 6924791564182027318
+    second: ThugGirl_267
+  - first:
+      213: -2763844360759760314
+    second: ThugGirl_268
+  - first:
+      213: -8675331186755224430
+    second: ThugGirl_269
+  - first:
+      213: -2864608890387740975
+    second: ThugGirl_270
+  - first:
+      213: 5032152078915821680
+    second: ThugGirl_271
+  - first:
+      213: -1226738735369288330
+    second: ThugGirl_272
+  - first:
+      213: 5852844129630245911
+    second: ThugGirl_273
+  - first:
+      213: -3014355606119058741
+    second: ThugGirl_274
+  - first:
+      213: -7317393302098120777
+    second: ThugGirl_275
+  - first:
+      213: -926377228909261755
+    second: ThugGirl_276
+  - first:
+      213: 8653516395570114066
+    second: ThugGirl_277
+  - first:
+      213: -1157367038184649074
+    second: ThugGirl_278
+  - first:
+      213: -3096781163219043638
+    second: ThugGirl_279
+  - first:
+      213: -5385492443348081690
+    second: ThugGirl_280
+  - first:
+      213: -8842481445248064419
+    second: ThugGirl_281
+  - first:
+      213: -8019603203791731883
+    second: ThugGirl_282
+  - first:
+      213: -4019786924279366406
+    second: ThugGirl_283
+  - first:
+      213: 7699803945976172030
+    second: ThugGirl_284
+  - first:
+      213: 5913851822975953575
+    second: ThugGirl_285
+  - first:
+      213: -1107489398558016945
+    second: ThugGirl_286
+  - first:
+      213: -8438254559847801323
+    second: ThugGirl_287
+  - first:
+      213: 6970724576358953115
+    second: ThugGirl_288
+  - first:
+      213: -8299593157223994012
+    second: ThugGirl_289
+  - first:
+      213: 6066467950813716831
+    second: ThugGirl_290
+  - first:
+      213: -7318165052581051439
+    second: ThugGirl_291
+  - first:
+      213: -3208722524586711531
+    second: ThugGirl_292
+  - first:
+      213: 8606604753119215105
+    second: ThugGirl_293
+  - first:
+      213: 8185745762412727205
+    second: ThugGirl_294
+  - first:
+      213: -6312466060420741676
+    second: ThugGirl_295
+  - first:
+      213: 1367497710691715116
+    second: ThugGirl_296
+  - first:
+      213: -1950525912844896254
+    second: ThugGirl_297
+  - first:
+      213: 2245270629356831142
+    second: ThugGirl_298
+  - first:
+      213: -3021112108200641441
+    second: ThugGirl_299
+  - first:
+      213: 2563744212016482742
+    second: ThugGirl_300
+  - first:
+      213: 569095787759690072
+    second: ThugGirl_301
+  - first:
+      213: -2672747136328487245
+    second: ThugGirl_302
+  - first:
+      213: 7472764457498295749
+    second: ThugGirl_303
+  - first:
+      213: 7715776391994416699
+    second: ThugGirl_304
+  - first:
+      213: -1418933293301375784
+    second: ThugGirl_305
+  - first:
+      213: -1315690166779888582
+    second: ThugGirl_306
+  - first:
+      213: -1599323823626270981
+    second: ThugGirl_307
+  - first:
+      213: 2384715022620894475
+    second: ThugGirl_308
+  - first:
+      213: 6738421126202986272
+    second: ThugGirl_309
+  - first:
+      213: -7348723566915763922
+    second: ThugGirl_310
+  - first:
+      213: 7936482135952440692
+    second: ThugGirl_311
+  - first:
+      213: -1245713693288391702
+    second: ThugGirl_312
+  - first:
+      213: 7173586418773382326
+    second: ThugGirl_313
+  - first:
+      213: 6685391679571054607
+    second: ThugGirl_314
+  - first:
+      213: -3319849627238090898
+    second: ThugGirl_315
+  - first:
+      213: 217743095571599100
+    second: ThugGirl_316
+  - first:
+      213: 5556089905568810158
+    second: ThugGirl_317
+  - first:
+      213: -4977642796274026812
+    second: ThugGirl_318
+  - first:
+      213: 4254798104958184174
+    second: ThugGirl_319
+  - first:
+      213: 5398552854621036354
+    second: ThugGirl_320
+  - first:
+      213: 8227221059577153690
+    second: ThugGirl_321
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThugGirl_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1247
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714637c8eef1b2b0800000000000000
+      internalID: -5570390988352503428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1247
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3732fbe872cd6a8e0800000000000000
+      internalID: -1682415348319575181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1247
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b484d9fd1e795c0800000000000000
+      internalID: -4208646976221721740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1247
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8078824882a05230800000000000000
+      internalID: 3625576406148739215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91841d4fc60028930800000000000000
+      internalID: 4143875075098101785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f5e21a947cbee0800000000000000
+      internalID: -1243991191970254268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8ca52e9f5e08da0800000000000000
+      internalID: -5944498646721836846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5685a92f77c5ca610800000000000000
+      internalID: 1633782435069712485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0568d5f816bedb6a0800000000000000
+      internalID: -6431725888565574064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574505ada6aa6f050800000000000000
+      internalID: 5834037743211009141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1183
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a30daff79c8aa80800000000000000
+      internalID: -8455286748882126255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961b497666f327220800000000000000
+      internalID: 2482116053691576681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7672072b5ac7425e0800000000000000
+      internalID: -1935284888757328025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3985237744b8efb0800000000000000
+      internalID: -4618243198900926149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64ac5a7cb8f4f40800000000000000
+      internalID: 5714940141752698580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29ab413101db640800000000000000
+      internalID: 5097248027391464184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce14be12f5688eb70800000000000000
+      internalID: 8928534004411089388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1183
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1788b6a3965c1e4a0800000000000000
+      internalID: -6565749725987108751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764f138772ea30d40800000000000000
+      internalID: 5549470650394080359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9243b96b13c596640800000000000000
+      internalID: 5073687823796352041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ae5c7d5891c1030800000000000000
+      internalID: 3466673875809856113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdde775b8022d5b0800000000000000
+      internalID: -5345174024894882312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e26970c749179c50800000000000000
+      internalID: 6671829168935232225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ede1752e26df5b00800000000000000
+      internalID: 819609150889782758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1119
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b4666a6b58eec50800000000000000
+      internalID: 6696436715468770110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1055
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d5b531c0b8829f0800000000000000
+      internalID: -492991275216446087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1055
+        width: 34
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad2b482e074a2650800000000000000
+      internalID: 6208853162414779818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c26ff6ed8ecd9f0800000000000000
+      internalID: -442222621330363259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1c777720b5689d0800000000000000
+      internalID: -2772428454447562259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b60995e55d4b5e0800000000000000
+      internalID: -1894654942009857256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540d325a9f380fee0800000000000000
+      internalID: -1229337590031462331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe199fc382b36cf0800000000000000
+      internalID: -260168074263978252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1119
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572b528d8594fe50800000000000000
+      internalID: 6842258168892565343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 193
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3874d80e860bb4470800000000000000
+      internalID: 8379985496143382403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1089
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0706e36bcdb60f260800000000000000
+      internalID: 7129316805822013552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1081
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd45ce605c3a9ddc0800000000000000
+      internalID: -3613677159368076068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1089
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44f4f23a27d6bad0800000000000000
+      internalID: -2686723551436409780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1063
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4435473edacd240800000000000000
+      internalID: 4817916893800383719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb438a773846560800000000000000
+      internalID: 7306109045448163124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1073
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf22e06f216e73a10800000000000000
+      internalID: 1889231537817133820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6141aedd2c6dadb0800000000000000
+      internalID: -4779044685305790102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc6b79a22c3feda0800000000000000
+      internalID: -5913441666144179008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b31ada7a58f0f0800000000000000
+      internalID: -1083016226691370027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b314c82a97db7f20800000000000000
+      internalID: 3421565399026897848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2582bfbebd4c44450800000000000000
+      internalID: 6072194646438258770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c1adb31463c5850800000000000000
+      internalID: 6367023626999962756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bf8de129cc0bba0800000000000000
+      internalID: -6075130969367970939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8b5d903859afd10800000000000000
+      internalID: 2160203361315829955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb13175c93e695e00800000000000000
+      internalID: 1033978783862960572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71ba4fbf9e8e15e0800000000000000
+      internalID: -1936953972962446981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bce51132c9887e0800000000000000
+      internalID: -1762987579686335586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_51
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa5bdfbdf709cf0800000000000000
+      internalID: -247557396674269291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4999d4f3f542ead40800000000000000
+      internalID: 5597451378370648468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728442a74a5bb5950800000000000000
+      internalID: 6438939810284718119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4292a53e27ff47460800000000000000
+      internalID: 7238691369996921124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870c847017059f7e0800000000000000
+      internalID: -1731264135363510152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4fdcf23e65d0ef0800000000000000
+      internalID: -140360479619025748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7153f018d30ae520800000000000000
+      internalID: 2732000350485827964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04618f73298337360800000000000000
+      internalID: 7166133632731977280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0c6dfbbaad53b920800000000000000
+      internalID: 3004848364266023947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a60d6682316c350800000000000000
+      internalID: 6036533414781282859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e51611b0b45fe140800000000000000
+      internalID: 4751109249761154534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989a47c784e80ade0800000000000000
+      internalID: -1323901848470115959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960fd99cd59425490800000000000000
+      internalID: -7759058540842586007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f640acb539f4bc640800000000000000
+      internalID: 5101258497245971567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_65
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 863
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4724a92f21d95ee30800000000000000
+      internalID: 4532201304723440244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f668f0fd8e154c8d0800000000000000
+      internalID: -2827044605465229713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255a2010c5c2ea9e0800000000000000
+      internalID: -1608299243259124398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_68
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be1497b936393a70800000000000000
+      internalID: 8807130167820689072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc105afecf12a4d0800000000000000
+      internalID: -3124900217618424578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_70
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67873821619cdaa0800000000000000
+      internalID: -6134868745912875157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_71
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12280102546e5a180800000000000000
+      internalID: -9104617887094504927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_72
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410c86d96529d28b0800000000000000
+      internalID: -5175319496073101292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_73
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec09df7d85487bd00800000000000000
+      internalID: 988404160346820814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_74
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad16f0464cdcacc0800000000000000
+      internalID: -3698338999682327134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_75
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d6986c661e0a7c0800000000000000
+      internalID: -4061999032354378448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_76
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7dac6c0820c40f0800000000000000
+      internalID: -1131526654262585428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_77
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa434063256b71f0800000000000000
+      internalID: -1046131285820224849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_78
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32a6f1c58a3b01a0800000000000000
+      internalID: -6842310862700109254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_79
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58def694812f0620800000000000000
+      internalID: 2742447551444605018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d787dd2292b2a07a0800000000000000
+      internalID: -6410263663929886595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9bbf6faf1cd29270800000000000000
+      internalID: 8255903095568972699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1caa11107446e090800000000000000
+      internalID: -8005636039490491361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4738655ecd294e2c0800000000000000
+      internalID: -4403233058223389836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4822dbb44d693f4c0800000000000000
+      internalID: -4254891384387067260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb1ca8013a9d830800000000000000
+      internalID: 4096484627512934140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 735
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac00c61f8351c720800000000000000
+      internalID: 2864662712011459754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564df3c798d955120800000000000000
+      internalID: 2401999190092665957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad2be4945a9e8520800000000000000
+      internalID: 2706270114162617772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_89
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e032ab780daaf50800000000000000
+      internalID: 6893551461005987338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_90
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ef374e175366dd0800000000000000
+      internalID: -2493246580422607309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654bd9e805ede7bc0800000000000000
+      internalID: -3783342199373188010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_92
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751e77f5ad11695c0800000000000000
+      internalID: -4209157172128915113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_93
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 735
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca6dc8023749eb30800000000000000
+      internalID: 4317059998032947908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_94
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8bdd4019a271b70800000000000000
+      internalID: 8869604793469745396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_95
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c388626423d560800000000000000
+      internalID: 7337248222995529750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_96
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade560d2a1def9020800000000000000
+      internalID: 2350858227191013082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_97
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f559a2e76a7a5cf0800000000000000
+      internalID: -262763041644784135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_98
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5928dae150680a0800000000000000
+      internalID: -6879805751443679746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_99
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f46b57fc8908450800000000000000
+      internalID: 6089034713005444927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_100
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e81fac430a732380800000000000000
+      internalID: -8997213475966084894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_101
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538d360c31cce1f40800000000000000
+      internalID: 5701218563501840437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_102
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf85106b62030340800000000000000
+      internalID: 4828705885668085680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_103
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b045070a3b560680800000000000000
+      internalID: -8789237317982928719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_104
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5867b79db86ff60800000000000000
+      internalID: 8067789548676351445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_105
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a10191c61742d00800000000000000
+      internalID: 947006530745539227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80aec76113227de70800000000000000
+      internalID: 9139811562997737992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eda30a2dd3e3b30800000000000000
+      internalID: 4268917471634448031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_108
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69401db8f03c9dd90800000000000000
+      internalID: -7072407268270996330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_109
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8cba66bb7dfb0b0800000000000000
+      internalID: -5710608602601109313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75209e0ddb9bd4cd0800000000000000
+      internalID: -2572195587253796265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_111
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe946ad6bfd223540800000000000000
+      internalID: 4986098295352216047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_112
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12469303062e637c0800000000000000
+      internalID: -4091834308665711583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_113
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd48383450c75c40800000000000000
+      internalID: 5501076937809350077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_114
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c387e2857a6732f0800000000000000
+      internalID: -993208139871976510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cd014efa9a65740800000000000000
+      internalID: 5140482597600680971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_116
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb4eb022a2a046b0800000000000000
+      internalID: -5314068743079441458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f0d59660d98a030800000000000000
+      internalID: 3506224960771002174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f117468a8a2a94980800000000000000
+      internalID: -8554127171950186209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_119
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cf455b1c8edffe0800000000000000
+      internalID: -1153510010868401055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_120
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ccfebb20a00ca0800000000000000
+      internalID: -6052661789437673135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_121
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2584d4f265a70200800000000000000
+      internalID: 146267357345776939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_122
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0840e7a150f9772e0800000000000000
+      internalID: -2128057454641150848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_123
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf460423d1a28370800000000000000
+      internalID: 8323392989548662702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_124
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a212864164544b0800000000000000
+      internalID: -5456878320029193578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_125
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc405c47ec9b7e060800000000000000
+      internalID: 6982754043634713804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_126
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f18feb23ed6f66a0800000000000000
+      internalID: -6453818918536510990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_127
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d30d6c786086070800000000000000
+      internalID: 8099731110051724677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_128
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cabf711cc0ac380800000000000000
+      internalID: -8950327285974848423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_129
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2736dc9f7a0fb40800000000000000
+      internalID: 5472058238589694625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_130
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5c4bd181b492c0800000000000000
+      internalID: -4425717362510242679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_131
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 671
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805144252c2d04ed0800000000000000
+      internalID: -2431712066734385912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d05531df270dae60800000000000000
+      internalID: 7975038417097806033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_133
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc69c0c210abbb40800000000000000
+      internalID: 5457131375893769461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_134
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb7609995fa87110800000000000000
+      internalID: 1258948895204342712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418c0d153e9bbf710800000000000000
+      internalID: 1728179268008069140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_136
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe7620dba95f1290800000000000000
+      internalID: -7917511025427579146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_137
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbd74d32497621a0800000000000000
+      internalID: -6834642059085227013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_138
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11aeff81e3ebe670800000000000000
+      internalID: 8569193273925476635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_139
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955bf166da954e730800000000000000
+      internalID: 4027442568053634393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_140
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6246139af7bd4d0800000000000000
+      internalID: -3108750753114347810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deae0f7bd3900d00800000000000000
+      internalID: 936911293431852755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_142
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a20ede0c6638ddb0800000000000000
+      internalID: -4767000367837871451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_143
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f019a1be6b1560e0800000000000000
+      internalID: -2277383874324918032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_144
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1952c7483777f990800000000000000
+      internalID: -7352276783053252324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_145
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dca14fcd8470360800000000000000
+      internalID: 7135752248417242422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_146
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716bd8fe3e56d56a0800000000000000
+      internalID: -6458894260928399849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_147
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00667875a68538670800000000000000
+      internalID: 8539766532182861312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_148
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219cd28d4a62c3c40800000000000000
+      internalID: 5493308134928533778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_149
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23771099535df46d0800000000000000
+      internalID: -3003948000255838414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_150
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3876027e620147470800000000000000
+      internalID: 8391349764970538883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_151
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f4a6bbbfdd80d60800000000000000
+      internalID: 7856773623198666605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_152
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9f82efade360930800000000000000
+      internalID: 4109040820310047190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_153
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 607
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc4ccedab03155b0800000000000000
+      internalID: -5381466500571050798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_154
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c5cbf71c22fd2f0800000000000000
+      internalID: -945999182257431470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_155
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04daff8cac9616400800000000000000
+      internalID: 315649768569154880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d66d9b1d51f7c60800000000000000
+      internalID: 7817991468648656246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_157
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226a67fa2d76963b0800000000000000
+      internalID: -5518765713781250526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8e40b9eec279410800000000000000
+      internalID: 1483704005556496575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c3182d4210ad5e0800000000000000
+      internalID: -1884192236438995920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_160
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c8859756a760ea0800000000000000
+      internalID: -5906899285003695036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_161
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b2a6a2829ff9f20800000000000000
+      internalID: 3431735391985216386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_162
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d0d6773a3f37960800000000000000
+      internalID: 7598684879713013086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_163
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39ee6dd91bee5110800000000000000
+      internalID: 1251696242777319741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_164
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8432eec74a922fc0800000000000000
+      internalID: -3521082325446019957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_165
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4054ca583a0b6fba0800000000000000
+      internalID: -6055458432584235772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_166
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727812ae27e60c820800000000000000
+      internalID: 2936468396878956327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_167
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fced0a89bb63db0800000000000000
+      internalID: -4812452887590416572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_168
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8a4390ea230d3e0800000000000000
+      internalID: -2031067708883949318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_169
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e50fbc5dd6feec0800000000000000
+      internalID: -3535486417445560809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_170
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908a80c97213164f0800000000000000
+      internalID: -837334009522903031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_171
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf39e252410358eb0800000000000000
+      internalID: -4718312171519437829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_172
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d114bb09875a1a20800000000000000
+      internalID: 3033833545105936849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_173
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1edec673b0df6d50800000000000000
+      internalID: 6732829437153173018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_174
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baad1834485a13210800000000000000
+      internalID: 1311010954028374699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_175
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949cecaf80859ae0800000000000000
+      internalID: -1543185942734662501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_176
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb723a859db1477f0800000000000000
+      internalID: -615836628733974597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_177
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e162dcd8e78040800000000000000
+      internalID: 4649941175403405647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_178
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b0dab2c67db6150800000000000000
+      internalID: 5867019799169403648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_179
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cff4645e901f680800000000000000
+      internalID: -8723180122908132272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_180
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2996a7ec36937b000800000000000000
+      internalID: 51573021566724498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_181
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e5b083a21dc9600800000000000000
+      internalID: 476485639853530712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_182
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386b52ee08739dcb0800000000000000
+      internalID: -4838775297742096765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_183
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab0c1b8107a9a10800000000000000
+      internalID: 1916967842763291271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_184
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5a1995f3c1cddf0800000000000000
+      internalID: -154217228826204745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_185
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 543
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d860093e03cf5cb70800000000000000
+      internalID: 8918811923983632013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad93520145d31a560800000000000000
+      internalID: 7323201900338559450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_187
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b611f3019bc1e0190800000000000000
+      internalID: -7994420707368955541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_188
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00188fe15eaa3d10800000000000000
+      internalID: 2106187442683383820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_189
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368e9dee63293d670800000000000000
+      internalID: 8562348081194592355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_190
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317cf989ff1b0ce80800000000000000
+      internalID: -8160326813459953901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_191
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22f34532359bc560800000000000000
+      internalID: 7335120460977533486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_192
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8f2e9bacb987120800000000000000
+      internalID: 2411848895461259464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_193
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59acf33d0b34ee530800000000000000
+      internalID: 3886117955204795029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_194
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e47900982da59d0800000000000000
+      internalID: -2784681933712961928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_195
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 479
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ecab211b050300e0800000000000000
+      internalID: -2304993039192707872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_196
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595b49136913483e0800000000000000
+      internalID: -2052461009027418731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_197
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b263d0e35e2a5c0800000000000000
+      internalID: -4205547047338235049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_198
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a10865d2b8011840800000000000000
+      internalID: 5192941409512456613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_199
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d227101d095a8b2f0800000000000000
+      internalID: -956832879415823827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_200
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 479
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97778d4af13cf5fb0800000000000000
+      internalID: -4656788949000751239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_201
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429a3599819cf7220800000000000000
+      internalID: 2485926626820598052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_202
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f954a34d590200800000000000000
+      internalID: 146751007967803776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_203
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c034ded6c95d0af10800000000000000
+      internalID: 2279056279285351180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_204
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f6447ad82073ce0800000000000000
+      internalID: -1425667949619548288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_205
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6d3232115d1a330800000000000000
+      internalID: 3720489036765452009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_206
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97028d46556bf530800000000000000
+      internalID: 3889814124506515358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_207
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97c83437bf1c1ee0800000000000000
+      internalID: -1289120521619191907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_208
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce637f33c8320aad0800000000000000
+      internalID: -2693113492093323540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_209
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d46a4089b56be350800000000000000
+      internalID: 6047038772070737112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_210
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 479
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2721ce17cfbbbc0f0800000000000000
+      internalID: -1095575391417134478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_211
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9b976d195b26b90800000000000000
+      internalID: -7250032812139890198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_212
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1a20a0718a78e50800000000000000
+      internalID: 6811597778326823408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_213
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525f27aa607099a50800000000000000
+      internalID: 6528256860061103397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_214
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2479e5cac57d3590800000000000000
+      internalID: -7692863074714684373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_215
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 479
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9fc0b5c35693620800000000000000
+      internalID: 2754343957013789099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fb94f5aebcc3770800000000000000
+      internalID: 8591966396597518121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_217
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8255bf7672d802500800000000000000
+      internalID: 369450369832146216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_218
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 415
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b713cf9b00b9b6f0800000000000000
+      internalID: -668309505716316233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_219
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa21b99e2de70cbf0800000000000000
+      internalID: -306105330333707601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_220
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3b1a1bed125ee0800000000000000
+      internalID: -1273922848999916632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_221
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afc7c62fa9ebfb60800000000000000
+      internalID: 7781069719691841444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_222
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acfe33343e9d2930800000000000000
+      internalID: 4120123181149125799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_223
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bdaf0a3cc64be00800000000000000
+      internalID: 1059591399814126395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_224
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f3f56faac3c4660800000000000000
+      internalID: 7371333395074203485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_225
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 415
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6008188dc3390f10800000000000000
+      internalID: 2236375647810748522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_226
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348772302f60f9570800000000000000
+      internalID: 8475500660239333443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_227
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ab4ddb1a8e6bc90800000000000000
+      internalID: -7154275176659240353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_228
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c6c265a961a8040800000000000000
+      internalID: 4650554417339985038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_229
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c8a081507dbb3f0800000000000000
+      internalID: -883876484970017782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc85b7f5bd07d4c0800000000000000
+      internalID: -4262923447086773002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_231
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4171c87b052390aa0800000000000000
+      internalID: -6194364490213222636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_232
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3032ffc641bb770800000000000000
+      internalID: 8627511969527825373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_233
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f460f11b3232b80800000000000000
+      internalID: -8420847634616004855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_234
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7d9a893a94e5280800000000000000
+      internalID: -9052717233978353722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_235
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05ae78d5bcfec990800000000000000
+      internalID: -7363670482752723701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_236
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692936cfaad487610800000000000000
+      internalID: 1619129462813856406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_237
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e983434469c903740800000000000000
+      internalID: 5129772144778295454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_238
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78dfdf49069d6dc0800000000000000
+      internalID: -3644091556733921153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_239
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 351
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35559712a21824e60800000000000000
+      internalID: 7945054710585185619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_240
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3472e8df17816d50800000000000000
+      internalID: 6728807889120687167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_241
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716826411e91558d0800000000000000
+      internalID: -2858349933996374505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_242
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1b35f6d6ee514b0800000000000000
+      internalID: -5470204018584997411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_243
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 351
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d305adfb4677070800000000000000
+      internalID: 8104056829640719735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_244
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e202fecb05a32350800000000000000
+      internalID: 5990813399468081893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_245
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c259085bd4fe3b50800000000000000
+      internalID: 6574961728919524037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_246
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 287
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162226b00a79dd490800000000000000
+      internalID: -7719847472601619871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_247
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfed8c1a6187c7a70800000000000000
+      internalID: 8826061408338239228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_248
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468e4e9e0c3307d70800000000000000
+      internalID: 9038781355783415908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_249
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a9d68205a691100800000000000000
+      internalID: 79211360963893781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_250
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa0adca010bf4c0800000000000000
+      internalID: -4252804277210141992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_251
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaae398a819465540800000000000000
+      internalID: 4996261206870452906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_252
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3158d0c285b59c530800000000000000
+      internalID: 3875729388583355667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_253
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 287
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717ed37663d11e80800000000000000
+      internalID: -8209548208735620739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_254
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11709ee7d5a550700800000000000000
+      internalID: 505909890756708113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_255
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bc5bb11c82683d0800000000000000
+      internalID: -3204829274968831148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_256
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a162bf412e3e1f20800000000000000
+      internalID: 3395219481875866021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_257
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a67c87d521eead80800000000000000
+      internalID: -8237399115767712092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_258
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d998e5e65a761bf00800000000000000
+      internalID: 1130798941665659293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_259
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f3ef79bc075bee0800000000000000
+      internalID: -1245965702167380180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_260
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1531c2f1f9c466570800000000000000
+      internalID: 8459533196368548689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_261
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1449f07f4124370800000000000000
+      internalID: 8305223714175467974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_262
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315c493860c2d3cd0800000000000000
+      internalID: -2576855005297064685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_263
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca808fbaa85db170800000000000000
+      internalID: 8195804387264727754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_264
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7253011e4d08e4d0800000000000000
+      internalID: -3105217314127916422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_265
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f62cda1741372e0800000000000000
+      internalID: -2129335720337051832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_266
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f91815b8668ad260800000000000000
+      internalID: 7123153544912837113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_267
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cf0be0d3dc91060800000000000000
+      internalID: 6924791564182027318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_268
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64aa276823ad4a9d0800000000000000
+      internalID: -2763844360759760314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_269
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c3690ef380b9780800000000000000
+      internalID: -8675331186755224430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_270
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6430c346dde38d0800000000000000
+      internalID: -2864608890387740975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_271
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070658f77abc5d540800000000000000
+      internalID: 5032152078915821680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_272
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6750a16ae9fb9fee0800000000000000
+      internalID: -1226738735369288330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_273
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7145758e9ba793150800000000000000
+      internalID: 5852844129630245911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_274
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f0960c8bda26d0800000000000000
+      internalID: -3014355606119058741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_275
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf6e9a9f85637a90800000000000000
+      internalID: -7317393302098120777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_276
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c4ad681d8d423f0800000000000000
+      internalID: -926377228909261755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_277
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ea9ff3057771870800000000000000
+      internalID: 8653516395570114066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_278
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e024e8fc430ffe0800000000000000
+      internalID: -1157367038184649074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_279
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca353380f50605d0800000000000000
+      internalID: -3096781163219043638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_280
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3efa50823e245b0800000000000000
+      internalID: -5385492443348081690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_281
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54a10b99f1394580800000000000000
+      internalID: -8842481445248064419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_282
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553c8663065a4b090800000000000000
+      internalID: -8019603203791731883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_283
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc71911719d638c0800000000000000
+      internalID: -4019786924279366406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_284
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8f00c4e23bda60800000000000000
+      internalID: 7699803945976172030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_285
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa27ca66e8321250800000000000000
+      internalID: 5913851822975953575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_286
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a307e724861a0f0800000000000000
+      internalID: -1107489398558016945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_287
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e93f38f2c45ea80800000000000000
+      internalID: -8438254559847801323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_288
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90f5f8d11dfcb060800000000000000
+      internalID: 6970724576358953115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_289
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46da6632ffbe1dc80800000000000000
+      internalID: -8299593157223994012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_290
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f512b81b57c603450800000000000000
+      internalID: 6066467950813716831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_291
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d38a3178a7a07a90800000000000000
+      internalID: -7318165052581051439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_292
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e63b4dd35873d0800000000000000
+      internalID: -3208722524586711531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_293
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10efbd75c6dc07770800000000000000
+      internalID: 8606604753119215105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_294
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 223
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab0546a66c999170800000000000000
+      internalID: 8185745762412727205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_295
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d589eb109d9568a0800000000000000
+      internalID: -6312466060420741676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_296
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2880fc2ce35af210800000000000000
+      internalID: 1367497710691715116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_297
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2087faf34075ee4e0800000000000000
+      internalID: -1950525912844896254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_298
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a18e6fcdbdc82f10800000000000000
+      internalID: 2245270629356831142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_299
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cb11c4b8ad216d0800000000000000
+      internalID: -3021112108200641441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_300
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 254
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9c43c07cf349320800000000000000
+      internalID: 2563744212016482742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_301
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85166909a95d5e700800000000000000
+      internalID: 569095787759690072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_302
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bea2bce3ae78ead0800000000000000
+      internalID: -2672747136328487245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_303
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdb9538ea794b760800000000000000
+      internalID: 7472764457498295749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_304
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e1c23afb1f31b60800000000000000
+      internalID: 7715776391994416699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_305
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcdbc400bfee4ce0800000000000000
+      internalID: -1418933293301375784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_306
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 159
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c3c9e93cabdbde0800000000000000
+      internalID: -1315690166779888582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_307
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6cfebb47f0ec9e0800000000000000
+      internalID: -1599323823626270981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_308
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b052bd5ada5381120800000000000000
+      internalID: 2384715022620894475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_309
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 158
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f0156005ea38d50800000000000000
+      internalID: 6738421126202986272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_310
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21c171e9d6140a90800000000000000
+      internalID: -7348723566915763922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_311
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47dbdaf047c042e60800000000000000
+      internalID: 7936482135952440692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_312
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 116
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb94bbfef556bee0800000000000000
+      internalID: -1245713693288391702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_313
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4dd8037d2bd8360800000000000000
+      internalID: 7173586418773382326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_314
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f005f25df4847cc50800000000000000
+      internalID: 6685391679571054607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_315
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67b2c47a568de1d0800000000000000
+      internalID: -3319849627238090898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_316
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfec6d71134950300800000000000000
+      internalID: 217743095571599100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_317
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea40099e4523b1d40800000000000000
+      internalID: 5556089905568810158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_318
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6fd4ddf3cdbeab0800000000000000
+      internalID: -4977642796274026812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_319
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaa90565541c0b30800000000000000
+      internalID: 4254798104958184174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_320
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f9bd0f7338bea40800000000000000
+      internalID: 5398552854621036354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugGirl_321
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9885b8c6f5fc2270800000000000000
+      internalID: 8227221059577153690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

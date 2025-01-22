@@ -1,0 +1,8167 @@
+fileFormatVersion: 2
+guid: d243247d5b6137744ad59859e5643507
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5381981863446967354
+    second: Julia_0
+  - first:
+      213: -5047975778923970875
+    second: Julia_1
+  - first:
+      213: -1159783702942977221
+    second: Julia_2
+  - first:
+      213: -5622874835580661025
+    second: Julia_3
+  - first:
+      213: -3951574018562368983
+    second: Julia_4
+  - first:
+      213: -6150678692104304050
+    second: Julia_5
+  - first:
+      213: -7875288067838574899
+    second: Julia_6
+  - first:
+      213: -4941338686296032814
+    second: Julia_7
+  - first:
+      213: -5079488196013797039
+    second: Julia_8
+  - first:
+      213: -5591334484118721494
+    second: Julia_9
+  - first:
+      213: 2123278046355878277
+    second: Julia_10
+  - first:
+      213: -361598932321162361
+    second: Julia_11
+  - first:
+      213: -2951478148576278841
+    second: Julia_12
+  - first:
+      213: 1695102461901581060
+    second: Julia_13
+  - first:
+      213: 799546081518241830
+    second: Julia_14
+  - first:
+      213: 771710719870284506
+    second: Julia_15
+  - first:
+      213: 4026215234962645516
+    second: Julia_16
+  - first:
+      213: 8299464180836127059
+    second: Julia_17
+  - first:
+      213: 2227667860618112207
+    second: Julia_18
+  - first:
+      213: 1817881229616188426
+    second: Julia_19
+  - first:
+      213: 6785818616381582027
+    second: Julia_20
+  - first:
+      213: -2762861699120595604
+    second: Julia_21
+  - first:
+      213: 2274294611098441087
+    second: Julia_22
+  - first:
+      213: -3972421883363591490
+    second: Julia_23
+  - first:
+      213: -2334690433237679427
+    second: Julia_24
+  - first:
+      213: 3456532293291786131
+    second: Julia_25
+  - first:
+      213: -8515771575762413118
+    second: Julia_26
+  - first:
+      213: 5962118505219531217
+    second: Julia_27
+  - first:
+      213: -8839773321735816802
+    second: Julia_28
+  - first:
+      213: -5344263118810115581
+    second: Julia_29
+  - first:
+      213: -6545597602010679087
+    second: Julia_30
+  - first:
+      213: -1644100138308137767
+    second: Julia_31
+  - first:
+      213: -2238274969643828092
+    second: Julia_32
+  - first:
+      213: 3656290362269455080
+    second: Julia_33
+  - first:
+      213: 4127033029533609568
+    second: Julia_34
+  - first:
+      213: -758225618978635184
+    second: Julia_35
+  - first:
+      213: -7708106859896411886
+    second: Julia_36
+  - first:
+      213: -5830642718807898729
+    second: Julia_37
+  - first:
+      213: -2347217474092739248
+    second: Julia_38
+  - first:
+      213: 4786851292138009368
+    second: Julia_39
+  - first:
+      213: -6067981674164225272
+    second: Julia_40
+  - first:
+      213: -8083333162335107137
+    second: Julia_41
+  - first:
+      213: -5728371080006680081
+    second: Julia_42
+  - first:
+      213: 6913901475420823665
+    second: Julia_43
+  - first:
+      213: 3657128851741486978
+    second: Julia_44
+  - first:
+      213: 3478298531930247946
+    second: Julia_45
+  - first:
+      213: 8200036603507478208
+    second: Julia_46
+  - first:
+      213: 8561677198103594792
+    second: Julia_47
+  - first:
+      213: -4777926269447982490
+    second: Julia_48
+  - first:
+      213: -6109363886339620205
+    second: Julia_49
+  - first:
+      213: 3607687955462289389
+    second: Julia_50
+  - first:
+      213: 6229137939242081854
+    second: Julia_51
+  - first:
+      213: 8141606620771387236
+    second: Julia_52
+  - first:
+      213: -7205085328035350855
+    second: Julia_53
+  - first:
+      213: 3683224745021144854
+    second: Julia_54
+  - first:
+      213: 5947224605880804965
+    second: Julia_55
+  - first:
+      213: -2513119839698982435
+    second: Julia_56
+  - first:
+      213: -2189450801214475412
+    second: Julia_57
+  - first:
+      213: 3308322381118792021
+    second: Julia_58
+  - first:
+      213: -2616907790118942822
+    second: Julia_59
+  - first:
+      213: -817909841717007606
+    second: Julia_60
+  - first:
+      213: 1140519592555505623
+    second: Julia_61
+  - first:
+      213: 8938693352804572393
+    second: Julia_62
+  - first:
+      213: -8633777351490107858
+    second: Julia_63
+  - first:
+      213: -283396299600048860
+    second: Julia_64
+  - first:
+      213: -4068640597081804219
+    second: Julia_65
+  - first:
+      213: 9072830242242026729
+    second: Julia_66
+  - first:
+      213: 2666650433550801971
+    second: Julia_67
+  - first:
+      213: -5450546000985734340
+    second: Julia_68
+  - first:
+      213: 9080449735633918251
+    second: Julia_69
+  - first:
+      213: -7533400659528565935
+    second: Julia_70
+  - first:
+      213: -3837889697030064288
+    second: Julia_71
+  - first:
+      213: -229372195467285129
+    second: Julia_72
+  - first:
+      213: 4795959822214502440
+    second: Julia_73
+  - first:
+      213: 6779503497604939901
+    second: Julia_74
+  - first:
+      213: 7711360436476939643
+    second: Julia_75
+  - first:
+      213: 2105929727278885844
+    second: Julia_76
+  - first:
+      213: -6153241340267417775
+    second: Julia_77
+  - first:
+      213: 3839133328867764658
+    second: Julia_78
+  - first:
+      213: -6977185759663881852
+    second: Julia_79
+  - first:
+      213: -1873832551569954699
+    second: Julia_80
+  - first:
+      213: -7887292352750594066
+    second: Julia_81
+  - first:
+      213: -8870554599346809842
+    second: Julia_82
+  - first:
+      213: 3343036729290393991
+    second: Julia_83
+  - first:
+      213: 3458054308093001521
+    second: Julia_84
+  - first:
+      213: -2016996562978827870
+    second: Julia_85
+  - first:
+      213: -8839252496993009296
+    second: Julia_86
+  - first:
+      213: 5574493577188030079
+    second: Julia_87
+  - first:
+      213: -873770241289434865
+    second: Julia_88
+  - first:
+      213: -2274647479460005777
+    second: Julia_89
+  - first:
+      213: -7896341130968400306
+    second: Julia_90
+  - first:
+      213: -345736853789118232
+    second: Julia_91
+  - first:
+      213: -5496946648191153275
+    second: Julia_92
+  - first:
+      213: 1711511054497397563
+    second: Julia_93
+  - first:
+      213: 1937643491157423220
+    second: Julia_94
+  - first:
+      213: -3513073052559574534
+    second: Julia_95
+  - first:
+      213: 6912999170336351902
+    second: Julia_96
+  - first:
+      213: -3920731581643285736
+    second: Julia_97
+  - first:
+      213: -1677342472181060817
+    second: Julia_98
+  - first:
+      213: 1953231354578592768
+    second: Julia_99
+  - first:
+      213: 5339271696520538735
+    second: Julia_100
+  - first:
+      213: 2647840937020546435
+    second: Julia_101
+  - first:
+      213: -8788846194867937454
+    second: Julia_102
+  - first:
+      213: 730349861566899841
+    second: Julia_103
+  - first:
+      213: 760132986099630999
+    second: Julia_104
+  - first:
+      213: -1135360576160200253
+    second: Julia_105
+  - first:
+      213: 5149270798210642930
+    second: Julia_106
+  - first:
+      213: -6254754883519455186
+    second: Julia_107
+  - first:
+      213: 8210797037089430558
+    second: Julia_108
+  - first:
+      213: -5264322001891860560
+    second: Julia_109
+  - first:
+      213: -8124034871248933273
+    second: Julia_110
+  - first:
+      213: 1615549046973513526
+    second: Julia_111
+  - first:
+      213: 8548787873846412900
+    second: Julia_112
+  - first:
+      213: 6294145997148453699
+    second: Julia_113
+  - first:
+      213: -8915058184839615203
+    second: Julia_114
+  - first:
+      213: 20732276694141377
+    second: Julia_115
+  - first:
+      213: -2311824639805367985
+    second: Julia_116
+  - first:
+      213: 3924392846129506592
+    second: Julia_117
+  - first:
+      213: -6704418659772147003
+    second: Julia_118
+  - first:
+      213: 1863998066077095343
+    second: Julia_119
+  - first:
+      213: -8012562148218406017
+    second: Julia_120
+  - first:
+      213: -8727296016084586472
+    second: Julia_121
+  - first:
+      213: 2813854441195447770
+    second: Julia_122
+  - first:
+      213: 886285055739978695
+    second: Julia_123
+  - first:
+      213: 8636821602529050137
+    second: Julia_124
+  - first:
+      213: -4821935189898297168
+    second: Julia_125
+  - first:
+      213: 7690278185825006309
+    second: Julia_126
+  - first:
+      213: -5684574086078193880
+    second: Julia_127
+  - first:
+      213: 5116054579426723838
+    second: Julia_128
+  - first:
+      213: 4731211972610232887
+    second: Julia_129
+  - first:
+      213: 6674755849055783942
+    second: Julia_130
+  - first:
+      213: 2167120097153936713
+    second: Julia_131
+  - first:
+      213: 5981335708339551667
+    second: Julia_132
+  - first:
+      213: 4913536505633287510
+    second: Julia_133
+  - first:
+      213: -5194935510658728850
+    second: Julia_134
+  - first:
+      213: -6604907905344963320
+    second: Julia_135
+  - first:
+      213: -1178586137072830423
+    second: Julia_136
+  - first:
+      213: -6052316029543717706
+    second: Julia_137
+  - first:
+      213: 5208253345815190645
+    second: Julia_138
+  - first:
+      213: 7818346614520784991
+    second: Julia_139
+  - first:
+      213: -746963777928496929
+    second: Julia_140
+  - first:
+      213: 362771859905192507
+    second: Julia_141
+  - first:
+      213: 1061895872856035886
+    second: Julia_142
+  - first:
+      213: -8676932248675252721
+    second: Julia_143
+  - first:
+      213: -1258489725694861974
+    second: Julia_144
+  - first:
+      213: 1606901773750119957
+    second: Julia_145
+  - first:
+      213: 4659350303439257954
+    second: Julia_146
+  - first:
+      213: -1990541023393187515
+    second: Julia_147
+  - first:
+      213: -6057292128523548903
+    second: Julia_148
+  - first:
+      213: 2657208648265919644
+    second: Julia_149
+  - first:
+      213: 2263978149581024466
+    second: Julia_150
+  - first:
+      213: 8336410103302748847
+    second: Julia_151
+  - first:
+      213: 3774294339693699712
+    second: Julia_152
+  - first:
+      213: 6282694477619096484
+    second: Julia_153
+  - first:
+      213: 894112333435272170
+    second: Julia_154
+  - first:
+      213: -135210272347288153
+    second: Julia_155
+  - first:
+      213: -6661365728176471817
+    second: Julia_156
+  - first:
+      213: -6224510437730072965
+    second: Julia_157
+  - first:
+      213: 2600819817256030833
+    second: Julia_158
+  - first:
+      213: -3016411535214999171
+    second: Julia_159
+  - first:
+      213: -5200876595873779629
+    second: Julia_160
+  - first:
+      213: 1525771899260915414
+    second: Julia_161
+  - first:
+      213: 7673574005987486632
+    second: Julia_162
+  - first:
+      213: -3971036998930022396
+    second: Julia_163
+  - first:
+      213: -1712896554225611336
+    second: Julia_164
+  - first:
+      213: -453997383781103078
+    second: Julia_165
+  - first:
+      213: -3230331178547937610
+    second: Julia_166
+  - first:
+      213: 8323314894051334579
+    second: Julia_167
+  - first:
+      213: 7741500874393414241
+    second: Julia_168
+  - first:
+      213: 4760383527911413837
+    second: Julia_169
+  - first:
+      213: 2049257661724911297
+    second: Julia_170
+  - first:
+      213: -6230596629365205412
+    second: Julia_171
+  - first:
+      213: 8771619824952435682
+    second: Julia_172
+  - first:
+      213: -2085519882106461075
+    second: Julia_173
+  - first:
+      213: -8348790231806335667
+    second: Julia_174
+  - first:
+      213: 451849845197665383
+    second: Julia_175
+  - first:
+      213: 2747661455499054904
+    second: Julia_176
+  - first:
+      213: -4461201181454365846
+    second: Julia_177
+  - first:
+      213: -1666961372073447809
+    second: Julia_178
+  - first:
+      213: -4451813263958622053
+    second: Julia_179
+  - first:
+      213: -1842520726276034386
+    second: Julia_180
+  - first:
+      213: 597434524202193521
+    second: Julia_181
+  - first:
+      213: 365904540167176908
+    second: Julia_182
+  - first:
+      213: 7463597650631887193
+    second: Julia_183
+  - first:
+      213: 375820703586999513
+    second: Julia_184
+  - first:
+      213: 4569722454202298970
+    second: Julia_185
+  - first:
+      213: 3050244191142963648
+    second: Julia_186
+  - first:
+      213: -2903121170305275209
+    second: Julia_187
+  - first:
+      213: 9000140746041412757
+    second: Julia_188
+  - first:
+      213: -4318707943023301294
+    second: Julia_189
+  - first:
+      213: 4779209805533014522
+    second: Julia_190
+  - first:
+      213: 4059563773942410354
+    second: Julia_191
+  - first:
+      213: -6839194565434174478
+    second: Julia_192
+  - first:
+      213: -1193548052544811519
+    second: Julia_193
+  - first:
+      213: 6630308256028036188
+    second: Julia_194
+  - first:
+      213: -1108250916522097612
+    second: Julia_195
+  - first:
+      213: 3392556485752272138
+    second: Julia_196
+  - first:
+      213: 7074443051636278568
+    second: Julia_197
+  - first:
+      213: -8418349662723213448
+    second: Julia_198
+  - first:
+      213: -593331767757803691
+    second: Julia_199
+  - first:
+      213: -8074496286990330857
+    second: Julia_200
+  - first:
+      213: 8038137917981850670
+    second: Julia_201
+  - first:
+      213: -7785474607288353845
+    second: Julia_202
+  - first:
+      213: -6630977825678251779
+    second: Julia_203
+  - first:
+      213: 1855454143687334553
+    second: Julia_204
+  - first:
+      213: 3172516676584076380
+    second: Julia_205
+  - first:
+      213: 8436002503554239903
+    second: Julia_206
+  - first:
+      213: -2364928832925021374
+    second: Julia_207
+  - first:
+      213: -8577045389195103521
+    second: Julia_208
+  - first:
+      213: 5104366037198938662
+    second: Julia_209
+  - first:
+      213: -2872765655416511710
+    second: Julia_210
+  - first:
+      213: -2666718699941047291
+    second: Julia_211
+  - first:
+      213: 2594319741874097635
+    second: Julia_212
+  - first:
+      213: -2453451870369713988
+    second: Julia_213
+  - first:
+      213: -5952991609427383918
+    second: Julia_214
+  - first:
+      213: -73303604392625345
+    second: Julia_215
+  - first:
+      213: 444827453979146315
+    second: Julia_216
+  - first:
+      213: 3366001708757299165
+    second: Julia_217
+  - first:
+      213: -3317718663784095682
+    second: Julia_218
+  - first:
+      213: -2260420972253369259
+    second: Julia_219
+  - first:
+      213: 4686176356493282515
+    second: Julia_220
+  - first:
+      213: 3272101107373688875
+    second: Julia_221
+  - first:
+      213: 550825406363136244
+    second: Julia_222
+  - first:
+      213: 4357778287604748876
+    second: Julia_223
+  - first:
+      213: 8817527863592158971
+    second: Julia_224
+  - first:
+      213: 1639457867524893797
+    second: Julia_225
+  - first:
+      213: 2232538407953364907
+    second: Julia_226
+  - first:
+      213: 7688487825120060618
+    second: Julia_227
+  - first:
+      213: -4649257933400860134
+    second: Julia_228
+  - first:
+      213: -4843283209402587002
+    second: Julia_229
+  - first:
+      213: 8491736848770905580
+    second: Julia_230
+  - first:
+      213: 3152675457403931856
+    second: Julia_231
+  - first:
+      213: -4782270821848821947
+    second: Julia_232
+  - first:
+      213: -8829652232811066694
+    second: Julia_233
+  - first:
+      213: 6444530377106738767
+    second: Julia_234
+  - first:
+      213: 945309519902280595
+    second: Julia_235
+  - first:
+      213: 63994439675033028
+    second: Julia_236
+  - first:
+      213: 1606486270122377227
+    second: Julia_237
+  - first:
+      213: -1821674050538802593
+    second: Julia_238
+  - first:
+      213: -3876424345807116575
+    second: Julia_239
+  - first:
+      213: -3852761562054665574
+    second: Julia_240
+  - first:
+      213: 8968918788929155055
+    second: Julia_241
+  - first:
+      213: -8809099073006035633
+    second: Julia_242
+  - first:
+      213: -8308155851911253579
+    second: Julia_243
+  - first:
+      213: -2036147726089786806
+    second: Julia_244
+  - first:
+      213: -8269448580434648152
+    second: Julia_245
+  - first:
+      213: 398335349508125083
+    second: Julia_246
+  - first:
+      213: -4972718933920210594
+    second: Julia_247
+  - first:
+      213: -6449436367649385934
+    second: Julia_248
+  - first:
+      213: 606423974647081416
+    second: Julia_249
+  - first:
+      213: 4555181108115466658
+    second: Julia_250
+  - first:
+      213: -8537077617798949788
+    second: Julia_251
+  - first:
+      213: -5236943953286237801
+    second: Julia_252
+  - first:
+      213: -4290355508296055720
+    second: Julia_253
+  - first:
+      213: 3461844995504086140
+    second: Julia_254
+  - first:
+      213: -4910314050640592819
+    second: Julia_255
+  - first:
+      213: 4211766254467724233
+    second: Julia_256
+  - first:
+      213: -7379163925514191500
+    second: Julia_257
+  - first:
+      213: 2048028807723836013
+    second: Julia_258
+  - first:
+      213: 3192182191050513571
+    second: Julia_259
+  - first:
+      213: -1154768265919090282
+    second: Julia_260
+  - first:
+      213: -3054299108800325687
+    second: Julia_261
+  - first:
+      213: 6837757061084691140
+    second: Julia_262
+  - first:
+      213: -7001967223960051949
+    second: Julia_263
+  - first:
+      213: -3103298282095783972
+    second: Julia_264
+  - first:
+      213: -3599152915196966085
+    second: Julia_265
+  - first:
+      213: -1783136044029674355
+    second: Julia_266
+  - first:
+      213: 3874478554716920134
+    second: Julia_267
+  - first:
+      213: 1397525662076775001
+    second: Julia_268
+  - first:
+      213: 3227147705573578984
+    second: Julia_269
+  - first:
+      213: -1987383177645358154
+    second: Julia_270
+  - first:
+      213: 4614145094150045470
+    second: Julia_271
+  - first:
+      213: 4087847239027071518
+    second: Julia_272
+  - first:
+      213: 1535904893403755034
+    second: Julia_273
+  - first:
+      213: 3287266362701809241
+    second: Julia_274
+  - first:
+      213: -3531284930115289264
+    second: Julia_275
+  - first:
+      213: 7537479592461901145
+    second: Julia_276
+  - first:
+      213: -8615588042859513097
+    second: Julia_277
+  - first:
+      213: 1882511585072551353
+    second: Julia_278
+  - first:
+      213: 7180880689495599414
+    second: Julia_279
+  - first:
+      213: -5029752465944938672
+    second: Julia_280
+  - first:
+      213: 6040188484866405504
+    second: Julia_281
+  - first:
+      213: -7175539983775211234
+    second: Julia_282
+  - first:
+      213: -6576082851345125347
+    second: Julia_283
+  - first:
+      213: -2932798723875474643
+    second: Julia_284
+  - first:
+      213: 5311499535733223209
+    second: Julia_285
+  - first:
+      213: -5636043086910080090
+    second: Julia_286
+  - first:
+      213: 6502919677788606170
+    second: Julia_287
+  - first:
+      213: -8248303127975076657
+    second: Julia_288
+  - first:
+      213: 1942312799435890261
+    second: Julia_289
+  - first:
+      213: 1292163809570976136
+    second: Julia_290
+  - first:
+      213: 732885033612715699
+    second: Julia_291
+  - first:
+      213: 4725063944993316878
+    second: Julia_292
+  - first:
+      213: -8872065397677846023
+    second: Julia_293
+  - first:
+      213: -4163760954779895031
+    second: Julia_294
+  - first:
+      213: -7169985063849336655
+    second: Julia_295
+  - first:
+      213: -9110030126440832699
+    second: Julia_296
+  - first:
+      213: 4676810318399018084
+    second: Julia_297
+  - first:
+      213: -7109402082669519966
+    second: Julia_298
+  - first:
+      213: 1894306545444031347
+    second: Julia_299
+  - first:
+      213: -5212362475587667437
+    second: Julia_300
+  - first:
+      213: 234568350571884642
+    second: Julia_301
+  - first:
+      213: -3456653303393691594
+    second: Julia_302
+  - first:
+      213: 8183257899898712675
+    second: Julia_303
+  - first:
+      213: -5009861253333723411
+    second: Julia_304
+  - first:
+      213: 2793513087352577353
+    second: Julia_305
+  - first:
+      213: -4563226669877720352
+    second: Julia_306
+  - first:
+      213: 3437291916763208869
+    second: Julia_307
+  - first:
+      213: -8023252723903988735
+    second: Julia_308
+  - first:
+      213: -6506873897921146157
+    second: Julia_309
+  - first:
+      213: -6761614650779745262
+    second: Julia_310
+  - first:
+      213: 3468450615005662625
+    second: Julia_311
+  - first:
+      213: -7255088286444834638
+    second: Julia_312
+  - first:
+      213: 7597651818377383006
+    second: Julia_313
+  - first:
+      213: 1506466263432806915
+    second: Julia_314
+  - first:
+      213: -2096832066118005160
+    second: Julia_315
+  - first:
+      213: -4021271128825600323
+    second: Julia_316
+  - first:
+      213: 6890088249822110878
+    second: Julia_317
+  - first:
+      213: -5093248894412384042
+    second: Julia_318
+  - first:
+      213: 6321371621414276743
+    second: Julia_319
+  - first:
+      213: 1308048684351450522
+    second: Julia_320
+  - first:
+      213: -1725763658221325074
+    second: Julia_321
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Julia_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1247
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb06a9920c5f45b0800000000000000
+      internalID: -5381981863446967354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1247
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cef57e36ccf1f9b0800000000000000
+      internalID: -5047975778923970875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1247
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33fbc1fdde97efe0800000000000000
+      internalID: -1159783702942977221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1247
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd25bb8d02987f1b0800000000000000
+      internalID: -5622874835580661025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a5defcd503929c0800000000000000
+      internalID: -3951574018562368983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a0f85315664aaa0800000000000000
+      internalID: -6150678692104304050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcefb943a3b55b290800000000000000
+      internalID: -7875288067838574899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9fd6825a6dc6bb0800000000000000
+      internalID: -4941338686296032814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151dec3e5680289b0800000000000000
+      internalID: -5079488196013797039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c26bd29e69762b0800000000000000
+      internalID: -5591334484118721494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1183
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5817d603226677d10800000000000000
+      internalID: 2123278046355878277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b26d7dfa75bfaf0800000000000000
+      internalID: -361598932321162361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c688cfe24e3a07d0800000000000000
+      internalID: -2951478148576278841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ba88345b6368710800000000000000
+      internalID: 1695102461901581060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628437accee881b00800000000000000
+      internalID: 799546081518241830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ba3f9fcaa5ba00800000000000000
+      internalID: 771710719870284506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02e635ac6dffd730800000000000000
+      internalID: 4026215234962645516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1183
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351d0d433be9d2370800000000000000
+      internalID: 8299464180836127059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc62b5dd144aee10800000000000000
+      internalID: 2227667860618112207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c8f17c8596a3910800000000000000
+      internalID: 1817881229616188426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca28ab24121c2e50800000000000000
+      internalID: 6785818616381582027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d72644ce758a9d0800000000000000
+      internalID: -2762861699120595604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f759b1926eaef8f10800000000000000
+      internalID: 2274294611098441087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebaff18085f1fd8c0800000000000000
+      internalID: -3972421883363591490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1119
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db28d52bb63899fd0800000000000000
+      internalID: -2334690433237679427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1055
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fb258aec118ff20800000000000000
+      internalID: 3456532293291786131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1055
+        width: 34
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9105eced6e1d980800000000000000
+      internalID: -8515771575762413118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1a46c1133bdb250800000000000000
+      internalID: 5962118505219531217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9936febff0d25580800000000000000
+      internalID: -8839773321735816802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3021a11320d55d5b0800000000000000
+      internalID: -5344263118810115581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8318939ad5925a0800000000000000
+      internalID: -6545597602010679087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc09f092abfe29e0800000000000000
+      internalID: -1644100138308137767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1119
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c3bb426cc00f0e0800000000000000
+      internalID: -2238274969643828092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 193
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e251ce66b0cdb230800000000000000
+      internalID: 3656290362269455080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1089
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea7a5acaa264930800000000000000
+      internalID: 4127033029533609568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1081
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0528d2911dd3a75f0800000000000000
+      internalID: -758225618978635184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1089
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2196f1576ad470590800000000000000
+      internalID: -7708106859896411886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1063
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795cc3dd655651fa0800000000000000
+      internalID: -5830642718807898729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055dc16b4220d6fd0800000000000000
+      internalID: -2347217474092739248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1073
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813718c63ef4e6240800000000000000
+      internalID: 4786851292138009368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b7cdf11d23acba0800000000000000
+      internalID: -6067981674164225272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb781e1f05b32df80800000000000000
+      internalID: -8083333162335107137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe1c49a5adcb080b0800000000000000
+      internalID: -5728371080006680081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170e18ea2cc13ff50800000000000000
+      internalID: 6913901475420823665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f22e9705bb0c230800000000000000
+      internalID: 3657128851741486978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0317720616654030800000000000000
+      internalID: 3478298531930247946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce834168d16cc170800000000000000
+      internalID: 8200036603507478208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827c68acc0031d670800000000000000
+      internalID: 8561677198103594792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662bb8a5f5561bdb0800000000000000
+      internalID: -4777926269447982490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39280270aed273ba0800000000000000
+      internalID: -6109363886339620205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f8c5c415111230800000000000000
+      internalID: 3607687955462289389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_51
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ede6dc3f7527650800000000000000
+      internalID: 6229137939242081854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4670c04e51cccf070800000000000000
+      internalID: 8141606620771387236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6f21e7115620c90800000000000000
+      internalID: -7205085328035350855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ff9ea14617d1330800000000000000
+      internalID: 3683224745021144854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566ecf0f449c88250800000000000000
+      internalID: 5947224605880804965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd961c422da9f1dd0800000000000000
+      internalID: -2513119839698982435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63ba64b8128d91e0800000000000000
+      internalID: -2189450801214475412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5516f096da589ed20800000000000000
+      internalID: 3308322381118792021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a970208da30eeabd0800000000000000
+      internalID: -2616907790118942822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b692a155336a4f0800000000000000
+      internalID: -817909841717007606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7e4a5d680f3df00800000000000000
+      internalID: 1140519592555505623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecdf02ce3e9c0c70800000000000000
+      internalID: 8938693352804572393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268e961e39ae2880800000000000000
+      internalID: -8633777351490107858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dcda7219c211cf0800000000000000
+      internalID: -283396299600048860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_65
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 863
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542b43cfee84987c0800000000000000
+      internalID: -4068640597081804219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecd140190b29ed70800000000000000
+      internalID: 9072830242242026729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cdfe7d078d10520800000000000000
+      internalID: 2666650433550801971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_68
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33c1535a45cb54b0800000000000000
+      internalID: -5450546000985734340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29df3d9cec340e70800000000000000
+      internalID: 9080449735633918251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_70
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b3b1a830cf37790800000000000000
+      internalID: -7533400659528565935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_71
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067346197a31dbac0800000000000000
+      internalID: -3837889697030064288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_72
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d22d7143b11dcf0800000000000000
+      internalID: -229372195467285129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_73
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82814285c0cae8240800000000000000
+      internalID: 4795959822214502440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_74
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70c2400382a51e50800000000000000
+      internalID: 6779503497604939901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_75
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d853fd571440b60800000000000000
+      internalID: 7711360436476939643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_76
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba464ede3c93d10800000000000000
+      internalID: 2105929727278885844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_77
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fac103a9b4b9aa0800000000000000
+      internalID: -6153241340267417775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_78
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9a6880c67574530800000000000000
+      internalID: 3839133328867764658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_79
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481025fa48e0c2f90800000000000000
+      internalID: -6977185759663881852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578eb1be83fcef5e0800000000000000
+      internalID: -1873832551569954699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee755a2d465ba8290800000000000000
+      internalID: -7887292352750594066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d931179575e480800000000000000
+      internalID: -8870554599346809842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7890070713ad46e20800000000000000
+      internalID: 3343036729290393991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f74e7521a7dff20800000000000000
+      internalID: 3458054308093001521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1967eff403204e0800000000000000
+      internalID: -2016996562978827870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 735
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0714fb4bfaaa45580800000000000000
+      internalID: -8839252496993009296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f763dfe9f549c5d40800000000000000
+      internalID: 5574493577188030079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09c2a0589ebfd3f0800000000000000
+      internalID: -873770241289434865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_89
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f687c854b24de60e0800000000000000
+      internalID: -2274647479460005777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_90
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e7257f39f8a6290800000000000000
+      internalID: -7896341130968400306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0732cc922b33bf0800000000000000
+      internalID: -345736853789118232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_92
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bca45c52ce6b3b0800000000000000
+      internalID: -5496946648191153275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_93
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 735
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bb8707c3280c710800000000000000
+      internalID: 1711511054497397563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_94
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47439c73d74e3ea10800000000000000
+      internalID: 1937643491157423220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_95
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af97038fbae0f3fc0800000000000000
+      internalID: -3513073052559574534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_96
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96e7786e18efef50800000000000000
+      internalID: 6912999170336351902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_97
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1f704663c699c0800000000000000
+      internalID: -3920731581643285736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_98
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2be8f298e1e8b8e0800000000000000
+      internalID: -1677342472181060817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_99
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004efcd71954b1b10800000000000000
+      internalID: 1953231354578592768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_100
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a676eb157e81a40800000000000000
+      internalID: 5339271696520538735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_101
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dd8d8ad450fb420800000000000000
+      internalID: 2647840937020546435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_102
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f5a5973feb70680800000000000000
+      internalID: -8788846194867937454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_103
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186637c5459b22a00800000000000000
+      internalID: 730349861566899841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_104
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793868a6ce88c8a00800000000000000
+      internalID: 760132986099630999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_105
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c90df542936e30f0800000000000000
+      internalID: -1135360576160200253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f333ab4282e57740800000000000000
+      internalID: 5149270798210642930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20eea29295a239a0800000000000000
+      internalID: -6254754883519455186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_108
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c9b8e076c92f170800000000000000
+      internalID: 8210797037089430558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_109
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf56f5e70f51f6b0800000000000000
+      internalID: -5264322001891860560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e225cd351a14f80800000000000000
+      internalID: -8124034871248933273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_111
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb3167c459b6610800000000000000
+      internalID: 1615549046973513526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_112
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46648c0274563a670800000000000000
+      internalID: 8548787873846412900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_113
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bfa74cf6c495750800000000000000
+      internalID: 6294145997148453699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_114
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d22bc90d9574480800000000000000
+      internalID: -8915058184839615203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c94db355e7a94000800000000000000
+      internalID: 20732276694141377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_116
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d7691dbfbaefd0800000000000000
+      internalID: -2311824639805367985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02922a0508e367630800000000000000
+      internalID: 3924392846129506592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cad7ce10ce15f2a0800000000000000
+      internalID: -6704418659772147003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_119
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa55a8e7d504ed910800000000000000
+      internalID: 1863998066077095343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_120
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b73b6bd29adc090800000000000000
+      internalID: -8012562148218406017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_121
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810b897338a62e680800000000000000
+      internalID: -8727296016084586472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_122
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad52c11b4b1dc0720800000000000000
+      internalID: 2813854441195447770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_123
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c36e1dff87bc4c00800000000000000
+      internalID: 886285055739978695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_124
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ef927dc772cd770800000000000000
+      internalID: 8636821602529050137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_125
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b008241e7b051db0800000000000000
+      internalID: -4821935189898297168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_126
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2f802e34b59ba60800000000000000
+      internalID: 7690278185825006309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_127
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f1be3acf55c11b0800000000000000
+      internalID: -5684574086078193880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_128
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef78d32b880eff640800000000000000
+      internalID: 5116054579426723838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_129
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7321288d834a8a140800000000000000
+      internalID: 4731211972610232887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_130
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c4e61941f71ac50800000000000000
+      internalID: 6674755849055783942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_131
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 671
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d68781f38231e10800000000000000
+      internalID: 2167120097153936713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd30f1e229f10350800000000000000
+      internalID: 5981335708339551667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_133
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65daf293b63603440800000000000000
+      internalID: 4913536505633287510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_134
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cbf105da1e7e7b0800000000000000
+      internalID: -5194935510658728850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d7ebf1147a654a0800000000000000
+      internalID: -6604907905344963320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_136
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928f29a1722d4afe0800000000000000
+      internalID: -1178586137072830423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_137
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4e4ae33aad10ca0800000000000000
+      internalID: -6052316029543717706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_138
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cdd81d2de674840800000000000000
+      internalID: 5208253345815190645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_139
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58a36192d8508c60800000000000000
+      internalID: 7818346614520784991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_140
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8fc7cc66042a5f0800000000000000
+      internalID: -746963777928496929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b322824a513d80500800000000000000
+      internalID: 362771859905192507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_142
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2299029bac9cbe00800000000000000
+      internalID: 1061895872856035886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_143
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0684999718559780800000000000000
+      internalID: -8676932248675252721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_144
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d9a722342f88ee0800000000000000
+      internalID: -1258489725694861974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_145
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e225546acdc4610800000000000000
+      internalID: 1606901773750119957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_146
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2610b982a6659a040800000000000000
+      internalID: 4659350303439257954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_147
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5497ecd4c7d2064e0800000000000000
+      internalID: -1990541023393187515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_148
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917859ae6ec20fba0800000000000000
+      internalID: -6057292128523548903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_149
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c6cf5ef2d40e420800000000000000
+      internalID: 2657208648265919644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_150
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dce509c1244b6f10800000000000000
+      internalID: 2263978149581024466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_151
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa765d12d0e0b370800000000000000
+      internalID: 8336410103302748847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_152
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082e53374bcf06430800000000000000
+      internalID: 3774294339693699712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_153
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 607
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab6bca175d903750800000000000000
+      internalID: 6282694477619096484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_154
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb74b71e66886c00800000000000000
+      internalID: 894112333435272170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_155
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad81c249f2af1ef0800000000000000
+      internalID: -135210272347288153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f08415e9231e83a0800000000000000
+      internalID: -6661365728176471817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_157
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76436a5cb81e99a0800000000000000
+      internalID: -6224510437730072965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172975418d7f71420800000000000000
+      internalID: 2600819817256030833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d798e1bb0bd8326d0800000000000000
+      internalID: -3016411535214999171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_160
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350fc4e9a46c2d7b0800000000000000
+      internalID: -5200876595873779629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_161
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de48bf5571ac2510800000000000000
+      internalID: 1525771899260915414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_162
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2e80f6e20e7a60800000000000000
+      internalID: 7673574005987486632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_163
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400c7d093ea04e8c0800000000000000
+      internalID: -3971036998930022396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_164
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd4464c8a19a38e0800000000000000
+      internalID: -1712896554225611336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_165
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a45cae8c313b9f0800000000000000
+      internalID: -453997383781103078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_166
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bef7cb78ee8b23d0800000000000000
+      internalID: -3230331178547937610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_167
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9d5ad1cca528370800000000000000
+      internalID: 8323314894051334579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_168
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a689e67065f6b60800000000000000
+      internalID: 7741500874393414241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_169
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48d7c7d897401240800000000000000
+      internalID: 4760383527911413837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_170
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c66c546cfc607c10800000000000000
+      internalID: 2049257661724911297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_171
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56d0ff60697889a0800000000000000
+      internalID: -6230596629365205412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_172
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3601bb1cd0bb970800000000000000
+      internalID: 8771619824952435682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_173
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64a70f77bebe03e0800000000000000
+      internalID: -2085519882106461075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_174
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45aee89483232c80800000000000000
+      internalID: -8348790231806335667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_175
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76472da4a0b454600800000000000000
+      internalID: 451849845197665383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_176
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83fcd0a3987a12620800000000000000
+      internalID: 2747661455499054904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_177
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b0cd37921a612c0800000000000000
+      internalID: -4461201181454365846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_178
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea34bc673cdd8e0800000000000000
+      internalID: -1666961372073447809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_179
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90cf535c6bf732c0800000000000000
+      internalID: -4451813263958622053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_180
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0b50b592d0e66e0800000000000000
+      internalID: -1842520726276034386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_181
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17250afc8838a4800800000000000000
+      internalID: 597434524202193521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_182
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc20e5a9d34f31500800000000000000
+      internalID: 365904540167176908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_183
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598a58f486049760800000000000000
+      internalID: 7463597650631887193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_184
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc5a8050fe273500800000000000000
+      internalID: 375820703586999513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_185
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 543
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52bad45c5aea6f30800000000000000
+      internalID: 4569722454202298970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c966435ee4a45a20800000000000000
+      internalID: 3050244191142963648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_187
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baa9005daa06b7d0800000000000000
+      internalID: -2903121170305275209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_188
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4150e25ce6ec70800000000000000
+      internalID: 9000140746041412757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_189
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d207fd10ed014c0800000000000000
+      internalID: -4318707943023301294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_190
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9ebdd2ff9235240800000000000000
+      internalID: 4779209805533014522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_191
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ca1e07eb7765830800000000000000
+      internalID: 4059563773942410354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_192
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3938147cc4611a0800000000000000
+      internalID: -6839194565434174478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_193
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e05b1be5aaf6fe0800000000000000
+      internalID: -1193548052544811519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_194
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c04efda36930c50800000000000000
+      internalID: 6630308256028036188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_195
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 479
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43403b6c9a3be90f0800000000000000
+      internalID: -1108250916522097612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_196
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0536b53628c41f20800000000000000
+      internalID: 3392556485752272138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_197
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825c28439787d2260800000000000000
+      internalID: 7074443051636278568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_198
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8777a5685930c2b80800000000000000
+      internalID: -8418349662723213448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_199
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f67dc96ef04c7f0800000000000000
+      internalID: -593331767757803691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_200
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 479
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7141bb15860a1ff80800000000000000
+      internalID: -8074496286990330857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_201
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2cf7e839d33d8f60800000000000000
+      internalID: 8038137917981850670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_202
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbf0c8081074f390800000000000000
+      internalID: -7785474607288353845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_203
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8a4faccc80af3a0800000000000000
+      internalID: -6630977825678251779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_204
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a928b86b5efb910800000000000000
+      internalID: 1855454143687334553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_205
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54fbcfcb1b070c20800000000000000
+      internalID: 3172516676584076380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_206
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d08a4c493b21570800000000000000
+      internalID: 8436002503554239903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_207
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bcc62a1c51e2fd0800000000000000
+      internalID: -2364928832925021374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_208
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2bf9269a638f880800000000000000
+      internalID: -8577045389195103521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_209
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622afc2edd956d640800000000000000
+      internalID: 5104366037198938662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_210
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 479
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223e4f16bd2e128d0800000000000000
+      internalID: -2872765655416511710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_211
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5045f16a879edfad0800000000000000
+      internalID: -2666718699941047291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_212
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed40385f00e00420800000000000000
+      internalID: 2594319741874097635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_213
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb07819d58693fdd0800000000000000
+      internalID: -2453451870369713988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_214
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2992339eba9b26da0800000000000000
+      internalID: -5952991609427383918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_215
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 479
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bfb6b92c29bfef0800000000000000
+      internalID: -73303604392625345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b4cc66385c2600800000000000000
+      internalID: 444827453979146315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_217
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf26d368b076be20800000000000000
+      internalID: 3366001708757299165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_218
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 415
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30277c047815f1d0800000000000000
+      internalID: -3317718663784095682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_219
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55caef91a1f51a0e0800000000000000
+      internalID: -2260420972253369259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_220
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dccd9b5194a80140800000000000000
+      internalID: 4686176356493282515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_221
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28cb2eee96d86d20800000000000000
+      internalID: 3272101107373688875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_222
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0f887e9cce4a700800000000000000
+      internalID: 550825406363136244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_223
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c42579a9340f97c30800000000000000
+      internalID: 4357778287604748876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_224
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6058aefd62e5a70800000000000000
+      internalID: 8817527863592158971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_225
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 415
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c6a0a8e3680c610800000000000000
+      internalID: 1639457867524893797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_226
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f9718ad19bfe10800000000000000
+      internalID: 2232538407953364907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_227
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4623c01fef2ba60800000000000000
+      internalID: 7688487825120060618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_228
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a997ada848a7fb0800000000000000
+      internalID: -4649257933400860134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_229
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688e1f4f49339ccb0800000000000000
+      internalID: -4843283209402587002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5b51d3ca5b8d570800000000000000
+      internalID: 8491736848770905580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_231
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc47aaff9d80cb20800000000000000
+      internalID: 3152675457403931856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_232
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4cfb6606f1adb0800000000000000
+      internalID: -4782270821848821947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_233
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abacf056316c67580800000000000000
+      internalID: -8829652232811066694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_234
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e49afbb329f6950800000000000000
+      internalID: 6444530377106738767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_235
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b0298fff96e1d00800000000000000
+      internalID: 945309519902280595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_236
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c53e649a9a53e000800000000000000
+      internalID: 63994439675033028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_237
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00cf2b40c26b4610800000000000000
+      internalID: 1606486270122377227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_238
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5276194a1d18b6e0800000000000000
+      internalID: -1821674050538802593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_239
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 351
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6ad7d789c243ac0800000000000000
+      internalID: -3876424345807116575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_240
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ad379a5cd388ac0800000000000000
+      internalID: -3852761562054665574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_241
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefe2718e10087c70800000000000000
+      internalID: 8968918788929155055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_242
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d9042d01bcfb580800000000000000
+      internalID: -8809099073006035633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_243
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 351
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b13f3c654083bc80800000000000000
+      internalID: -8308155851911253579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_244
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ae23c5e662eb3e0800000000000000
+      internalID: -2036147726089786806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_245
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3a5da54540d3d80800000000000000
+      internalID: -8269448580434648152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_246
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 287
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91b9e0d3eb278500800000000000000
+      internalID: 398335349508125083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_247
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51a3d7e97a5dfab0800000000000000
+      internalID: -4972718933920210594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_248
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d5c05bcffe76a0800000000000000
+      internalID: -6449436367649385934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_249
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9ae1854637a6800800000000000000
+      internalID: 606423974647081416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_250
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9eacc5511473f30800000000000000
+      internalID: 4555181108115466658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_251
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464d7235325368980800000000000000
+      internalID: -8537077617798949788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_252
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7917eb39833a257b0800000000000000
+      internalID: -5236943953286237801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_253
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 287
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8548fdf75689574c0800000000000000
+      internalID: -4290355508296055720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_254
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c1c788ea1fa0030800000000000000
+      internalID: 3461844995504086140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_255
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4045fb036f0bdbb0800000000000000
+      internalID: -4910314050640592819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_256
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b682f713337a30800000000000000
+      internalID: 4211766254467724233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_257
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d79589181f79990800000000000000
+      internalID: -7379163925514191500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_258
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d626526895f0c6c10800000000000000
+      internalID: 2048028807723836013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_259
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acd4e33ac8ec4c20800000000000000
+      internalID: 3192182191050513571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_260
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691bfff516079ffe0800000000000000
+      internalID: -1154768265919090282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_261
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c71a269423fc95d0800000000000000
+      internalID: -3054299108800325687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_262
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca3f5ea1d794ee50800000000000000
+      internalID: 6837757061084691140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_263
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdee668e304de90800000000000000
+      internalID: -7001967223960051949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_264
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfc99787aedee4d0800000000000000
+      internalID: -3103298282095783972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_265
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b8f552e7d3d0ec0800000000000000
+      internalID: -3599152915196966085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_266
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c7a6527370147e0800000000000000
+      internalID: -1783136044029674355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_267
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64955c7b7b9e4c530800000000000000
+      internalID: 3874478554716920134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_268
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a249c6f22056310800000000000000
+      internalID: 1397525662076775001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_269
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81e647db129cc20800000000000000
+      internalID: 3227147705573578984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_270
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b38cdf87856b64e0800000000000000
+      internalID: -1987383177645358154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_271
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fbcee248cb80040800000000000000
+      internalID: 4614145094150045470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_272
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a1542d763fab830800000000000000
+      internalID: 4087847239027071518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_273
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a127d1cec51a05510800000000000000
+      internalID: 1535904893403755034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_274
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9568ee61757be9d20800000000000000
+      internalID: 3287266362701809241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_275
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fb9cbc01b5efec0800000000000000
+      internalID: -3531284930115289264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_276
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d927a01c18a9860800000000000000
+      internalID: 7537479592461901145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_277
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa714682584f6880800000000000000
+      internalID: -8615588042859513097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_278
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b59ec90056002a10800000000000000
+      internalID: 1882511585072551353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_279
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639e8dfe0fc97a360800000000000000
+      internalID: 7180880689495599414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_280
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057f43fe7cab23ab0800000000000000
+      internalID: -5029752465944938672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_281
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084fdd8bc6f03d350800000000000000
+      internalID: 6040188484866405504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_282
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e116773076c5b6c90800000000000000
+      internalID: -7175539983775211234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_283
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1039000d7f0db4a0800000000000000
+      internalID: -6576082851345125347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_284
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23fea9691b9c47d0800000000000000
+      internalID: -2932798723875474643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_285
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fe70cafac36b940800000000000000
+      internalID: 5311499535733223209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_286
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abbde96ca0c8c1b0800000000000000
+      internalID: -5636043086910080090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_287
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adecc753ef20f3a50800000000000000
+      internalID: 6502919677788606170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_288
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc5d49a104288d80800000000000000
+      internalID: -8248303127975076657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_289
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e1215433b74fa10800000000000000
+      internalID: 1942312799435890261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_290
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881f71d7320bee110800000000000000
+      internalID: 1292163809570976136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_291
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6afa91e0bbb2a00800000000000000
+      internalID: 732885033612715699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_292
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00255e9f9cc29140800000000000000
+      internalID: 4725063944993316878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_293
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1906be68710e480800000000000000
+      internalID: -8872065397677846023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_294
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 223
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bf3b0e8795736c0800000000000000
+      internalID: -4163760954779895031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_295
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0676892981f7c90800000000000000
+      internalID: -7169985063849336655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_296
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5412364fddba29180800000000000000
+      internalID: -9110030126440832699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_297
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4641e0ea43e57e040800000000000000
+      internalID: 4676810318399018084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_298
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab9f091974565d90800000000000000
+      internalID: -7109402082669519966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_299
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b83e044cde94a10800000000000000
+      internalID: 1894306545444031347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_300
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 254
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a750ad1f7f9a7b0800000000000000
+      internalID: -5212362475587667437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_301
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260f26b0caa514300800000000000000
+      internalID: 234568350571884642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_302
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638d98b72208700d0800000000000000
+      internalID: -3456653303393691594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_303
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3623fd404b5c09170800000000000000
+      internalID: 8183257899898712675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_304
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6dc05cbb5697ab0800000000000000
+      internalID: -5009861253333723411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_305
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d1e0f2a5d84c620800000000000000
+      internalID: 2793513087352577353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_306
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 159
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea895055892ca0c0800000000000000
+      internalID: -4563226669877720352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_307
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac1ef769c6b3bf20800000000000000
+      internalID: 3437291916763208869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_308
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c7488182ea7a090800000000000000
+      internalID: -8023252723903988735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_309
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 158
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2162c2aa0f2b5a0800000000000000
+      internalID: -6506873897921146157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_310
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2144238bc4be922a0800000000000000
+      internalID: -6761614650779745262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_311
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adc56c2579622030800000000000000
+      internalID: 3468450615005662625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_312
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 116
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0bb5084afb05b90800000000000000
+      internalID: -7255088286444834638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_313
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0c712318407960800000000000000
+      internalID: 7597651818377383006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_314
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302c502c51b08e410800000000000000
+      internalID: 1506466263432806915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_315
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e4369685e86e2e0800000000000000
+      internalID: -2096832066118005160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_316
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db6e0d4c6339138c0800000000000000
+      internalID: -4021271128825600323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_317
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e946db902c28e9f50800000000000000
+      internalID: 6890088249822110878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_318
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d816ef9d152159b0800000000000000
+      internalID: -5093248894412384042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_319
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e02a36ff50ab750800000000000000
+      internalID: 6321371621414276743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_320
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d6fab195f172210800000000000000
+      internalID: 1308048684351450522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Julia_321
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee47079a81bdc08e0800000000000000
+      internalID: -1725763658221325074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

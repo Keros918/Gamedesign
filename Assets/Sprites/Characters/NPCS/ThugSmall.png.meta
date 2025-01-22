@@ -1,0 +1,7167 @@
+fileFormatVersion: 2
+guid: 9fd5e93f17056424c9c3aac867428590
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1892840465900845456
+    second: ThugSmall_0
+  - first:
+      213: 1299329942692247849
+    second: ThugSmall_1
+  - first:
+      213: -9222196790421417037
+    second: ThugSmall_2
+  - first:
+      213: 603658455502372473
+    second: ThugSmall_3
+  - first:
+      213: 7468317931173407453
+    second: ThugSmall_4
+  - first:
+      213: 351301914087470252
+    second: ThugSmall_5
+  - first:
+      213: 5546871734172181493
+    second: ThugSmall_6
+  - first:
+      213: 2912361476615654156
+    second: ThugSmall_7
+  - first:
+      213: 1591714075623181958
+    second: ThugSmall_8
+  - first:
+      213: -4021383301653606661
+    second: ThugSmall_9
+  - first:
+      213: 1153258742143674941
+    second: ThugSmall_10
+  - first:
+      213: 1023570330025329331
+    second: ThugSmall_11
+  - first:
+      213: -2649496220214747870
+    second: ThugSmall_12
+  - first:
+      213: -4488324970971236798
+    second: ThugSmall_13
+  - first:
+      213: -1960742286298812724
+    second: ThugSmall_14
+  - first:
+      213: 7854481523296752830
+    second: ThugSmall_15
+  - first:
+      213: -8646617752709798452
+    second: ThugSmall_16
+  - first:
+      213: 6019599468076401437
+    second: ThugSmall_17
+  - first:
+      213: -170853043041435484
+    second: ThugSmall_18
+  - first:
+      213: -1129170838026251319
+    second: ThugSmall_19
+  - first:
+      213: 4135092547038797143
+    second: ThugSmall_20
+  - first:
+      213: 4322668414151990343
+    second: ThugSmall_21
+  - first:
+      213: -7270134223449273218
+    second: ThugSmall_22
+  - first:
+      213: -6764248072336302150
+    second: ThugSmall_23
+  - first:
+      213: 2227778563027299626
+    second: ThugSmall_24
+  - first:
+      213: -4455306394327058403
+    second: ThugSmall_25
+  - first:
+      213: -4904438791531170712
+    second: ThugSmall_26
+  - first:
+      213: 1346564047956575693
+    second: ThugSmall_27
+  - first:
+      213: 5817574105856248943
+    second: ThugSmall_28
+  - first:
+      213: 644351691634524411
+    second: ThugSmall_29
+  - first:
+      213: 5226671959219319507
+    second: ThugSmall_30
+  - first:
+      213: 7861379091507222947
+    second: ThugSmall_31
+  - first:
+      213: 2939322268156337308
+    second: ThugSmall_32
+  - first:
+      213: -6797296521197181499
+    second: ThugSmall_33
+  - first:
+      213: 3074127458147675231
+    second: ThugSmall_34
+  - first:
+      213: -2544863260624613540
+    second: ThugSmall_35
+  - first:
+      213: 5432986988709925991
+    second: ThugSmall_36
+  - first:
+      213: 5010317371483302365
+    second: ThugSmall_37
+  - first:
+      213: 8691232792597791043
+    second: ThugSmall_38
+  - first:
+      213: -8772148591363369246
+    second: ThugSmall_39
+  - first:
+      213: 2368939694244008717
+    second: ThugSmall_40
+  - first:
+      213: -8276784139274163555
+    second: ThugSmall_41
+  - first:
+      213: 7340908553651945329
+    second: ThugSmall_42
+  - first:
+      213: 8222751310359277361
+    second: ThugSmall_43
+  - first:
+      213: 8636308057035527050
+    second: ThugSmall_44
+  - first:
+      213: 1630291067009665283
+    second: ThugSmall_45
+  - first:
+      213: -1527762259148951214
+    second: ThugSmall_46
+  - first:
+      213: 3649253350345694660
+    second: ThugSmall_47
+  - first:
+      213: 7015921299164926607
+    second: ThugSmall_48
+  - first:
+      213: 7073745494322447910
+    second: ThugSmall_49
+  - first:
+      213: -983836727323751779
+    second: ThugSmall_50
+  - first:
+      213: -152716914492034982
+    second: ThugSmall_51
+  - first:
+      213: -228902822552637716
+    second: ThugSmall_52
+  - first:
+      213: 5855974047970163629
+    second: ThugSmall_53
+  - first:
+      213: 4555144121370537745
+    second: ThugSmall_54
+  - first:
+      213: -4981885728043594478
+    second: ThugSmall_55
+  - first:
+      213: 8472183731119773566
+    second: ThugSmall_56
+  - first:
+      213: 5317479311277599730
+    second: ThugSmall_57
+  - first:
+      213: -8019554906298399828
+    second: ThugSmall_58
+  - first:
+      213: 2040289315561389972
+    second: ThugSmall_59
+  - first:
+      213: -1394220830338905825
+    second: ThugSmall_60
+  - first:
+      213: -5389388194421636513
+    second: ThugSmall_61
+  - first:
+      213: -8964126859077938354
+    second: ThugSmall_62
+  - first:
+      213: -139403872338978403
+    second: ThugSmall_63
+  - first:
+      213: 4288738313395583498
+    second: ThugSmall_64
+  - first:
+      213: 2797111463221386751
+    second: ThugSmall_65
+  - first:
+      213: -7662774600966962133
+    second: ThugSmall_66
+  - first:
+      213: 6543042835854230186
+    second: ThugSmall_67
+  - first:
+      213: 8812708038551788596
+    second: ThugSmall_68
+  - first:
+      213: 1413304165205375320
+    second: ThugSmall_69
+  - first:
+      213: 3317229188744546254
+    second: ThugSmall_70
+  - first:
+      213: -3761684997625019214
+    second: ThugSmall_71
+  - first:
+      213: -36015100953829278
+    second: ThugSmall_72
+  - first:
+      213: 1291156724597877969
+    second: ThugSmall_73
+  - first:
+      213: -5061094487947074844
+    second: ThugSmall_74
+  - first:
+      213: 7122420742701303405
+    second: ThugSmall_75
+  - first:
+      213: 4053218727401280483
+    second: ThugSmall_76
+  - first:
+      213: -6154399940245661915
+    second: ThugSmall_77
+  - first:
+      213: 7287256738210678028
+    second: ThugSmall_78
+  - first:
+      213: -487871775145804928
+    second: ThugSmall_79
+  - first:
+      213: 739426628125290255
+    second: ThugSmall_80
+  - first:
+      213: -3048928966036874427
+    second: ThugSmall_81
+  - first:
+      213: -7012056423829607785
+    second: ThugSmall_82
+  - first:
+      213: -3792525733049910608
+    second: ThugSmall_83
+  - first:
+      213: -7163359192406986313
+    second: ThugSmall_84
+  - first:
+      213: -1182072684557537332
+    second: ThugSmall_85
+  - first:
+      213: -6937740685226057265
+    second: ThugSmall_86
+  - first:
+      213: 8640423392650286803
+    second: ThugSmall_87
+  - first:
+      213: -4800077995294843
+    second: ThugSmall_88
+  - first:
+      213: -7551459237156656275
+    second: ThugSmall_89
+  - first:
+      213: 7204150629262266578
+    second: ThugSmall_90
+  - first:
+      213: -2642995968283773328
+    second: ThugSmall_91
+  - first:
+      213: -7718094163402334790
+    second: ThugSmall_92
+  - first:
+      213: 1037660118825518841
+    second: ThugSmall_93
+  - first:
+      213: -2925420848563989616
+    second: ThugSmall_94
+  - first:
+      213: 2496625270966758521
+    second: ThugSmall_95
+  - first:
+      213: -2740953748135428350
+    second: ThugSmall_96
+  - first:
+      213: 7525270082745518784
+    second: ThugSmall_97
+  - first:
+      213: 2779113317465442333
+    second: ThugSmall_98
+  - first:
+      213: 2325072974942395141
+    second: ThugSmall_99
+  - first:
+      213: 4592765198117945515
+    second: ThugSmall_100
+  - first:
+      213: 530443745887763980
+    second: ThugSmall_101
+  - first:
+      213: -2272296643053028501
+    second: ThugSmall_102
+  - first:
+      213: -8038136477024505637
+    second: ThugSmall_103
+  - first:
+      213: 8375210236675137235
+    second: ThugSmall_104
+  - first:
+      213: -8188302667670437840
+    second: ThugSmall_105
+  - first:
+      213: 5486430121025143718
+    second: ThugSmall_106
+  - first:
+      213: 8418720599445849702
+    second: ThugSmall_107
+  - first:
+      213: 8106002006855387681
+    second: ThugSmall_108
+  - first:
+      213: 8936369837650176157
+    second: ThugSmall_109
+  - first:
+      213: 2522765640993612999
+    second: ThugSmall_110
+  - first:
+      213: -9121055399417808506
+    second: ThugSmall_111
+  - first:
+      213: -5124143576067914469
+    second: ThugSmall_112
+  - first:
+      213: 6731633523292952251
+    second: ThugSmall_113
+  - first:
+      213: -8038380132306329909
+    second: ThugSmall_114
+  - first:
+      213: 5694729194967250254
+    second: ThugSmall_115
+  - first:
+      213: -9081142303558575432
+    second: ThugSmall_116
+  - first:
+      213: 6264444289369875019
+    second: ThugSmall_117
+  - first:
+      213: 6521031137604360157
+    second: ThugSmall_118
+  - first:
+      213: 1509875668154296228
+    second: ThugSmall_119
+  - first:
+      213: 6604309141457890702
+    second: ThugSmall_120
+  - first:
+      213: 138629974810262976
+    second: ThugSmall_121
+  - first:
+      213: 48594773430208868
+    second: ThugSmall_122
+  - first:
+      213: 1941514289173102224
+    second: ThugSmall_123
+  - first:
+      213: 2572035399046249111
+    second: ThugSmall_124
+  - first:
+      213: -3970090708097386782
+    second: ThugSmall_125
+  - first:
+      213: 7474952925706772828
+    second: ThugSmall_126
+  - first:
+      213: 8860596993895072935
+    second: ThugSmall_127
+  - first:
+      213: -1187158694416153192
+    second: ThugSmall_128
+  - first:
+      213: 2168306863079013339
+    second: ThugSmall_129
+  - first:
+      213: -238174000560386866
+    second: ThugSmall_130
+  - first:
+      213: 6889265736769325805
+    second: ThugSmall_131
+  - first:
+      213: 8461579457767825487
+    second: ThugSmall_132
+  - first:
+      213: 3387276965148494780
+    second: ThugSmall_133
+  - first:
+      213: 976372604210787146
+    second: ThugSmall_134
+  - first:
+      213: 4601264498519089403
+    second: ThugSmall_135
+  - first:
+      213: -19756985892973559
+    second: ThugSmall_136
+  - first:
+      213: -7055604227850705138
+    second: ThugSmall_137
+  - first:
+      213: 5518666231023041380
+    second: ThugSmall_138
+  - first:
+      213: 8711539732259313831
+    second: ThugSmall_139
+  - first:
+      213: -4459868657669542658
+    second: ThugSmall_140
+  - first:
+      213: -8327709437371127710
+    second: ThugSmall_141
+  - first:
+      213: 2140024657439711279
+    second: ThugSmall_142
+  - first:
+      213: 2189669702257052530
+    second: ThugSmall_143
+  - first:
+      213: 2538846173971128702
+    second: ThugSmall_144
+  - first:
+      213: -1288241302684940598
+    second: ThugSmall_145
+  - first:
+      213: -3319720991153300656
+    second: ThugSmall_146
+  - first:
+      213: 8943945565991275113
+    second: ThugSmall_147
+  - first:
+      213: 1067205755285717545
+    second: ThugSmall_148
+  - first:
+      213: 7878556390300051921
+    second: ThugSmall_149
+  - first:
+      213: 1456867036231156807
+    second: ThugSmall_150
+  - first:
+      213: 3081431616164589078
+    second: ThugSmall_151
+  - first:
+      213: 8953770514877324120
+    second: ThugSmall_152
+  - first:
+      213: -6906446470915248064
+    second: ThugSmall_153
+  - first:
+      213: 3616453264930816671
+    second: ThugSmall_154
+  - first:
+      213: 5230028063684765597
+    second: ThugSmall_155
+  - first:
+      213: 4204478350567106333
+    second: ThugSmall_156
+  - first:
+      213: -182691350637921380
+    second: ThugSmall_157
+  - first:
+      213: 4337512692086483440
+    second: ThugSmall_158
+  - first:
+      213: 7042093676473168566
+    second: ThugSmall_159
+  - first:
+      213: 7795492043153520009
+    second: ThugSmall_160
+  - first:
+      213: 7203945717183745240
+    second: ThugSmall_161
+  - first:
+      213: 5608842196971462146
+    second: ThugSmall_162
+  - first:
+      213: 6239739790337680295
+    second: ThugSmall_163
+  - first:
+      213: -2814548254079993105
+    second: ThugSmall_164
+  - first:
+      213: -3536446901032270530
+    second: ThugSmall_165
+  - first:
+      213: -2820580041667882655
+    second: ThugSmall_166
+  - first:
+      213: -1823233450608261101
+    second: ThugSmall_167
+  - first:
+      213: -7497971312657204884
+    second: ThugSmall_168
+  - first:
+      213: 53703338289159434
+    second: ThugSmall_169
+  - first:
+      213: 3892844129832723920
+    second: ThugSmall_170
+  - first:
+      213: -612979515589998081
+    second: ThugSmall_171
+  - first:
+      213: 4770644992805560869
+    second: ThugSmall_172
+  - first:
+      213: -8023384981635956065
+    second: ThugSmall_173
+  - first:
+      213: -6915396309130782667
+    second: ThugSmall_174
+  - first:
+      213: -8551876257304228153
+    second: ThugSmall_175
+  - first:
+      213: -3597663657349404523
+    second: ThugSmall_176
+  - first:
+      213: 2610783711747447838
+    second: ThugSmall_177
+  - first:
+      213: 4619795180496199314
+    second: ThugSmall_178
+  - first:
+      213: -4502953915097560316
+    second: ThugSmall_179
+  - first:
+      213: 1986889687248946245
+    second: ThugSmall_180
+  - first:
+      213: 5168200394142060745
+    second: ThugSmall_181
+  - first:
+      213: 4984302434948767637
+    second: ThugSmall_182
+  - first:
+      213: 493103021004462146
+    second: ThugSmall_183
+  - first:
+      213: 5110423819306609814
+    second: ThugSmall_184
+  - first:
+      213: 5273297073017533690
+    second: ThugSmall_185
+  - first:
+      213: -3340008463288670260
+    second: ThugSmall_186
+  - first:
+      213: -567964235663959370
+    second: ThugSmall_187
+  - first:
+      213: -4604975717954522565
+    second: ThugSmall_188
+  - first:
+      213: -3042236266866027684
+    second: ThugSmall_189
+  - first:
+      213: -1888574213818516055
+    second: ThugSmall_190
+  - first:
+      213: -2234994733120951918
+    second: ThugSmall_191
+  - first:
+      213: 7117223288928467036
+    second: ThugSmall_192
+  - first:
+      213: 1065128634872024041
+    second: ThugSmall_193
+  - first:
+      213: 7954044163222158221
+    second: ThugSmall_194
+  - first:
+      213: -3345767884326530451
+    second: ThugSmall_195
+  - first:
+      213: -2034408965310025283
+    second: ThugSmall_196
+  - first:
+      213: 1693804254492274745
+    second: ThugSmall_197
+  - first:
+      213: -5947268773513542075
+    second: ThugSmall_198
+  - first:
+      213: 351367046641974389
+    second: ThugSmall_199
+  - first:
+      213: 1465449756396005008
+    second: ThugSmall_200
+  - first:
+      213: -5518926217001633054
+    second: ThugSmall_201
+  - first:
+      213: 5681737423782651412
+    second: ThugSmall_202
+  - first:
+      213: -7315892909249985889
+    second: ThugSmall_203
+  - first:
+      213: 1502125652901730545
+    second: ThugSmall_204
+  - first:
+      213: 142101708901745390
+    second: ThugSmall_205
+  - first:
+      213: -6098422931180352297
+    second: ThugSmall_206
+  - first:
+      213: 6315375180198241514
+    second: ThugSmall_207
+  - first:
+      213: 3377963774784809868
+    second: ThugSmall_208
+  - first:
+      213: -7349856068954078515
+    second: ThugSmall_209
+  - first:
+      213: -7421171402243800301
+    second: ThugSmall_210
+  - first:
+      213: -358013046002077778
+    second: ThugSmall_211
+  - first:
+      213: 45045718564336910
+    second: ThugSmall_212
+  - first:
+      213: 7671456637548310615
+    second: ThugSmall_213
+  - first:
+      213: 2982812626541072880
+    second: ThugSmall_214
+  - first:
+      213: -6341340890546294841
+    second: ThugSmall_215
+  - first:
+      213: -7491200449479967462
+    second: ThugSmall_216
+  - first:
+      213: -8174035828571054092
+    second: ThugSmall_217
+  - first:
+      213: 2302037891701751766
+    second: ThugSmall_218
+  - first:
+      213: -7402640803953591519
+    second: ThugSmall_219
+  - first:
+      213: 434846746622820987
+    second: ThugSmall_220
+  - first:
+      213: -8860609421917422196
+    second: ThugSmall_221
+  - first:
+      213: 5487277328767575182
+    second: ThugSmall_222
+  - first:
+      213: 7005687174840900999
+    second: ThugSmall_223
+  - first:
+      213: -2462576920414431865
+    second: ThugSmall_224
+  - first:
+      213: 49880177651324606
+    second: ThugSmall_225
+  - first:
+      213: -5352253084219046832
+    second: ThugSmall_226
+  - first:
+      213: -4969762118164142373
+    second: ThugSmall_227
+  - first:
+      213: 1957745740386864539
+    second: ThugSmall_228
+  - first:
+      213: -8558568383348609066
+    second: ThugSmall_229
+  - first:
+      213: -7303728173751333303
+    second: ThugSmall_230
+  - first:
+      213: 4334239178026045891
+    second: ThugSmall_231
+  - first:
+      213: 7834797754514801723
+    second: ThugSmall_232
+  - first:
+      213: 3726812577232444013
+    second: ThugSmall_233
+  - first:
+      213: 8945458901269624342
+    second: ThugSmall_234
+  - first:
+      213: 9056002231632528391
+    second: ThugSmall_235
+  - first:
+      213: -2782263979579819311
+    second: ThugSmall_236
+  - first:
+      213: -8997579884621885323
+    second: ThugSmall_237
+  - first:
+      213: -7048703661764998137
+    second: ThugSmall_238
+  - first:
+      213: 5997776818106523147
+    second: ThugSmall_239
+  - first:
+      213: -330051624426702362
+    second: ThugSmall_240
+  - first:
+      213: 2721427137297780666
+    second: ThugSmall_241
+  - first:
+      213: -8575788219741513690
+    second: ThugSmall_242
+  - first:
+      213: 2734870843458514983
+    second: ThugSmall_243
+  - first:
+      213: -3082455529374231687
+    second: ThugSmall_244
+  - first:
+      213: 6061203930441453430
+    second: ThugSmall_245
+  - first:
+      213: -2766154898527499880
+    second: ThugSmall_246
+  - first:
+      213: -7582903043700909174
+    second: ThugSmall_247
+  - first:
+      213: -7266102354307510746
+    second: ThugSmall_248
+  - first:
+      213: -97359128082729095
+    second: ThugSmall_249
+  - first:
+      213: -7226132779372674333
+    second: ThugSmall_250
+  - first:
+      213: -940357824435491238
+    second: ThugSmall_251
+  - first:
+      213: -5643402323753603296
+    second: ThugSmall_252
+  - first:
+      213: -8668869003399957488
+    second: ThugSmall_253
+  - first:
+      213: 3703300636522204446
+    second: ThugSmall_254
+  - first:
+      213: -7102143237999077726
+    second: ThugSmall_255
+  - first:
+      213: 3445931075138381360
+    second: ThugSmall_256
+  - first:
+      213: 1442084113016539819
+    second: ThugSmall_257
+  - first:
+      213: -8694527480670173519
+    second: ThugSmall_258
+  - first:
+      213: 769756694402542467
+    second: ThugSmall_259
+  - first:
+      213: 8574444699476083983
+    second: ThugSmall_260
+  - first:
+      213: -2805433508242910614
+    second: ThugSmall_261
+  - first:
+      213: -3769823229546887658
+    second: ThugSmall_262
+  - first:
+      213: 8052639235395110169
+    second: ThugSmall_263
+  - first:
+      213: -670281099168603471
+    second: ThugSmall_264
+  - first:
+      213: -7605027772235482164
+    second: ThugSmall_265
+  - first:
+      213: 2938253561879255403
+    second: ThugSmall_266
+  - first:
+      213: -2470512876656453251
+    second: ThugSmall_267
+  - first:
+      213: 1042063518871884496
+    second: ThugSmall_268
+  - first:
+      213: -4652117292186721682
+    second: ThugSmall_269
+  - first:
+      213: -2077990268729996605
+    second: ThugSmall_270
+  - first:
+      213: 1127173815034409908
+    second: ThugSmall_271
+  - first:
+      213: 6965809757514340983
+    second: ThugSmall_272
+  - first:
+      213: -3896611232327013358
+    second: ThugSmall_273
+  - first:
+      213: -8019988815979699453
+    second: ThugSmall_274
+  - first:
+      213: 1920591233910255036
+    second: ThugSmall_275
+  - first:
+      213: 1957095671049937414
+    second: ThugSmall_276
+  - first:
+      213: -178557972463198697
+    second: ThugSmall_277
+  - first:
+      213: 4421601690086090081
+    second: ThugSmall_278
+  - first:
+      213: -6809972838711779203
+    second: ThugSmall_279
+  - first:
+      213: -4196886634689820854
+    second: ThugSmall_280
+  - first:
+      213: -1833552759924411259
+    second: ThugSmall_281
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ThugSmall_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09931820068b44a10800000000000000
+      internalID: 1892840465900845456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1247
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9293330e2b5280210800000000000000
+      internalID: 1299329942692247849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1247
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b31f2261ec240080800000000000000
+      internalID: -9222196790421417037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1247
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e31edba20a06800800000000000000
+      internalID: 603658455502372473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda654de69bc4a760800000000000000
+      internalID: 7468317931173407453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1183
+        width: 194
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca43916ca3310e400800000000000000
+      internalID: 351301914087470252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1183
+        width: 194
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3ecf124727afc40800000000000000
+      internalID: 5546871734172181493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1183
+        width: 194
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b45372559ca6820800000000000000
+      internalID: 2912361476615654156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 193
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e428db487e61610800000000000000
+      internalID: 1591714075623181958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1119
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfecf3f713d2138c0800000000000000
+      internalID: -4021383301653606661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1119
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a669b37b2310010800000000000000
+      internalID: 1153258742143674941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1119
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b20ac3cac3743e00800000000000000
+      internalID: 1023570330025329331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1055
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d1c50b9391b3bd0800000000000000
+      internalID: -2649496220214747870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1119
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2467eb4183446b1c0800000000000000
+      internalID: -4488324970971236798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1119
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce6211774b0ac4e0800000000000000
+      internalID: -1960742286298812724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1119
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4d8f2a459b00d60800000000000000
+      internalID: 7854481523296752830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1055
+        width: 194
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5652537fa010880800000000000000
+      internalID: -8646617752709798452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1121
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1303d0b2d9e98350800000000000000
+      internalID: 6019599468076401437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1119
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a088b4001201adf0800000000000000
+      internalID: -170853043041435484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1121
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c317bcfa116450f0800000000000000
+      internalID: -1129170838026251319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_20
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1119
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ddc9b43ccc26930800000000000000
+      internalID: 4135092547038797143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_21
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1121
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c945b25043dfb30800000000000000
+      internalID: 4322668414151990343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1081
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c45ed417b4b1b90800000000000000
+      internalID: -7270134223449273218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1081
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf16cb77309022a0800000000000000
+      internalID: -6764248072336302150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1083
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de87fbcc8aaee10800000000000000
+      internalID: 2227778563027299626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1083
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18fb9880729b22c0800000000000000
+      internalID: -4455306394327058403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1081
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864732867eeefebb0800000000000000
+      internalID: -4904438791531170712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1081
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc583c10ed4ffa210800000000000000
+      internalID: 1346564047956575693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1089
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c821293dc2cb050800000000000000
+      internalID: 5817574105856248943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1081
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf04c4a137231f800800000000000000
+      internalID: 644351691634524411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1089
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d233ce647ed88840800000000000000
+      internalID: 5226671959219319507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1063
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a998f1e1aa391d60800000000000000
+      internalID: 7861379091507222947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9ad997029ac820800000000000000
+      internalID: 2939322268156337308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1073
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52b0dd3d62ba1a0800000000000000
+      internalID: -6797296521197181499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 385
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5caa21c2ae79aa20800000000000000
+      internalID: 3074127458147675231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 385
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f07840954deacd0800000000000000
+      internalID: -2544863260624613540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764df5b81e8d56b40800000000000000
+      internalID: 5432986988709925991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd92b338a19388540800000000000000
+      internalID: 5010317371483302365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341840f3d267d9870800000000000000
+      internalID: 8691232792597791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6d7de3551134680800000000000000
+      internalID: -8772148591363369246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d039cb9c91a20e020800000000000000
+      internalID: 2368939694244008717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae9f77da4f22d80800000000000000
+      internalID: -8276784139274163555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ffc0d8f6520e560800000000000000
+      internalID: 7340908553651945329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fa75230c41d1270800000000000000
+      internalID: 8222751310359277361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a835276bb645ad770800000000000000
+      internalID: 8636308057035527050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3098a997615ff9610800000000000000
+      internalID: 1630291067009665283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251bd2ad15c4ccae0800000000000000
+      internalID: -1527762259148951214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 863
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd52ca6690c4a230800000000000000
+      internalID: 3649253350345694660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_48
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 863
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8292d8ef3f8d5160800000000000000
+      internalID: 7015921299164926607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260c9c7c0efa2260800000000000000
+      internalID: 7073745494322447910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a82e685b5b852f0800000000000000
+      internalID: -983836727323751779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50328086c071edf0800000000000000
+      internalID: -152716914492034982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee6aad7816c2dcf0800000000000000
+      internalID: -228902822552637716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabfa2fce59944150800000000000000
+      internalID: 5855974047970163629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11feff6b17f173f30800000000000000
+      internalID: 4555144121370537745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d8f545359ccdab0800000000000000
+      internalID: -4981885728043594478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77dc35473e339570800000000000000
+      internalID: 8472183731119773566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fba039a24b7bc940800000000000000
+      internalID: 5317479311277599730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3c7595d41d4b090800000000000000
+      internalID: -8019554906298399828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_59
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fbf059250905c10800000000000000
+      internalID: 2040289315561389972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 799
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19033daa8bb6ace0800000000000000
+      internalID: -1394220830338905825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_61
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5280dacdfb0535b0800000000000000
+      internalID: -5389388194421636513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e431f1b9d16099380800000000000000
+      internalID: -8964126859077938354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_63
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99dbecaaecb01ef0800000000000000
+      internalID: -139403872338978403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_64
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a3d88f5c8a48b30800000000000000
+      internalID: 4288738313395583498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_65
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffddb7a5e0651d620800000000000000
+      internalID: 2797111463221386751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_66
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b248a7b791b58a590800000000000000
+      internalID: -7662774600966962133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_67
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2814deace8dca50800000000000000
+      internalID: 6543042835854230186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_68
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cdb13f4470d4a70800000000000000
+      internalID: 8812708038551788596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_69
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85975a676a01d9310800000000000000
+      internalID: 1413304165205375320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_70
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec70da92f5a290e20800000000000000
+      internalID: 3317229188744546254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_71
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b405a7cc6fcbcbc0800000000000000
+      internalID: -3761684997625019214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_72
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260e81dd47c008ff0800000000000000
+      internalID: -36015100953829278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_73
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc630f333c1be110800000000000000
+      internalID: 1291156724597877969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e22a37c06163c9b0800000000000000
+      internalID: -5061094487947074844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 735
+        width: 194
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66c595edebe7d260800000000000000
+      internalID: 7122420742701303405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_76
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 735
+        width: 194
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3d6bb25fcef3830800000000000000
+      internalID: 4053218727401280483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_77
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 737
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527d8fb9cdd279aa0800000000000000
+      internalID: -6154399940245661915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_78
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 735
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058e14d469812560800000000000000
+      internalID: 7287256738210678028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_79
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 737
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bbe72943bba39f0800000000000000
+      internalID: -487871775145804928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_80
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 737
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f6fd2c998f24a00800000000000000
+      internalID: 739426628125290255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_81
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 735
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b19f1624700b5d0800000000000000
+      internalID: -3048928966036874427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_82
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 737
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ae3a085db20be90800000000000000
+      internalID: -7012056423829607785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_83
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba380080fd3e5bc0800000000000000
+      internalID: -3792525733049910608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17d0284c2a69c90800000000000000
+      internalID: -7163359192406986313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_85
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccf6142082f689fe0800000000000000
+      internalID: -1182072684557537332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_86
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc16351ca9138bf90800000000000000
+      internalID: -6937740685226057265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_87
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d655e3fb43f8e770800000000000000
+      internalID: 8640423392650286803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_88
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f3230ca52feeff0800000000000000
+      internalID: -4800077995294843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_89
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b6f6945d3d33790800000000000000
+      internalID: -7551459237156656275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_90
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0959df3d84af360800000000000000
+      internalID: 7204150629262266578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_91
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076f7a78b21325bd0800000000000000
+      internalID: -2642995968283773328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_92
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd53672042d3e490800000000000000
+      internalID: -7718094163402334790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_93
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f64f2c5162866e00800000000000000
+      internalID: 1037660118825518841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_94
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09352dedc31d667d0800000000000000
+      internalID: -2925420848563989616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 385
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cac3dc47bc5a220800000000000000
+      internalID: 2496625270966758521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_96
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fbc98961d26f9d0800000000000000
+      internalID: -2740953748135428350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_97
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cacbe805412f6860800000000000000
+      internalID: 7525270082745518784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_98
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18c51e76d4619620800000000000000
+      internalID: 2779113317465442333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_99
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b5d4c4d81544020800000000000000
+      internalID: 2325072974942395141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_100
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba0c89a3d97ccbf30800000000000000
+      internalID: 4592765198117945515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0eb7f6c6c38c5700800000000000000
+      internalID: 530443745887763980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_102
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bf2860e3e2770e0800000000000000
+      internalID: -2272296643053028501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_103
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd038d6467dc27090800000000000000
+      internalID: -8038136477024505637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_104
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de9c342659ba3470800000000000000
+      internalID: 8375210236675137235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_105
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030ce147b1e4d5e80800000000000000
+      internalID: -8188302667670437840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_106
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 671
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305b07027b32c40800000000000000
+      internalID: 5486430121025143718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_107
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 671
+        width: 386
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666cb39e7cd45d470800000000000000
+      internalID: 8418720599445849702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_108
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 671
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0837b0ed4e7070800000000000000
+      internalID: 8106002006855387681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_109
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9867aa350d540c70800000000000000
+      internalID: 8936369837650176157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_110
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c42cfafbf9a20320800000000000000
+      internalID: 2522765640993612999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_111
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689fa0d80708b6180800000000000000
+      internalID: -9121055399417808506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_112
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154f52019263e8b0800000000000000
+      internalID: -5124143576067914469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_113
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6dcf116019b6d50800000000000000
+      internalID: 6731633523292952251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_114
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bced25cdbdfe17090800000000000000
+      internalID: -8038380132306329909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_115
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45b116e70eb70f40800000000000000
+      internalID: 5694729194967250254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_116
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba5e99503d49f180800000000000000
+      internalID: -9081142303558575432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_117
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42ad1704e6cfe650800000000000000
+      internalID: 6264444289369875019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_118
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 671
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd75b2e054b5f7a50800000000000000
+      internalID: 6521031137604360157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 193
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7a757abe724f410800000000000000
+      internalID: 1509875668154296228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_120
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 607
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d667b4c2837ab50800000000000000
+      internalID: 6604309141457890702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_121
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd79c34a338ce100800000000000000
+      internalID: 138629974810262976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_122
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4698f3060b4aca000800000000000000
+      internalID: 48594773430208868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_123
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ef18c95f4a1fa10800000000000000
+      internalID: 1941514289173102224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_124
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ab1e57194b1b320800000000000000
+      internalID: 2572035399046249111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_125
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6b6c1198767e8c0800000000000000
+      internalID: -3970090708097386782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_126
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51e489f41e5cb760800000000000000
+      internalID: 7474952925706772828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_127
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4820f350a27fa70800000000000000
+      internalID: 8860596993895072935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_128
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8950f4f057d568fe0800000000000000
+      internalID: -1187158694416153192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_129
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbbdd19a9f571e10800000000000000
+      internalID: 2168306863079013339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_130
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 607
+        width: 322
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc4dd52206d1bcf0800000000000000
+      internalID: -238174000560386866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_131
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac76bcfa69b9f50800000000000000
+      internalID: 6889265736769325805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_132
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f406efa7fa19d6570800000000000000
+      internalID: 8461579457767825487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_133
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0a870476020f20800000000000000
+      internalID: 3387276965148494780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_134
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 607
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a433862e5b5cc8d00800000000000000
+      internalID: 976372604210787146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_135
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a8dfcea9fadf30800000000000000
+      internalID: 4601264498519089403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_136
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9045402402fc9bff0800000000000000
+      internalID: -19756985892973559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_137
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07e6334655751e90800000000000000
+      internalID: -7055604227850705138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_138
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b721ea2bd369c40800000000000000
+      internalID: 5518666231023041380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_139
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a894041b3b95e870800000000000000
+      internalID: 8711539732259313831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_140
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 607
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc65b2d51d5b12c0800000000000000
+      internalID: -4459868657669542658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_141
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26863d883680e6c80800000000000000
+      internalID: -8327709437371127710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_142
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20654d6615e2bd10800000000000000
+      internalID: 2140024657439711279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 449
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b877a2ef4436e10800000000000000
+      internalID: 2189669702257052530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_144
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71a8e2d42bcb3320800000000000000
+      internalID: 2538846173971128702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_145
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac64a705c5f3f1ee0800000000000000
+      internalID: -1288241302684940598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_146
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b56e0e85bfde1d0800000000000000
+      internalID: -3319720991153300656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_147
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a075fea174f1c70800000000000000
+      internalID: 8943945565991275113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_148
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 543
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922ce0aeaf97fce00800000000000000
+      internalID: 1067205755285717545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_149
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9e7ba6b41465d60800000000000000
+      internalID: 7878556390300051921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_150
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744c883c9d4d73410800000000000000
+      internalID: 1456867036231156807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_151
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ee5219ab173ca20800000000000000
+      internalID: 3081431616164589078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_152
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 543
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b11ab18de224c70800000000000000
+      internalID: 8953770514877324120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_153
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040b8d0d68f5720a0800000000000000
+      internalID: -6906446470915248064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_154
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92c00b6519303230800000000000000
+      internalID: 3616453264930816671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_155
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97214560dac49840800000000000000
+      internalID: 5230028063684765597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_156
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 543
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d176f5798ce495a30800000000000000
+      internalID: 4204478350567106333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_157
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 543
+        width: 450
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bb0bd3f23f67df0800000000000000
+      internalID: -182691350637921380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_158
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 543
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92094ffc0f13c30800000000000000
+      internalID: 4337512692086483440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_159
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2353d53ea8ab160800000000000000
+      internalID: 7042093676473168566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_160
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985bc8106b62f2c60800000000000000
+      internalID: 7795492043153520009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_161
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0fed267e89f360800000000000000
+      internalID: 7203945717183745240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_162
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 543
+        width: 162
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e94bfd24c96dd40800000000000000
+      internalID: 5608842196971462146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_163
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a2fd9742089650800000000000000
+      internalID: 6239739790337680295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_164
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feabd586647b0f8d0800000000000000
+      internalID: -2814548254079993105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_165
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35c0f8c7440ceec0800000000000000
+      internalID: -3536446901032270530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_166
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 543
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16154db65694bd8d0800000000000000
+      internalID: -2820580041667882655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 449
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31882e926d292b6e0800000000000000
+      internalID: -1823233450608261101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_168
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 479
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c697ffc21dad1f790800000000000000
+      internalID: -7497971312657204884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_169
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d5af1d6eaceb000800000000000000
+      internalID: 53703338289159434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_170
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5e4a46c19260630800000000000000
+      internalID: 3892844129832723920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_171
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9caa6d0624e77f0800000000000000
+      internalID: -612979515589998081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_172
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 479
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522eba1585cb43240800000000000000
+      internalID: 4770644992805560869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_173
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9282617ed537a090800000000000000
+      internalID: -8023384981635956065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_174
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538563932b39700a0800000000000000
+      internalID: -6915396309130782667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_175
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cec8409ad1a15980800000000000000
+      internalID: -8551876257304228153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_176
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5982b5207f7821ec0800000000000000
+      internalID: -3597663657349404523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_177
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c151c04fd5b3420800000000000000
+      internalID: 2610783711747447838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_178
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e998c6d3fcc1040800000000000000
+      internalID: 4619795180496199314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_179
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 479
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bc7aa954b4281c0800000000000000
+      internalID: -4502953915097560316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_180
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 479
+        width: 450
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5444c50c4a9d29b10800000000000000
+      internalID: 1986889687248946245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_181
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 479
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c01fdc40e229b740800000000000000
+      internalID: 5168200394142060745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_182
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f5c3818accb2540800000000000000
+      internalID: 4984302434948767637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_183
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24894a4c59ad7d600800000000000000
+      internalID: 493103021004462146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_184
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c2771336fdbe640800000000000000
+      internalID: 5110423819306609814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_185
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 479
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af43150bfb38e2940800000000000000
+      internalID: 5273297073017533690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_186
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc761eeaff7e5a1d0800000000000000
+      internalID: -3340008463288670260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_187
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba9f10798f2e18f0800000000000000
+      internalID: -567964235663959370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_188
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3275049bf6d710c0800000000000000
+      internalID: -4604975717954522565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_189
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 479
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53d3a6db3ec7c5d0800000000000000
+      internalID: -3042236266866027684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 193
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad726532cf6ac5e0800000000000000
+      internalID: -1888574213818516055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_191
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 160
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299e479b124bbf0e0800000000000000
+      internalID: -2234994733120951918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_192
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 415
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58f7b36fd475c260800000000000000
+      internalID: 7117223288928467036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_193
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 415
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebc4a1a9d818ce00800000000000000
+      internalID: 1065128634872024041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_194
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b30ac2601726e60800000000000000
+      internalID: 7954044163222158221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_195
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 415
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629ec9f5d17191d0800000000000000
+      internalID: -3345767884326530451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_196
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 415
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db173d623d354c3e0800000000000000
+      internalID: -2034408965310025283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 193
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930be0ccef9918710800000000000000
+      internalID: 1693804254492274745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_198
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546c3fa7f8e077da0800000000000000
+      internalID: -5947268773513542075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_199
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 351
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c7fd0a77e40e400800000000000000
+      internalID: 351367046641974389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_200
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 351
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096aa260ac2565410800000000000000
+      internalID: 1465449756396005008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_201
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 351
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaf60e98d5d863b0800000000000000
+      internalID: -5518926217001633054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_202
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 351
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416ab93751699de40800000000000000
+      internalID: 5681737423782651412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_203
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 351
+        width: 96
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f920b59092ab87a90800000000000000
+      internalID: -7315892909249985889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_204
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 351
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8953d925f98d410800000000000000
+      internalID: 1502125652901730545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_205
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 351
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2801950c8d8f100800000000000000
+      internalID: 142101708901745390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_206
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 351
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc06e8a7ac0e5ba0800000000000000
+      internalID: -6098422931180352297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 193
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4e80f1448b4a750800000000000000
+      internalID: 6315375180198241514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_208
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8baf2ce720f0ee20800000000000000
+      internalID: 3377963774784809868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_209
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc24eb3b8d0100a90800000000000000
+      internalID: -7349856068954078515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_210
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31388ffbde3b20990800000000000000
+      internalID: -7421171402243800301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_211
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf27101805180bf0800000000000000
+      internalID: -358013046002077778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_212
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05fda5a7d800a000800000000000000
+      internalID: 45045718564336910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_213
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 128
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75031eeaa2d767a60800000000000000
+      internalID: 7671456637548310615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_214
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 287
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d78cb744156920800000000000000
+      internalID: 2982812626541072880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_215
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 287
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf2453de080ff7a0800000000000000
+      internalID: -6341340890546294841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_216
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dff7b91e8e90890800000000000000
+      internalID: -7491200449479967462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_217
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffd4b8c8bdff8e80800000000000000
+      internalID: -8174035828571054092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_218
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df3f5a044b72ff10800000000000000
+      internalID: 2302037891701751766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_219
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bb880e869844990800000000000000
+      internalID: -7402640803953591519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_220
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b720038efc2e80600800000000000000
+      internalID: 434846746622820987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_221
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8df1212daac80580800000000000000
+      internalID: -8860609421917422196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_222
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84ee3d58a9b62c40800000000000000
+      internalID: 5487277328767575182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_223
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dd6e72e53393160800000000000000
+      internalID: 7005687174840900999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_224
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7855f92965b23ddd0800000000000000
+      internalID: -2462576920414431865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_225
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb69d3ed1c531b000800000000000000
+      internalID: 49880177651324606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_226
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05482276d2af8b5b0800000000000000
+      internalID: -5352253084219046832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_227
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd622a83fabd70bb0800000000000000
+      internalID: -4969762118164142373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_228
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d0b48d06f4b2b10800000000000000
+      internalID: 1957745740386864539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_229
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfed9c866bd93980800000000000000
+      internalID: -8558568383348609066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_230
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e0a8b3ce1f3aa90800000000000000
+      internalID: -7303728173751333303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_231
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1d2d1919f462c30800000000000000
+      internalID: 4334239178026045891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_232
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3402e41c0bcabc60800000000000000
+      internalID: 7834797754514801723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_233
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ad5622b4c48b330800000000000000
+      internalID: 3726812577232444013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_234
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6163803c977a42c70800000000000000
+      internalID: 8945458901269624342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_235
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7040a958c026dad70800000000000000
+      internalID: 9056002231632528391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_236
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab7c1d6a96369d0800000000000000
+      internalID: -2782263979579819311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_237
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57099e224cc222380800000000000000
+      internalID: -8997579884621885323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_238
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c80818d59fd2e90800000000000000
+      internalID: -7048703661764998137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_239
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0edf4d0d326c3350800000000000000
+      internalID: 5997776818106523147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_240
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e97188dbcb6b6bf0800000000000000
+      internalID: -330051624426702362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_241
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf0eb8009374c520800000000000000
+      internalID: 2721427137297780666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_242
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628d355fc0eacf880800000000000000
+      internalID: -8575788219741513690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720faeaca8634f520800000000000000
+      internalID: 2734870843458514983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_244
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973d5bf070be835d0800000000000000
+      internalID: -3082455529374231687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_245
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 223
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f0a217cd8bd1450800000000000000
+      internalID: 6061203930441453430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_246
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899cf8786c4ac99d0800000000000000
+      internalID: -2766154898527499880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_247
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b9af19bdd14c690800000000000000
+      internalID: -7582903043700909174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_248
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 223
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e0fddf76e992b90800000000000000
+      internalID: -7266102354307510746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_249
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977bcfa836c16aef0800000000000000
+      internalID: -97359128082729095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_250
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e28fa9d58e97bb90800000000000000
+      internalID: -7226132779372674333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_251
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 223
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e63c87a8d23f2f0800000000000000
+      internalID: -940357824435491238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_252
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 223
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f6d009c7b9ea1b0800000000000000
+      internalID: -5643402323753603296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01473ff229df1b780800000000000000
+      internalID: -8668869003399957488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_254
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d4268de44c46330800000000000000
+      internalID: 3703300636522204446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_255
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a65f139a5e107d90800000000000000
+      internalID: -7102143237999077726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_256
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0366a163e0862df20800000000000000
+      internalID: 3445931075138381360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_257
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baac59c3cdf430410800000000000000
+      internalID: 1442084113016539819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_258
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b648c86255d65780800000000000000
+      internalID: -8694527480670173519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_259
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba75d92a9beaa00800000000000000
+      internalID: 769756694402542467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_260
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 159
+        width: 194
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05c08a560c8ef670800000000000000
+      internalID: 8574444699476083983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_261
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62143c86191119d0800000000000000
+      internalID: -2805433508242910614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_262
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61687d00fb5eeabc0800000000000000
+      internalID: -3769823229546887658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_263
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915491a48b8b0cf60800000000000000
+      internalID: 8052639235395110169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_264
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2a56044eea2b6f0800000000000000
+      internalID: -670281099168603471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_265
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb7ce8c883857690800000000000000
+      internalID: -7605027772235482164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_266
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 159
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69d6d70c06c6c820800000000000000
+      internalID: 2938253561879255403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_267
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d791dd5c0a9f6bdd0800000000000000
+      internalID: -2470512876656453251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_268
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d290c3df37267e00800000000000000
+      internalID: 1042063518871884496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_269
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6222c188fb507fb0800000000000000
+      internalID: -4652117292186721682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_270
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca41a93cde7923e0800000000000000
+      internalID: -2077990268729996605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_271
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b37f3ddc9684af00800000000000000
+      internalID: 1127173815034409908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_272
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a979961178ba060800000000000000
+      internalID: 6965809757514340983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_273
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 95
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ce955bab47ce9c0800000000000000
+      internalID: -3896611232327013358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_274
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 95
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ace0e9a643b090800000000000000
+      internalID: -8019988815979699453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd23ff2d8f47aa10800000000000000
+      internalID: 1920591233910255036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_276
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602e268c420092b10800000000000000
+      internalID: 1957095671049937414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_277
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 31
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e54875872a58df0800000000000000
+      internalID: -178557972463198697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_278
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16529db7f4fac5d30800000000000000
+      internalID: 4421601690086090081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_279
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70a682b8cd1e71a0800000000000000
+      internalID: -6809972838711779203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_280
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a478ab087d9a1c5c0800000000000000
+      internalID: -4196886634689820854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThugSmall_281
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b4cbba79ed86e0800000000000000
+      internalID: -1833552759924411259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
