@@ -7,6 +7,8 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private RenderTexture narugubiTexture;
     [SerializeField] private Tilemap furtwangenCollider;
     [SerializeField] private Tilemap narugubiCollider;
+    [SerializeField] private GameObject navmeshFurtwangen;
+    [SerializeField] private GameObject navmeshNarugubi;
     [SerializeField] private Camera _camera;
     private bool isFurtwangenActive = true;
 
@@ -76,6 +78,8 @@ public class LanternEffectController : MonoBehaviour
     {
         if (init == true)
         {
+            navmeshFurtwangen.SetActive(true);
+            navmeshNarugubi.SetActive(false);
             furtwangenCollider.gameObject.SetActive(true);
             narugubiCollider.gameObject.SetActive(false);
             return;
@@ -90,11 +94,15 @@ public class LanternEffectController : MonoBehaviour
     {
         if (isFurtwangenActive)
         {
+            navmeshFurtwangen.SetActive(true);
+            navmeshNarugubi.SetActive(false);
             lanternEffectMaterial.SetTexture("_ActiveWorldTexture", furtwangenTexture);
             lanternEffectMaterial.SetTexture("_InactiveWorldTexture", narugubiTexture);
         }
         else
         {
+            navmeshFurtwangen.SetActive(false);
+            navmeshNarugubi.SetActive(true);
             lanternEffectMaterial.SetTexture("_ActiveWorldTexture", narugubiTexture);
             lanternEffectMaterial.SetTexture("_InactiveWorldTexture", furtwangenTexture);
         }
