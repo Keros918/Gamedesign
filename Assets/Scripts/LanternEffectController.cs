@@ -48,7 +48,7 @@ public class LanternEffectController : MonoBehaviour
     {
 
         useLantern = playerControls.World.Action2.ReadValue<float>();
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.L))
         {
             isFurtwangenActive = !isFurtwangenActive;
             UpdateWorldTextures(false);

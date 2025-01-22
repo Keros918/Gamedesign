@@ -31,7 +31,7 @@ public abstract class Interactable : MonoBehaviour
         {
             interactSprite.enabled = false;
         }
-        if (Input.GetKeyDown(KeyCode.Q) && isWithinInteractDistance && hasInteraction)
+        if (playerControls.World.Interact.triggered && isWithinInteractDistance && hasInteraction)
         {
             Interact();
         }
