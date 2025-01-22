@@ -2059,7 +2059,85 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CollectorGuy_0: 4323546329427826098
+      CollectorGuy_1: -3509462207379348128
+      CollectorGuy_10: -5505014375577875027
+      CollectorGuy_11: 1635267027769252547
+      CollectorGuy_12: -8088934186990803310
+      CollectorGuy_13: -632325098627130340
+      CollectorGuy_14: 3929218810398366903
+      CollectorGuy_15: 5668119542341883346
+      CollectorGuy_16: 999152117718554452
+      CollectorGuy_17: 765895963345629178
+      CollectorGuy_18: -1228390493727724451
+      CollectorGuy_19: 3101167141884513872
+      CollectorGuy_2: 5554669934188752621
+      CollectorGuy_20: 3704785055390546689
+      CollectorGuy_21: -8406047365402306747
+      CollectorGuy_22: -6895334826166808880
+      CollectorGuy_23: -8488222792588642868
+      CollectorGuy_24: 9065689171972494031
+      CollectorGuy_25: -8384380530205071909
+      CollectorGuy_26: 2753073989248553102
+      CollectorGuy_27: -1143279808759083265
+      CollectorGuy_28: -5511705898100535431
+      CollectorGuy_29: -1180074063824453326
+      CollectorGuy_3: -4018718930297465381
+      CollectorGuy_30: -1981704315700159261
+      CollectorGuy_31: -6113686928386273599
+      CollectorGuy_32: 8396185736961002100
+      CollectorGuy_33: -5383716377166302558
+      CollectorGuy_34: 8731877248970720065
+      CollectorGuy_35: 3382233936523477422
+      CollectorGuy_36: -2416428706250451955
+      CollectorGuy_37: -7916218505315420507
+      CollectorGuy_38: 8423418167482963274
+      CollectorGuy_39: -3973833143066843991
+      CollectorGuy_4: -1978162886801018767
+      CollectorGuy_40: -372927640257114461
+      CollectorGuy_41: -3852533139883308137
+      CollectorGuy_42: -8006160885720980988
+      CollectorGuy_43: -7417005362878679172
+      CollectorGuy_44: 502100881420953752
+      CollectorGuy_45: -5558834358982831649
+      CollectorGuy_46: 4197972005894552360
+      CollectorGuy_47: -2151713812789538992
+      CollectorGuy_48: 6498938431829161095
+      CollectorGuy_49: 8775652743531381689
+      CollectorGuy_5: -1803171149294221047
+      CollectorGuy_50: -6824125928245008238
+      CollectorGuy_51: 70470113105965965
+      CollectorGuy_52: 4640317540258899509
+      CollectorGuy_53: -5250252960145582794
+      CollectorGuy_54: -9040232474839291298
+      CollectorGuy_55: -5257857285620448065
+      CollectorGuy_56: -7489399610607621550
+      CollectorGuy_57: 873951359646769961
+      CollectorGuy_58: -8512692229932221561
+      CollectorGuy_59: 1911350232031136503
+      CollectorGuy_6: 5317897901482176632
+      CollectorGuy_60: 8857301805154926774
+      CollectorGuy_61: -3137492986414467544
+      CollectorGuy_62: -6405611163861032230
+      CollectorGuy_63: 7188071929035116538
+      CollectorGuy_64: 8225471026466703461
+      CollectorGuy_65: -8960518792329544976
+      CollectorGuy_66: -6759625908125390070
+      CollectorGuy_67: 4599460521111124113
+      CollectorGuy_68: 5315695804950284805
+      CollectorGuy_69: 3008413996215659024
+      CollectorGuy_7: 4721158229050378922
+      CollectorGuy_70: -4894550436328775147
+      CollectorGuy_71: -8072716118476199303
+      CollectorGuy_72: 8706362103476295389
+      CollectorGuy_73: 3709461308825207933
+      CollectorGuy_74: 1781720825219901454
+      CollectorGuy_75: -2897589880916398926
+      CollectorGuy_76: 4306634211126211226
+      CollectorGuy_77: -3317852259770116466
+      CollectorGuy_8: -4261471591880829870
+      CollectorGuy_9: -3473714824419839229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
