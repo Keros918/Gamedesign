@@ -38,6 +38,7 @@ public class Obelisk : Interactable
         if (!isActivated)
         {
             isActivated = true;
+            hasInteraction = false;
             Debug.Log("Obelisk has been activated");
 
             if (spriteRenderer != null)

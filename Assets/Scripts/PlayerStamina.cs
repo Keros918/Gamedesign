@@ -42,17 +42,23 @@ public class PlayerStamina : MonoBehaviour
     }
     public bool UseStamina(float amount)
     {
-        currentStamina -= amount;
+        float stamina = currentStamina - amount;
+        // currentStamina -= amount;
         OnPlayerStaminaChanged.Invoke();
-        CheckStaminaStatus();
+        CheckStaminaStatus(stamina);
+        if (stamina <= 0)
+        {
+            return false;
+        }
+        currentStamina = stamina;
         return true;
     }
 
-    private void CheckStaminaStatus()
+    private void CheckStaminaStatus(float stamina)
     {
-        if (currentStamina <= 0)
+        if (stamina <= 0)
         {
-            currentStamina = 0;
+            // currentStamina = 0;
             isRegenerating = false;
             regenDelayTimer = emptyStaminaDelay;
             StartCoroutine(DelayedRegen());

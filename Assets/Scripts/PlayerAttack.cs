@@ -41,13 +41,16 @@ public class PlayerAttack : MonoBehaviour
 
         if (playerControls.World.Action1.triggered)
         {
-            animator.SetTrigger("Laser");
             Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
-            stamina.UseStamina(staminaCost);
-            foreach (Collider2D hit in hits)
+            if (stamina.UseStamina(staminaCost))
             {
-                hit.GetComponent<Enemy>()?.TakeDamage(attackDamage);
-                // hit.GetComponent<Obelisk>()?.In;
+                stamina.UseStamina(staminaCost);
+                animator.SetTrigger("Laser");
+                foreach (Collider2D hit in hits)
+                {
+                    hit.GetComponent<Enemy>()?.TakeDamage(attackDamage);
+                    // hit.GetComponent<Obelisk>()?.In;
+                }
             }
         } 
     }

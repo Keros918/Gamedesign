@@ -10,11 +10,32 @@ public class Inventory : MonoBehaviour
     [SerializeField] private float healingAmount = 10f;
     [SerializeField] private EnemyManager enemyManager;
 
+    private PlayerControls playerControls;
+
     public bool HasLaserSword => hasLaserSword;
     public bool HasLantern => hasLantern;
     public int Money => money;
     public int Pfand => pfand;
     public int HealingItems => healingItems;
+    void Awake()
+    {
+        playerControls = new PlayerControls();
+    }
+    private void OnEnable(){
+        playerControls.Enable();
+    }
+
+    private void OnDisable(){
+        playerControls.Disable();
+    }
+    void Update()
+    {
+
+        if (playerControls.World.Action3.triggered)
+        {
+            UseHealingItem();
+        }
+    }
 
     public void UnlockLaserSword()
     {
