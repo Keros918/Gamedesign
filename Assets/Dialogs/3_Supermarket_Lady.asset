@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6911ef8aa31ec94a880d7e25447239c, type: 3}
+  m_Name: 3_Supermarket_Lady
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - "Oh, hello there, sweetie! I\u2019m so sorry, but the store is currently closed
+    for renovations. It\u2019s a bit of a mess in here. But don\u2019t worry - we\u2019ve
+    got a couple of vending machines outside if you\u2019re just looking for a quick
+    snack or drink.\r\n"
+  - "Oh no, that\u2019s a shame! I just got here and was really hoping to pick up
+    some groceries. But I guess the vending machines will have to do for now.\r\n"
+  - "I know, it\u2019s inconvenient, isn\u2019t it? But the renovations will make
+    the store much nicer, I promise! In the meantime, the vending machines should
+    have a good selection of basics. Oh, and if you\u2019re buying a drink, don\u2019t
+    forget that there\u2019s a deposit on the bottles and cans.\r\n"
+  - 'Deposit? How does that work?
+
+'
+  - "It\u2019s pretty simple! When you buy a drink, part of the price is a refundable
+    deposit. Once you\u2019re done with the bottle or can, you can return it to the
+    recycling machine over there. Just pop it in, and it\u2019ll give you your deposit
+    money back. It\u2019s a great system to keep things tidy and encourage recycling!\r\n"
+  - "Oh, that\u2019s good to know. Thanks for explaining! I\u2019ll grab something
+    and make sure to return the bottle later.\r\n"
+  - "You\u2019re welcome, sweetie. Sorry again for the inconvenience. We\u2019ll
+    be open again soon, so be sure to check back if you need more than just snacks.
+    Take care!\r\n"
+  - 'Thanks! Have a great day!
+
+'
+  completed: 0

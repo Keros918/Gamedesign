@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6911ef8aa31ec94a880d7e25447239c, type: 3}
+  m_Name: 4_Police_Officer
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - "Hold on there! Before I can let you through, I\u2019ll need to see your student
+    ID.\r\n"
+  - "I don\u2019t have one yet. I\u2019m a new student here."
+  - "No ID, no entry - I\u2019m afraid there are no exceptions. Ever since the recent
+    brawls between the local gangs and students, we\u2019ve tightened security. Only
+    officially registered students are allowed on campus.\r\n"
+  completed: 0
