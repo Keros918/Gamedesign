@@ -11,12 +11,16 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private GameObject navmeshNarugubi;
     [SerializeField] private Camera _camera;
     [SerializeField] private EnemyManager enemyManager;
+    [SerializeField] private GameObject mazeEntry;
+    [SerializeField] private GameObject trashcans;
     public bool isFurtwangenActive = true;
 
     private bool isLanternEnabled = false;
     [SerializeField] private Material lanternEffectMaterial;
     [SerializeField] private Transform lanternTransform;
     [SerializeField] private float lanternRadius = 5f;
+    [SerializeField] private GameObject obelisksNarugubi;
+    [SerializeField] private GameObject obelisksFurtwangen;
 
     private PlayerControls playerControls;
     private float useLantern;
@@ -66,13 +70,21 @@ public class LanternEffectController : MonoBehaviour
     {
         if (isLanternEnabled)
         {
+            if (!isFurtwangenActive)
+            {
+                mazeEntry.SetActive(false);
+            }
             lanternEffectMaterial.SetInt("_EnableLantern", 1);
         }
         else
         {
+            if (!isFurtwangenActive)
+            {
+                mazeEntry.SetActive(true);
+            }
             lanternEffectMaterial.SetInt("_EnableLantern", 0);
         }
-        SwapColliders(init);
+        // SwapColliders(init);
     }
 
     void SwapColliders(bool init)
@@ -95,6 +107,10 @@ public class LanternEffectController : MonoBehaviour
     {
         if (isFurtwangenActive)
         {
+            obelisksFurtwangen.SetActive(true);
+            obelisksNarugubi.SetActive(false);
+            trashcans.SetActive(true);
+            mazeEntry.SetActive(false);
             enemyManager.Enable();
             navmeshFurtwangen.SetActive(true);
             navmeshNarugubi.SetActive(false);
@@ -103,6 +119,10 @@ public class LanternEffectController : MonoBehaviour
         }
         else
         {
+            obelisksFurtwangen.SetActive(false);
+            obelisksNarugubi.SetActive(true);
+            trashcans.SetActive(false);
+            mazeEntry.SetActive(true);
             enemyManager.Disable();
             navmeshFurtwangen.SetActive(false);
             navmeshNarugubi.SetActive(true);

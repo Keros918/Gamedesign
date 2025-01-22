@@ -10,6 +10,12 @@ public class Trashcan : Interactable
         if (GameObject.FindGameObjectWithTag("Player").TryGetComponent<Inventory>(out var inventory))
         {
             inventory.CollectPfand(pfandAmount);
+            pfandAmount--;
+        }
+        if (pfandAmount == 0)
+        {
+            hasInteraction = false;
+            // gameObject.SetActive(false);
         }
     }
 }

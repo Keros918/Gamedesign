@@ -3,6 +3,7 @@ using UnityEngine;
 public class MazeFOV : MonoBehaviour
 {
     [SerializeField] private Material lanternEffectMaterial;
+    [SerializeField] private LanternEffectController lantern;
 
     void Start()
     {
@@ -11,7 +12,7 @@ public class MazeFOV : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if (!other.CompareTag("Player"))
+        if (!other.CompareTag("Player") || lantern.isFurtwangenActive)
         {
             return;
         }

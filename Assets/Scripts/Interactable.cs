@@ -1,8 +1,9 @@
+using System.Linq;
 using UnityEngine;
 
 public abstract class Interactable : MonoBehaviour
 {
-    [SerializeField] private SpriteRenderer interactSprite;
+    private SpriteRenderer interactSprite;
     [SerializeField] private Transform playerTransform;
     [SerializeField] private float interactDistance = 5f;
     protected bool hasInteraction = true;
@@ -12,6 +13,7 @@ public abstract class Interactable : MonoBehaviour
 
     void Awake()
     {
+        interactSprite = GetComponentsInChildren<SpriteRenderer>().LastOrDefault();
         playerControls = new PlayerControls();          //NewInputSystem
     }
     private void OnEnable(){                            //NewInputSystem
@@ -25,6 +27,10 @@ public abstract class Interactable : MonoBehaviour
         interact = playerControls.World.Interact.ReadValue<float>();      //NewInputSystem
         bool isWithinInteractDistance = IsWithinInteractDistance();
         interactSprite.gameObject.SetActive(isWithinInteractDistance);
+        if (!hasInteraction)
+        {
+            interactSprite.enabled = false;
+        }
         if (Input.GetKeyDown(KeyCode.Q) && isWithinInteractDistance && hasInteraction)
         {
             Interact();
