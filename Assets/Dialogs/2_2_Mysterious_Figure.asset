@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6911ef8aa31ec94a880d7e25447239c, type: 3}
+  m_Name: 2_2_Mysterious_Figure
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - "Oh my\u2026 that\u2019s fascinating! How did you do that?"
+  - "That, my curious friend, is no ordinary lantern. It\u2019s a relic of another
+    age, capable of revealing\u2026 let\u2019s call them hidden truths. What you\u2019re
+    seeing is a fragment of this world as it exists in a different reality. And what
+    you just did is just the beginning of what it can do.\r\n"
+  - 'Were you trying to pass through that gate?
+
+'
+  - "Oh, the gate? That\u2019s just a minor obstacle. My real goal lies far beyond
+    it, deep within the city, locked behind riddles and barriers. I\u2019ve been
+    looking for someone capable of wielding that lantern properly.\r\n"
+  - "The Inner City\u2026 I was planning to go there myself. But it seems like all
+    roads to it are currently blocked.\r\n"
+  - "Yes, but there\u2019s an old legend. It speaks of three Obelisks scattered across
+    the city, hidden in plain sight. Activate all three, and they\u2019ll open a
+    path straight to the heart of the Inner City. I\u2019ve been trying to figure
+    out how to reach them, but with the lantern in your hands, you might have a real
+    chance.\r\n"
+  - "Three Obelisks\u2026 got it. Sounds straightforward enough. I\u2019ll take care
+    of it.\r\n"
+  - "You\u2019re\u2026 really just agreeing to this? Just like that? No haggling
+    for a reward or questioning my motives?\r\n"
+  - 'Well I need to get into the Inner City anyway. If this helps us both, all the
+    better.
+
+'
+  - "Aren\u2019t you a refreshing change of pace? Fine, then. Take the lantern. You\u2019ll
+    need it to find the Obelisks. Once you\u2019ve activated all three, meet me at
+    the gate to the Inner City. Together, we\u2019ll see what lies beyond. \nAnd\u2026
+    thank you. Truly. I didn\u2019t expect to find someone so willing to help.\r\n"
+  completed: 0

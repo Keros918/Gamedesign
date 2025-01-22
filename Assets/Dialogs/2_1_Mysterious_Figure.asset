@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6911ef8aa31ec94a880d7e25447239c, type: 3}
+  m_Name: 2_1_Mysterious_Figure
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - "Hmm\u2026 maybe if I twist it here\u2026ouch\u2026no, no, that\u2019s not it.
+    Ugh, why won\u2019t this stupid thing work?\r\n"
+  - "Uh\u2026 are you okay? Maybe I can help?\r\n"
+  - "Oh, hello there. Didn\u2019t see you sneaking up on me like that. Hmph\u2026
+    I mean, why not? It\u2019s not like I\u2019m getting anywhere with it. But be
+    careful, it\u2019s more than just some trinket - it\u2019s\u2026 well, complicated.
+    Fragile, too.\r\n"
+  completed: 0

@@ -15,8 +15,11 @@ public class NPC : Interactable
     private void Start()
     {
         agent = GetComponent<NavMeshAgent>();
-        agent.updateRotation = false;
-        agent.updateUpAxis = false;
+        if (agent != null)
+        {
+            agent.updateRotation = false;
+            agent.updateUpAxis = false;
+        }
         foreach (var text in dialogTexts)
         {
             text.completed = false;

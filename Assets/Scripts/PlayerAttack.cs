@@ -47,7 +47,7 @@ public class PlayerAttack : MonoBehaviour
             foreach (Collider2D hit in hits)
             {
                 hit.GetComponent<Enemy>()?.TakeDamage(attackDamage);
-                hit.GetComponent<Obelisk>()?.Activate();
+                // hit.GetComponent<Obelisk>()?.In;
             }
         } 
     }
