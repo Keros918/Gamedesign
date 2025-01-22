@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public class PlayerHealth : MonoBehaviour
@@ -19,5 +20,10 @@ public class PlayerHealth : MonoBehaviour
         }
         currentHealth = updatedHealth;
         Debug.Log("Player health: " + currentHealth);
+    }
+
+    public void Regenrate(float amount)
+    {
+        currentHealth = Math.Min(maxHealth, amount);
     }
 }
