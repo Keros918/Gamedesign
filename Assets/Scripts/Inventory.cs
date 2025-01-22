@@ -8,6 +8,7 @@ public class Inventory : MonoBehaviour
     [SerializeField] private int pfand = 0;
     [SerializeField] private int healingItems = 0;
     [SerializeField] private float healingAmount = 10f;
+    [SerializeField] private EnemyManager enemyManager;
 
     public bool HasLaserSword => hasLaserSword;
     public bool HasLantern => hasLantern;
@@ -15,7 +16,11 @@ public class Inventory : MonoBehaviour
     public int Pfand => pfand;
     public int HealingItems => healingItems;
 
-    public void UnlockLaserSword() => hasLaserSword = true;
+    public void UnlockLaserSword()
+    {
+        hasLaserSword = true;
+        enemyManager.Enable();
+    }
     public void UnlockLantern() => hasLantern = true;
 
     public void CollectMoney(int amount) => money += amount;

@@ -10,7 +10,8 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private GameObject navmeshFurtwangen;
     [SerializeField] private GameObject navmeshNarugubi;
     [SerializeField] private Camera _camera;
-    private bool isFurtwangenActive = true;
+    [SerializeField] private EnemyManager enemyManager;
+    public bool isFurtwangenActive = true;
 
     private bool isLanternEnabled = false;
     [SerializeField] private Material lanternEffectMaterial;
@@ -94,6 +95,7 @@ public class LanternEffectController : MonoBehaviour
     {
         if (isFurtwangenActive)
         {
+            enemyManager.Enable();
             navmeshFurtwangen.SetActive(true);
             navmeshNarugubi.SetActive(false);
             lanternEffectMaterial.SetTexture("_ActiveWorldTexture", furtwangenTexture);
@@ -101,6 +103,7 @@ public class LanternEffectController : MonoBehaviour
         }
         else
         {
+            enemyManager.Disable();
             navmeshFurtwangen.SetActive(false);
             navmeshNarugubi.SetActive(true);
             lanternEffectMaterial.SetTexture("_ActiveWorldTexture", narugubiTexture);

@@ -56,7 +56,7 @@ Material:
     - _RestrictedVisionRadius: 1.5
     m_Colors:
     - _CameraOffset: {r: 0, g: 0, b: 0, a: 0}
-    - _LanternPosition: {r: 0.4984449, g: 0.508132, b: 10, a: 0}
+    - _LanternPosition: {r: 0.50000185, g: 0.49936557, b: 10, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &9211864007598875922

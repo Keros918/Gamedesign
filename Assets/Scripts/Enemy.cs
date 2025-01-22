@@ -58,7 +58,7 @@ public class Enemy : MonoBehaviour
         if (target != null && canAttack == true && distance <= attackRange)
         {
             Collider2D attackHit = Physics2D.OverlapCircle(transform.position, attackRange, playerLayer);
-            if (attackHit.TryGetComponent<PlayerHealth>(out var player))
+            if (attackHit != null && attackHit.TryGetComponent<PlayerHealth>(out var player))
             {
                 player.TakeDamage(attackDamage);
                 canAttack = false;
