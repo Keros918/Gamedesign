@@ -1,0 +1,8167 @@
+fileFormatVersion: 2
+guid: a8d9acd5e62af594cac837eeb650e3b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -258353922438701194
+    second: LaserDude_32x32_0
+  - first:
+      213: 4623438236437269
+    second: LaserDude_32x32_1
+  - first:
+      213: 515501842094917424
+    second: LaserDude_32x32_2
+  - first:
+      213: -2206755073928646639
+    second: LaserDude_32x32_3
+  - first:
+      213: 3410687246490748834
+    second: LaserDude_32x32_4
+  - first:
+      213: 1043989662455956378
+    second: LaserDude_32x32_5
+  - first:
+      213: -3433670024158312565
+    second: LaserDude_32x32_6
+  - first:
+      213: 4036528751206235862
+    second: LaserDude_32x32_7
+  - first:
+      213: 2650416776331404598
+    second: LaserDude_32x32_8
+  - first:
+      213: 809274962959253444
+    second: LaserDude_32x32_9
+  - first:
+      213: -6601991585935460238
+    second: LaserDude_32x32_10
+  - first:
+      213: 3199961275847872628
+    second: LaserDude_32x32_11
+  - first:
+      213: -4727934273111528783
+    second: LaserDude_32x32_12
+  - first:
+      213: 6322327175699817116
+    second: LaserDude_32x32_13
+  - first:
+      213: 5156029747560149463
+    second: LaserDude_32x32_14
+  - first:
+      213: -8441408918889094001
+    second: LaserDude_32x32_15
+  - first:
+      213: -237235697730536433
+    second: LaserDude_32x32_16
+  - first:
+      213: -8539235074328932304
+    second: LaserDude_32x32_17
+  - first:
+      213: 5096574458875255897
+    second: LaserDude_32x32_18
+  - first:
+      213: 5186992451855935842
+    second: LaserDude_32x32_19
+  - first:
+      213: 7156987126972544555
+    second: LaserDude_32x32_20
+  - first:
+      213: 6218782282345319196
+    second: LaserDude_32x32_21
+  - first:
+      213: -5459628538214098137
+    second: LaserDude_32x32_22
+  - first:
+      213: -6403855945868834614
+    second: LaserDude_32x32_23
+  - first:
+      213: -7828333906047901427
+    second: LaserDude_32x32_24
+  - first:
+      213: 4341696863335810983
+    second: LaserDude_32x32_25
+  - first:
+      213: 8103876782146481189
+    second: LaserDude_32x32_26
+  - first:
+      213: -5296484682764490094
+    second: LaserDude_32x32_27
+  - first:
+      213: 2096653535517774188
+    second: LaserDude_32x32_28
+  - first:
+      213: -4985097804564071826
+    second: LaserDude_32x32_29
+  - first:
+      213: 1127482309958057982
+    second: LaserDude_32x32_30
+  - first:
+      213: -8803699937900457500
+    second: LaserDude_32x32_31
+  - first:
+      213: -7978791086273112206
+    second: LaserDude_32x32_32
+  - first:
+      213: 6850450816511653868
+    second: LaserDude_32x32_33
+  - first:
+      213: 4285847531985770366
+    second: LaserDude_32x32_34
+  - first:
+      213: -7401022379739654771
+    second: LaserDude_32x32_35
+  - first:
+      213: 594604026363430541
+    second: LaserDude_32x32_36
+  - first:
+      213: 7151079590256389903
+    second: LaserDude_32x32_37
+  - first:
+      213: 4265218859137053431
+    second: LaserDude_32x32_38
+  - first:
+      213: 1347751262075610729
+    second: LaserDude_32x32_39
+  - first:
+      213: 5741666092407040897
+    second: LaserDude_32x32_40
+  - first:
+      213: 9207806659026120653
+    second: LaserDude_32x32_41
+  - first:
+      213: 1638003629920745394
+    second: LaserDude_32x32_42
+  - first:
+      213: -3913553345721988714
+    second: LaserDude_32x32_43
+  - first:
+      213: -2792661992595237308
+    second: LaserDude_32x32_44
+  - first:
+      213: -6773619727246714734
+    second: LaserDude_32x32_45
+  - first:
+      213: -2425707979208837443
+    second: LaserDude_32x32_46
+  - first:
+      213: 3601454233543558005
+    second: LaserDude_32x32_47
+  - first:
+      213: -2162385744449105694
+    second: LaserDude_32x32_48
+  - first:
+      213: 1217411443937771500
+    second: LaserDude_32x32_49
+  - first:
+      213: -591797160946401582
+    second: LaserDude_32x32_50
+  - first:
+      213: 8615670122061489559
+    second: LaserDude_32x32_51
+  - first:
+      213: -4653926178115427714
+    second: LaserDude_32x32_52
+  - first:
+      213: -6566972281776037935
+    second: LaserDude_32x32_53
+  - first:
+      213: 1491876827494438417
+    second: LaserDude_32x32_54
+  - first:
+      213: 804866926811359030
+    second: LaserDude_32x32_55
+  - first:
+      213: 1588172443046687473
+    second: LaserDude_32x32_56
+  - first:
+      213: -4825684275192573471
+    second: LaserDude_32x32_57
+  - first:
+      213: -5452082037282225862
+    second: LaserDude_32x32_58
+  - first:
+      213: -8192615676260951586
+    second: LaserDude_32x32_59
+  - first:
+      213: 1363646908242925824
+    second: LaserDude_32x32_60
+  - first:
+      213: 6561755599229799708
+    second: LaserDude_32x32_61
+  - first:
+      213: -6714979760908136747
+    second: LaserDude_32x32_62
+  - first:
+      213: -8434909964285754196
+    second: LaserDude_32x32_63
+  - first:
+      213: 5712294343844991838
+    second: LaserDude_32x32_64
+  - first:
+      213: 2073949564747121777
+    second: LaserDude_32x32_65
+  - first:
+      213: -5054518699321396325
+    second: LaserDude_32x32_66
+  - first:
+      213: -4538240980840096212
+    second: LaserDude_32x32_67
+  - first:
+      213: 3018641624957000314
+    second: LaserDude_32x32_68
+  - first:
+      213: 3019777806030864700
+    second: LaserDude_32x32_69
+  - first:
+      213: 1350240600017646877
+    second: LaserDude_32x32_70
+  - first:
+      213: -5588448811834597220
+    second: LaserDude_32x32_71
+  - first:
+      213: 5924421160743049540
+    second: LaserDude_32x32_72
+  - first:
+      213: -4867499926970611323
+    second: LaserDude_32x32_73
+  - first:
+      213: -5561844792060837539
+    second: LaserDude_32x32_74
+  - first:
+      213: 2498504774762891877
+    second: LaserDude_32x32_75
+  - first:
+      213: 8153654585220140536
+    second: LaserDude_32x32_76
+  - first:
+      213: 8165518101432288541
+    second: LaserDude_32x32_77
+  - first:
+      213: 5106099644818312597
+    second: LaserDude_32x32_78
+  - first:
+      213: 1554567302655607151
+    second: LaserDude_32x32_79
+  - first:
+      213: 7088041234941916402
+    second: LaserDude_32x32_80
+  - first:
+      213: 1642852812050838008
+    second: LaserDude_32x32_81
+  - first:
+      213: -609301648055311203
+    second: LaserDude_32x32_82
+  - first:
+      213: -285882806033898340
+    second: LaserDude_32x32_83
+  - first:
+      213: 5805860279410782310
+    second: LaserDude_32x32_84
+  - first:
+      213: 2979321481511279666
+    second: LaserDude_32x32_85
+  - first:
+      213: -6615022474661907226
+    second: LaserDude_32x32_86
+  - first:
+      213: 9193881106649778835
+    second: LaserDude_32x32_87
+  - first:
+      213: 7111364921875209486
+    second: LaserDude_32x32_88
+  - first:
+      213: 272972359157725050
+    second: LaserDude_32x32_89
+  - first:
+      213: 6270512253251764903
+    second: LaserDude_32x32_90
+  - first:
+      213: -5329089869457851118
+    second: LaserDude_32x32_91
+  - first:
+      213: 5628188934963565458
+    second: LaserDude_32x32_92
+  - first:
+      213: 7839087331611003221
+    second: LaserDude_32x32_93
+  - first:
+      213: -3054873736149063804
+    second: LaserDude_32x32_94
+  - first:
+      213: 9080649794793367409
+    second: LaserDude_32x32_95
+  - first:
+      213: -188815200623944384
+    second: LaserDude_32x32_96
+  - first:
+      213: 2712591157312636918
+    second: LaserDude_32x32_97
+  - first:
+      213: -8039629824429878894
+    second: LaserDude_32x32_98
+  - first:
+      213: -3900487003796466412
+    second: LaserDude_32x32_99
+  - first:
+      213: 9187619922351348087
+    second: LaserDude_32x32_100
+  - first:
+      213: 7627830474187772577
+    second: LaserDude_32x32_101
+  - first:
+      213: -5964982541623017824
+    second: LaserDude_32x32_102
+  - first:
+      213: 7355405208271956517
+    second: LaserDude_32x32_103
+  - first:
+      213: -2538519029019050563
+    second: LaserDude_32x32_104
+  - first:
+      213: 1842826501588301158
+    second: LaserDude_32x32_105
+  - first:
+      213: 470005073493471000
+    second: LaserDude_32x32_106
+  - first:
+      213: -5291819752452107446
+    second: LaserDude_32x32_107
+  - first:
+      213: 3768612458040234359
+    second: LaserDude_32x32_108
+  - first:
+      213: 2552966158517105988
+    second: LaserDude_32x32_109
+  - first:
+      213: 6130781674912282834
+    second: LaserDude_32x32_110
+  - first:
+      213: 1385607858126028552
+    second: LaserDude_32x32_111
+  - first:
+      213: -7313452227293955819
+    second: LaserDude_32x32_112
+  - first:
+      213: 4450214679318037648
+    second: LaserDude_32x32_113
+  - first:
+      213: 3668225167364027204
+    second: LaserDude_32x32_114
+  - first:
+      213: -2084312701318173265
+    second: LaserDude_32x32_115
+  - first:
+      213: 2256391765456531544
+    second: LaserDude_32x32_116
+  - first:
+      213: -6859820512988543029
+    second: LaserDude_32x32_117
+  - first:
+      213: -7882597578892013621
+    second: LaserDude_32x32_118
+  - first:
+      213: 6073272912588850010
+    second: LaserDude_32x32_119
+  - first:
+      213: 4318682923498325504
+    second: LaserDude_32x32_120
+  - first:
+      213: 5642569471323648364
+    second: LaserDude_32x32_121
+  - first:
+      213: 4752394839121535514
+    second: LaserDude_32x32_122
+  - first:
+      213: 1602605161915182548
+    second: LaserDude_32x32_123
+  - first:
+      213: -5348460998503759487
+    second: LaserDude_32x32_124
+  - first:
+      213: -8776580573402327349
+    second: LaserDude_32x32_125
+  - first:
+      213: -3727241628278724055
+    second: LaserDude_32x32_126
+  - first:
+      213: 6428629879080938738
+    second: LaserDude_32x32_127
+  - first:
+      213: 7684263385985913776
+    second: LaserDude_32x32_128
+  - first:
+      213: -3927263473465279474
+    second: LaserDude_32x32_129
+  - first:
+      213: 2064126445640373695
+    second: LaserDude_32x32_130
+  - first:
+      213: -5295302833584658896
+    second: LaserDude_32x32_131
+  - first:
+      213: 5229562980649166313
+    second: LaserDude_32x32_132
+  - first:
+      213: -2365492612930983623
+    second: LaserDude_32x32_133
+  - first:
+      213: 5463490549215359626
+    second: LaserDude_32x32_134
+  - first:
+      213: 5955675881722998880
+    second: LaserDude_32x32_135
+  - first:
+      213: -7292913186398219889
+    second: LaserDude_32x32_136
+  - first:
+      213: -6581263581955722795
+    second: LaserDude_32x32_137
+  - first:
+      213: -5941414775472325615
+    second: LaserDude_32x32_138
+  - first:
+      213: 5439030803651270937
+    second: LaserDude_32x32_139
+  - first:
+      213: -8783991153410905995
+    second: LaserDude_32x32_140
+  - first:
+      213: 2497072516679398084
+    second: LaserDude_32x32_141
+  - first:
+      213: -447240878586398725
+    second: LaserDude_32x32_142
+  - first:
+      213: -7918492947140427874
+    second: LaserDude_32x32_143
+  - first:
+      213: -5865624368327059616
+    second: LaserDude_32x32_144
+  - first:
+      213: 3978471124534577567
+    second: LaserDude_32x32_145
+  - first:
+      213: -8320376656672388021
+    second: LaserDude_32x32_146
+  - first:
+      213: 4436420088392595527
+    second: LaserDude_32x32_147
+  - first:
+      213: -7983145184800050139
+    second: LaserDude_32x32_148
+  - first:
+      213: 1259245737838416321
+    second: LaserDude_32x32_149
+  - first:
+      213: 2768395912616721764
+    second: LaserDude_32x32_150
+  - first:
+      213: -1684023139765970832
+    second: LaserDude_32x32_151
+  - first:
+      213: -8487257453900273276
+    second: LaserDude_32x32_152
+  - first:
+      213: 1904221823674059560
+    second: LaserDude_32x32_153
+  - first:
+      213: 4828958449534170640
+    second: LaserDude_32x32_154
+  - first:
+      213: 2794308315907783135
+    second: LaserDude_32x32_155
+  - first:
+      213: 1378049341426315833
+    second: LaserDude_32x32_156
+  - first:
+      213: 2786847489479518255
+    second: LaserDude_32x32_157
+  - first:
+      213: -5487548174408716622
+    second: LaserDude_32x32_158
+  - first:
+      213: -8995258095024436572
+    second: LaserDude_32x32_159
+  - first:
+      213: 8526046006125305480
+    second: LaserDude_32x32_160
+  - first:
+      213: -5306846276446235979
+    second: LaserDude_32x32_161
+  - first:
+      213: -758104888412202427
+    second: LaserDude_32x32_162
+  - first:
+      213: 5616979424592025526
+    second: LaserDude_32x32_163
+  - first:
+      213: -2527165323742733706
+    second: LaserDude_32x32_164
+  - first:
+      213: -3480277688468439949
+    second: LaserDude_32x32_165
+  - first:
+      213: -5110417010629696351
+    second: LaserDude_32x32_166
+  - first:
+      213: 2193597617550913846
+    second: LaserDude_32x32_167
+  - first:
+      213: 7952725026406501798
+    second: LaserDude_32x32_168
+  - first:
+      213: -1340037458147035724
+    second: LaserDude_32x32_169
+  - first:
+      213: -5504102070311007223
+    second: LaserDude_32x32_170
+  - first:
+      213: 2043730241142799839
+    second: LaserDude_32x32_171
+  - first:
+      213: 5731737627368144098
+    second: LaserDude_32x32_172
+  - first:
+      213: -2047993361792927081
+    second: LaserDude_32x32_173
+  - first:
+      213: -514612014060684790
+    second: LaserDude_32x32_174
+  - first:
+      213: 8414613703607127289
+    second: LaserDude_32x32_175
+  - first:
+      213: 1340098937398185466
+    second: LaserDude_32x32_176
+  - first:
+      213: 8749736539614411794
+    second: LaserDude_32x32_177
+  - first:
+      213: -8889682331247529473
+    second: LaserDude_32x32_178
+  - first:
+      213: -2299058051081472415
+    second: LaserDude_32x32_179
+  - first:
+      213: -7493651295301171501
+    second: LaserDude_32x32_180
+  - first:
+      213: 4600055584062616473
+    second: LaserDude_32x32_181
+  - first:
+      213: 4285034658266288420
+    second: LaserDude_32x32_182
+  - first:
+      213: 1438020165750412724
+    second: LaserDude_32x32_183
+  - first:
+      213: -8101627368188671217
+    second: LaserDude_32x32_184
+  - first:
+      213: -8025900320265656257
+    second: LaserDude_32x32_185
+  - first:
+      213: -2660903173597232691
+    second: LaserDude_32x32_186
+  - first:
+      213: 8828311108342193834
+    second: LaserDude_32x32_187
+  - first:
+      213: -2540851308885862216
+    second: LaserDude_32x32_188
+  - first:
+      213: -4858119943672368930
+    second: LaserDude_32x32_189
+  - first:
+      213: -3586951171213031684
+    second: LaserDude_32x32_190
+  - first:
+      213: -4350385821248446813
+    second: LaserDude_32x32_191
+  - first:
+      213: -4002360085921434878
+    second: LaserDude_32x32_192
+  - first:
+      213: 1873403008419643444
+    second: LaserDude_32x32_193
+  - first:
+      213: -620056635399310504
+    second: LaserDude_32x32_194
+  - first:
+      213: -7944409528624623381
+    second: LaserDude_32x32_195
+  - first:
+      213: -256163733611630321
+    second: LaserDude_32x32_196
+  - first:
+      213: 4333228249746938391
+    second: LaserDude_32x32_197
+  - first:
+      213: -3739634053976159724
+    second: LaserDude_32x32_198
+  - first:
+      213: 3072183191180339075
+    second: LaserDude_32x32_199
+  - first:
+      213: 2588083271930371604
+    second: LaserDude_32x32_200
+  - first:
+      213: 342490445955796226
+    second: LaserDude_32x32_201
+  - first:
+      213: 4593739285337766319
+    second: LaserDude_32x32_202
+  - first:
+      213: -4770649092237100268
+    second: LaserDude_32x32_203
+  - first:
+      213: 3408471586979291050
+    second: LaserDude_32x32_204
+  - first:
+      213: 6625761584664267577
+    second: LaserDude_32x32_205
+  - first:
+      213: 5166280031239975133
+    second: LaserDude_32x32_206
+  - first:
+      213: -7240289585203614296
+    second: LaserDude_32x32_207
+  - first:
+      213: 7894418541152321640
+    second: LaserDude_32x32_208
+  - first:
+      213: 835386352759275637
+    second: LaserDude_32x32_209
+  - first:
+      213: -8952751810532364108
+    second: LaserDude_32x32_210
+  - first:
+      213: 6864671145285687496
+    second: LaserDude_32x32_211
+  - first:
+      213: 5704431188375430064
+    second: LaserDude_32x32_212
+  - first:
+      213: -543127377027137024
+    second: LaserDude_32x32_213
+  - first:
+      213: 6032046613861296269
+    second: LaserDude_32x32_214
+  - first:
+      213: 5655081072761930227
+    second: LaserDude_32x32_215
+  - first:
+      213: 8487059811386552372
+    second: LaserDude_32x32_216
+  - first:
+      213: -4529117843540881687
+    second: LaserDude_32x32_217
+  - first:
+      213: -3399697099895537195
+    second: LaserDude_32x32_218
+  - first:
+      213: -8575033084847258567
+    second: LaserDude_32x32_219
+  - first:
+      213: -210813254367816662
+    second: LaserDude_32x32_220
+  - first:
+      213: -5152823236395127050
+    second: LaserDude_32x32_221
+  - first:
+      213: 8993483774811559009
+    second: LaserDude_32x32_222
+  - first:
+      213: -8753274773210411898
+    second: LaserDude_32x32_223
+  - first:
+      213: -2870803216254988960
+    second: LaserDude_32x32_224
+  - first:
+      213: 2862804171645296793
+    second: LaserDude_32x32_225
+  - first:
+      213: -113250713198882011
+    second: LaserDude_32x32_226
+  - first:
+      213: 6465083214601309857
+    second: LaserDude_32x32_227
+  - first:
+      213: 7642131084608580750
+    second: LaserDude_32x32_228
+  - first:
+      213: -6546197188146876969
+    second: LaserDude_32x32_229
+  - first:
+      213: -689092529454018823
+    second: LaserDude_32x32_230
+  - first:
+      213: -4562466057442517099
+    second: LaserDude_32x32_231
+  - first:
+      213: -3126297982061803194
+    second: LaserDude_32x32_232
+  - first:
+      213: -90476573431556142
+    second: LaserDude_32x32_233
+  - first:
+      213: -8556888994417409187
+    second: LaserDude_32x32_234
+  - first:
+      213: 7377839225708064654
+    second: LaserDude_32x32_235
+  - first:
+      213: 2700490652010215468
+    second: LaserDude_32x32_236
+  - first:
+      213: -421042733559891976
+    second: LaserDude_32x32_237
+  - first:
+      213: -442794417333883738
+    second: LaserDude_32x32_238
+  - first:
+      213: 8132464291859892517
+    second: LaserDude_32x32_239
+  - first:
+      213: -835816949152815274
+    second: LaserDude_32x32_240
+  - first:
+      213: 4364370628931661593
+    second: LaserDude_32x32_241
+  - first:
+      213: -2249347677485548829
+    second: LaserDude_32x32_242
+  - first:
+      213: -3452199920148100471
+    second: LaserDude_32x32_243
+  - first:
+      213: 7760861443942496379
+    second: LaserDude_32x32_244
+  - first:
+      213: -4777492563387027859
+    second: LaserDude_32x32_245
+  - first:
+      213: 5187138436531395156
+    second: LaserDude_32x32_246
+  - first:
+      213: 3886663972535688486
+    second: LaserDude_32x32_247
+  - first:
+      213: -3564723788121021098
+    second: LaserDude_32x32_248
+  - first:
+      213: 901078480426320973
+    second: LaserDude_32x32_249
+  - first:
+      213: -4716205336119401000
+    second: LaserDude_32x32_250
+  - first:
+      213: -6931173326284686550
+    second: LaserDude_32x32_251
+  - first:
+      213: -5159919010841523968
+    second: LaserDude_32x32_252
+  - first:
+      213: 8469293315481930385
+    second: LaserDude_32x32_253
+  - first:
+      213: 6464550218636576569
+    second: LaserDude_32x32_254
+  - first:
+      213: 1578790703759602457
+    second: LaserDude_32x32_255
+  - first:
+      213: 2881070422024974607
+    second: LaserDude_32x32_256
+  - first:
+      213: -7647263808582285699
+    second: LaserDude_32x32_257
+  - first:
+      213: -7773913346489405703
+    second: LaserDude_32x32_258
+  - first:
+      213: -5105178907336694601
+    second: LaserDude_32x32_259
+  - first:
+      213: 8955082363554669603
+    second: LaserDude_32x32_260
+  - first:
+      213: 8852469874423987460
+    second: LaserDude_32x32_261
+  - first:
+      213: -120817876560986965
+    second: LaserDude_32x32_262
+  - first:
+      213: -8767747693987680445
+    second: LaserDude_32x32_263
+  - first:
+      213: 6217969197717046388
+    second: LaserDude_32x32_264
+  - first:
+      213: -4453321838696923841
+    second: LaserDude_32x32_265
+  - first:
+      213: 1641393584194921422
+    second: LaserDude_32x32_266
+  - first:
+      213: -5137679616291522830
+    second: LaserDude_32x32_267
+  - first:
+      213: -7782372620209085446
+    second: LaserDude_32x32_268
+  - first:
+      213: 8624682308340117578
+    second: LaserDude_32x32_269
+  - first:
+      213: -7133593419113754362
+    second: LaserDude_32x32_270
+  - first:
+      213: -1607612711141371205
+    second: LaserDude_32x32_271
+  - first:
+      213: 5616025525076026886
+    second: LaserDude_32x32_272
+  - first:
+      213: 2540809945212658350
+    second: LaserDude_32x32_273
+  - first:
+      213: -1933907262416811831
+    second: LaserDude_32x32_274
+  - first:
+      213: -6837740219477093088
+    second: LaserDude_32x32_275
+  - first:
+      213: 4405120658106703904
+    second: LaserDude_32x32_276
+  - first:
+      213: 8295487465414503217
+    second: LaserDude_32x32_277
+  - first:
+      213: -7984048996325830813
+    second: LaserDude_32x32_278
+  - first:
+      213: -3583399302613823623
+    second: LaserDude_32x32_279
+  - first:
+      213: -9208876517845297679
+    second: LaserDude_32x32_280
+  - first:
+      213: 4991094834822852202
+    second: LaserDude_32x32_281
+  - first:
+      213: -471364740810255937
+    second: LaserDude_32x32_282
+  - first:
+      213: 5800373158796646095
+    second: LaserDude_32x32_283
+  - first:
+      213: -62358262479536827
+    second: LaserDude_32x32_284
+  - first:
+      213: 325881595876282032
+    second: LaserDude_32x32_285
+  - first:
+      213: -6524476601342169055
+    second: LaserDude_32x32_286
+  - first:
+      213: 6585935664170061388
+    second: LaserDude_32x32_287
+  - first:
+      213: -5966454224511810399
+    second: LaserDude_32x32_288
+  - first:
+      213: -7527994002239720365
+    second: LaserDude_32x32_289
+  - first:
+      213: -67144130661468866
+    second: LaserDude_32x32_290
+  - first:
+      213: 522500835171682200
+    second: LaserDude_32x32_291
+  - first:
+      213: 57682137877794076
+    second: LaserDude_32x32_292
+  - first:
+      213: 7502582913359842701
+    second: LaserDude_32x32_293
+  - first:
+      213: -341861367395029551
+    second: LaserDude_32x32_294
+  - first:
+      213: 3033820984266252552
+    second: LaserDude_32x32_295
+  - first:
+      213: -5638249872243660648
+    second: LaserDude_32x32_296
+  - first:
+      213: 1992061674145707487
+    second: LaserDude_32x32_297
+  - first:
+      213: 1485947963238734995
+    second: LaserDude_32x32_298
+  - first:
+      213: 6563516338532887795
+    second: LaserDude_32x32_299
+  - first:
+      213: 3952624534774273130
+    second: LaserDude_32x32_300
+  - first:
+      213: -4488289421421367369
+    second: LaserDude_32x32_301
+  - first:
+      213: 6813695987760479056
+    second: LaserDude_32x32_302
+  - first:
+      213: -7076870838520632031
+    second: LaserDude_32x32_303
+  - first:
+      213: 7223235555312659457
+    second: LaserDude_32x32_304
+  - first:
+      213: 9160389824817297073
+    second: LaserDude_32x32_305
+  - first:
+      213: -7191873453291525223
+    second: LaserDude_32x32_306
+  - first:
+      213: -1298905037688591862
+    second: LaserDude_32x32_307
+  - first:
+      213: -8516078033451724531
+    second: LaserDude_32x32_308
+  - first:
+      213: -1147147933633247386
+    second: LaserDude_32x32_309
+  - first:
+      213: -2916960401853513330
+    second: LaserDude_32x32_310
+  - first:
+      213: -5590592260173562604
+    second: LaserDude_32x32_311
+  - first:
+      213: -6817195768462386172
+    second: LaserDude_32x32_312
+  - first:
+      213: 5371931800307248280
+    second: LaserDude_32x32_313
+  - first:
+      213: 2489252411531919655
+    second: LaserDude_32x32_314
+  - first:
+      213: 7647076012772360849
+    second: LaserDude_32x32_315
+  - first:
+      213: 4908337064695436429
+    second: LaserDude_32x32_316
+  - first:
+      213: -7350607115009357094
+    second: LaserDude_32x32_317
+  - first:
+      213: 8513173544789170240
+    second: LaserDude_32x32_318
+  - first:
+      213: -68151358670436968
+    second: LaserDude_32x32_319
+  - first:
+      213: -4442971536325990531
+    second: LaserDude_32x32_320
+  - first:
+      213: -2813828306367259250
+    second: LaserDude_32x32_321
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaserDude_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1247
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f56b2f9742a6cf0800000000000000
+      internalID: -258353922438701194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1247
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b49b91efc601000800000000000000
+      internalID: 4623438236437269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1247
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0378023b13e672700800000000000000
+      internalID: 515501842094917424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1247
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1103130c3f70061e0800000000000000
+      internalID: -2206755073928646639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a74907eaf1355f20800000000000000
+      internalID: 3410687246490748834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a930ed3111ffc7e00800000000000000
+      internalID: 1043989662455956378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87032e2e472950d0800000000000000
+      internalID: -3433670024158312565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de7c454381a40830800000000000000
+      internalID: 4036528751206235862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63528fbf30c28c420800000000000000
+      internalID: 2650416776331404598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfbdc48a4f1b3b00800000000000000
+      internalID: 809274962959253444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1183
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f236a1a30164a0800000000000000
+      internalID: -6601991585935460238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4701be583db886c20800000000000000
+      internalID: 3199961275847872628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1baeac904d0036eb0800000000000000
+      internalID: -4727934273111528783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92e265b11b6db750800000000000000
+      internalID: 6322327175699817116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1183
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d17ba2dcb5ed8740800000000000000
+      internalID: 5156029747560149463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f842dc110571ada80800000000000000
+      internalID: -8441408918889094001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1183
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cbabcc36b25bcf0800000000000000
+      internalID: -237235697730536433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1183
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030511551fa8e7980800000000000000
+      internalID: -8539235074328932304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c9690b77baab640800000000000000
+      internalID: 5096574458875255897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26961813726ebf740800000000000000
+      internalID: 5186992451855935842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26fd356fd9b25360800000000000000
+      internalID: 7156987126972544555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b8faa898d8d4650800000000000000
+      internalID: 6218782282345319196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bd92655c08b34b0800000000000000
+      internalID: -5459628538214098137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac807b142fee027a0800000000000000
+      internalID: -6403855945868834614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1119
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d016edae9cb2c5390800000000000000
+      internalID: -7828333906047901427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1055
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a70f8d3b4ec04c30800000000000000
+      internalID: 4341696863335810983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1055
+        width: 34
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c60674ff0c67070800000000000000
+      internalID: 8103876782146481189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a66853e3b1f76b0800000000000000
+      internalID: -5296484682764490094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c619a91384fc81d10800000000000000
+      internalID: 2096653535517774188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6af06c75ff51dab0800000000000000
+      internalID: -4985097804564071826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1121
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff369fef2f95af00800000000000000
+      internalID: 1127482309958057982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1119
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1905cec89f2d580800000000000000
+      internalID: -8803699937900457500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1119
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27753adc7c3a54190800000000000000
+      internalID: -7978791086273112206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 193
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7367de8b0b11f50800000000000000
+      internalID: 6850450816511653868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1089
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e771f797f936a7b30800000000000000
+      internalID: 4285847531985770366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1081
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85d6e0ab594a4990800000000000000
+      internalID: -7401022379739654771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1089
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d86c86d2635704800800000000000000
+      internalID: 594604026363430541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1063
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f27c1dffcbd3360800000000000000
+      internalID: 7151079590256389903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2392c44f9113b30800000000000000
+      internalID: 4265218859137053431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1073
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966e995d1ac24b210800000000000000
+      internalID: 1347751262075610729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba3d0f3ee7eaf40800000000000000
+      internalID: 5741666092407040897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf6abf0f53b8cf70800000000000000
+      internalID: 9207806659026120653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7f9367f9b5bb610800000000000000
+      internalID: 1638003629920745394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69903ba87f340b9c0800000000000000
+      internalID: -3913553345721988714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44650a1c6b87e39d0800000000000000
+      internalID: -2792661992595237308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29891e90fb44ff1a0800000000000000
+      internalID: -6773619727246714734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db63d62e177265ed0800000000000000
+      internalID: -2425707979208837443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573c0394b8feaf130800000000000000
+      internalID: 3601454233543558005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01eba4f99adf1e0800000000000000
+      internalID: -2162385744449105694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 993
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceff765124d15e010800000000000000
+      internalID: 1217411443937771500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de74ba1e9389c7f0800000000000000
+      internalID: -591797160946401582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 993
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795eb670452019770800000000000000
+      internalID: 8615670122061489559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72e98e6ccee96fb0800000000000000
+      internalID: -4653926178115427714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df17e6c08d6dd4a0800000000000000
+      internalID: -6566972281776037935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116517ff11634b410800000000000000
+      internalID: 1491876827494438417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6372d00a4367b2b00800000000000000
+      internalID: 804866926811359030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2bcd52c625a0610800000000000000
+      internalID: 1588172443046687473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e155f228b9b70db0800000000000000
+      internalID: -4825684275192573471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31418106405654b0800000000000000
+      internalID: -5452082037282225862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed95b23e27bfd4e80800000000000000
+      internalID: -8192615676260951586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00911ec53a5ace210800000000000000
+      internalID: 1363646908242925824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 929
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1dc50ba3f9001b50800000000000000
+      internalID: 6561755599229799708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de02252c799fc2a0800000000000000
+      internalID: -6714979760908136747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 929
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4485ad31e21fa80800000000000000
+      internalID: -8434909964285754196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e539a51d075264f40800000000000000
+      internalID: 5712294343844991838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 863
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17404d0142628cc10800000000000000
+      internalID: 2073949564747121777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93f060e50ebad9b0800000000000000
+      internalID: -5054518699321396325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ed7ef5fdde401c0800000000000000
+      internalID: -4538240980840096212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a15cf709e54e920800000000000000
+      internalID: 3018641624957000314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3104154ae768e920800000000000000
+      internalID: 3019777806030864700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15bc5dfba40db210800000000000000
+      internalID: 1350240600017646877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90252d1a67d172b0800000000000000
+      internalID: -5588448811834597220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44995e128a5c73250800000000000000
+      internalID: 5924421160743049540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5894da40b9a237cb0800000000000000
+      internalID: -4867499926970611323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d518b5921ab50d2b0800000000000000
+      internalID: -5561844792060837539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a0c51ead87ca220800000000000000
+      internalID: 2498504774762891877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd084535a9972170800000000000000
+      internalID: 8153654585220140536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c4e2537fb15170800000000000000
+      internalID: 8165518101432288541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59dc42dd2928cd640800000000000000
+      internalID: 5106099644818312597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61893ea9bee29510800000000000000
+      internalID: 1554567302655607151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4b80af2f7cd5260800000000000000
+      internalID: 7088041234941916402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1ba88ade59cc610800000000000000
+      internalID: 1642852812050838008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d946a9a11635b87f0800000000000000
+      internalID: -609301648055311203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9425f24a17580cf0800000000000000
+      internalID: -285882806033898340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66074d1d92f829050800000000000000
+      internalID: 5805860279410782310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c9b213a1da85920800000000000000
+      internalID: 2979321481511279666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 735
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e43d807b18b234a0800000000000000
+      internalID: -6615022474661907226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a090db72a379f70800000000000000
+      internalID: 9193881106649778835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d9b8408b4a0b260800000000000000
+      internalID: 7111364921875209486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77b8151aeac9c300800000000000000
+      internalID: 272972359157725050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a24ec6fba5550750800000000000000
+      internalID: 6270512253251764903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 737
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21df4da9ff44b06b0800000000000000
+      internalID: -5329089869457851118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 735
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293994554085b1e40800000000000000
+      internalID: 5628188934963565458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 735
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55940f315680acc60800000000000000
+      internalID: 7839087331611003221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4872a2bb588ea95d0800000000000000
+      internalID: -3054873736149063804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177e16480e2f40e70800000000000000
+      internalID: 9080649794793367409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d9d9e4391316df0800000000000000
+      internalID: -188815200623944384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f74c70294f05a520800000000000000
+      internalID: 2712591157312636918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291983d354f7d6090800000000000000
+      internalID: -8039629824429878894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4151fa75cbfaed9c0800000000000000
+      internalID: -3900487003796466412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779dd0b24abf08f70800000000000000
+      internalID: 9187619922351348087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a29cdcf66f7bd960800000000000000
+      internalID: 7627830474187772577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae37237bff183da0800000000000000
+      internalID: -5964982541623017824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52aab1af016a31660800000000000000
+      internalID: 7355405208271956517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdffbb846e55ccd0800000000000000
+      internalID: -2538519029019050563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665b8d180f8039910800000000000000
+      internalID: 1842826501588301158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fa538cf1bc58600800000000000000
+      internalID: 470005073493471000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4352bfe8fdaf86b0800000000000000
+      internalID: -5291819752452107446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7719999401dcc4430800000000000000
+      internalID: 3768612458040234359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445710ae135fd6320800000000000000
+      internalID: 2552966158517105988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d8fe987379e41550800000000000000
+      internalID: 6130781674912282834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f7795710baa3310800000000000000
+      internalID: 1385607858126028552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519ba5692f5618a90800000000000000
+      internalID: -7313452227293955819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0940bfe2ca652cd30800000000000000
+      internalID: 4450214679318037648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44371e8ca5728e230800000000000000
+      internalID: 3668225167364027204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad681d24a80313e0800000000000000
+      internalID: -2084312701318173265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85037261b50505f10800000000000000
+      internalID: 2256391765456531544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7416c96950dc0a0800000000000000
+      internalID: -6859820512988543029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf89ca04436b9290800000000000000
+      internalID: -7882597578892013621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a534cd25989984450800000000000000
+      internalID: 6073272912588850010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006c9a0dc3b0feb30800000000000000
+      internalID: 4318682923498325504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61b5bed90f6e4e40800000000000000
+      internalID: 5642569471323648364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a122d3a4de5e3f140800000000000000
+      internalID: 4752394839121535514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 671
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd692f57e89d3610800000000000000
+      internalID: 1602605161915182548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 671
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18107292f0376c5b0800000000000000
+      internalID: -5348460998503759487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc692c30872533680800000000000000
+      internalID: -8776580573402327349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae562ac7d264cc0800000000000000
+      internalID: -3727241628278724055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fce41f80d4173950800000000000000
+      internalID: 6428629879080938738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b31b3a26dcf3aa60800000000000000
+      internalID: 7684263385985913776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c3cbcadae8f79c0800000000000000
+      internalID: -3927263473465279474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 671
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb552ebe01045ac10800000000000000
+      internalID: 2064126445640373695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 671
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036211ae02e4386b0800000000000000
+      internalID: -5295302833584658896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e56020d2d3239840800000000000000
+      internalID: 5229562980649166313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939207f50051c2fd0800000000000000
+      internalID: -2365492612930983623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827fab25b732db40800000000000000
+      internalID: 5463490549215359626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060f57fe8afc6a250800000000000000
+      internalID: 5955675881722998880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81d8f2b81e5aca90800000000000000
+      internalID: -7292913186398219889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1705824a7aaa4a0800000000000000
+      internalID: -6581263581955722795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cf6bc9dbadb8da0800000000000000
+      internalID: -5941414775472325615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9199a0ed2b15b7b40800000000000000
+      internalID: 5439030803651270937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578e4c6e59ef81680800000000000000
+      internalID: -8783991153410905995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2f01f493267a220800000000000000
+      internalID: 2497072516679398084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7f2de5ac41bc9f0800000000000000
+      internalID: -447240878586398725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f32495e9cdb1290800000000000000
+      internalID: -7918492947140427874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0679df3e6bd199ea0800000000000000
+      internalID: -5865624368327059616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99480fa86e563730800000000000000
+      internalID: 3978471124534577567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c07959385188c80800000000000000
+      internalID: -8320376656672388021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7483c03b094519d30800000000000000
+      internalID: 4436420088392595527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5247f9d30cb263190800000000000000
+      internalID: -7983145184800050139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c198c8a35db97110800000000000000
+      internalID: 1259245737838416321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46db9293a615b6620800000000000000
+      internalID: 2768395912616721764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07816b070e521a8e0800000000000000
+      internalID: -1684023139765970832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 607
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489ecf62054373a80800000000000000
+      internalID: -8487257453900273276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 607
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b83add8a72d6a10800000000000000
+      internalID: 1904221823674059560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016fa9bff18e30340800000000000000
+      internalID: 4828958449534170640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd97a92cb9067c620800000000000000
+      internalID: 2794308315907783135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9323da62390df1310800000000000000
+      internalID: 1378049341426315833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ad9db60fdca620800000000000000
+      internalID: 2786847489479518255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be6688720058d3b0800000000000000
+      internalID: -5487548174408716622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa8c17eb6c6a2380800000000000000
+      internalID: -8995258095024436572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e9cbd6ba9925670800000000000000
+      internalID: 8526046006125305480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b251dead6b4a56b0800000000000000
+      internalID: -5306846276446235979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a14bfde9baa75f0800000000000000
+      internalID: -758104888412202427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b75c71d60583fd40800000000000000
+      internalID: 5616979424592025526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a11ad0784bdecd0800000000000000
+      internalID: -2527165323742733706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cfe13b1e193bfc0800000000000000
+      internalID: -3480277688468439949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4ad431ec62419b0800000000000000
+      internalID: -5110417010629696351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631f3463969317e10800000000000000
+      internalID: 2193597617550913846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad8153b641cd5e60800000000000000
+      internalID: 7952725026406501798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5bd69180b376de0800000000000000
+      internalID: -1340037458147035724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cce9b34508d93b0800000000000000
+      internalID: -5504102070311007223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd3a0083d9cc5c10800000000000000
+      internalID: 2043730241142799839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecb40901093b8f40800000000000000
+      internalID: 5731737627368144098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a79ff53e01493e0800000000000000
+      internalID: -2047993361792927081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ab3c8891bbbd8f0800000000000000
+      internalID: -514612014060684790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc03a5b496b6c470800000000000000
+      internalID: 8414613703607127289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd4f7722ecf89210800000000000000
+      internalID: 1340098937398185466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf8f1560f4d6970800000000000000
+      internalID: 8749736539614411794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1bcefe40181a480800000000000000
+      internalID: -8889682331247529473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166794b22ea1810e0800000000000000
+      internalID: -2299058051081472415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d68de899d3310890800000000000000
+      internalID: -7493651295301171501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ba1b7e2ea6df30800000000000000
+      internalID: 4600055584062616473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42113309150877b30800000000000000
+      internalID: 4285034658266288420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 543
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5d667c8bfd4f310800000000000000
+      internalID: 1438020165750412724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 543
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b088835dc319f80800000000000000
+      internalID: -8101627368188671217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 543
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f382fd78e264e9090800000000000000
+      internalID: -8025900320265656257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1070469a2921bd0800000000000000
+      internalID: -2660903173597232691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae1f5bbd26748a70800000000000000
+      internalID: 8828311108342193834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b895c252351dbcd0800000000000000
+      internalID: -2540851308885862216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0fa2196ad749cb0800000000000000
+      internalID: -4858119943672368930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_190
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf60d2d0ae6983ec0800000000000000
+      internalID: -3586951171213031684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_191
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae1798152350a3c0800000000000000
+      internalID: -4350385821248446813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_192
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203737f05b2c478c0800000000000000
+      internalID: -4002360085921434878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_193
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43040064c1aaff910800000000000000
+      internalID: 1873403008419643444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_194
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853766a76cd1567f0800000000000000
+      internalID: -620056635399310504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_195
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 479
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0d91000a9cfb190800000000000000
+      internalID: -7944409528624623381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_196
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01bdb5017ce17cf0800000000000000
+      internalID: -256163733611630321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_197
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a9adc7228b22c30800000000000000
+      internalID: 4333228249746938391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_198
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a0cce24a62a1cc0800000000000000
+      internalID: -3739634053976159724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_199
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387ea33d55692aa20800000000000000
+      internalID: 3072183191180339075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_200
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 479
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e5a880608bae320800000000000000
+      internalID: 2588083271930371604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_201
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d092afe35c0c400800000000000000
+      internalID: 342490445955796226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_202
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa970559a8d30cf30800000000000000
+      internalID: 4593739285337766319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_203
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bfa253def3bcdb0800000000000000
+      internalID: -4770649092237100268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_204
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf99e879d25d4f20800000000000000
+      internalID: 3408471586979291050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_205
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bc7547e0f63fb50800000000000000
+      internalID: 6625761584664267577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_206
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0b048f05052b740800000000000000
+      internalID: 5166280031239975133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_207
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad6af2abf2558b90800000000000000
+      internalID: -7240289585203614296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_208
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86044a536db9e8d60800000000000000
+      internalID: 7894418541152321640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_209
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5700d663673e79b00800000000000000
+      internalID: 835386352759275637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_210
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 479
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0bbfa79af61c380800000000000000
+      internalID: -8952751810532364108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_211
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c890aa3906344f50800000000000000
+      internalID: 6864671145285687496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_212
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 479
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3e6c441f53a2f40800000000000000
+      internalID: 5704431188375430064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_213
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0020288378c6678f0800000000000000
+      internalID: -543127377027137024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_214
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88ecc7af6226b350800000000000000
+      internalID: 6032046613861296269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_215
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 479
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f182061642ea7e40800000000000000
+      internalID: 5655081072761930227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_216
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430703d9ee718c570800000000000000
+      internalID: 8487059811386552372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_217
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eeccdd41575521c0800000000000000
+      internalID: -4529117843540881687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_218
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 415
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d10dc00089d1d0d0800000000000000
+      internalID: -3399697099895537195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_219
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934057087dc5ff880800000000000000
+      internalID: -8575033084847258567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_220
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24567b467a031df0800000000000000
+      internalID: -210813254367816662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_221
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe2a4c319e7d78b0800000000000000
+      internalID: -5152823236395127050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_222
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164d1eaf7d54fcc70800000000000000
+      internalID: 8993483774811559009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_223
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cc76978fe168680800000000000000
+      internalID: -8753274773210411898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_224
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d821b5fabd828d0800000000000000
+      internalID: -2870803216254988960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_225
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 415
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990ac60f939bab720800000000000000
+      internalID: 2862804171645296793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_226
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523983d8317ad6ef0800000000000000
+      internalID: -113250713198882011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_227
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aec6a12ee698b950800000000000000
+      internalID: 6465083214601309857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_228
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 415
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ca0115bbd4e0a60800000000000000
+      internalID: 7642131084608580750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_229
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd28d2375c3725a0800000000000000
+      internalID: -6546197188146876969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe8484def9df66f0800000000000000
+      internalID: -689092529454018823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_231
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f9c523b4ddea0c0800000000000000
+      internalID: -4562466057442517099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_232
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 351
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6498f259c882d94d0800000000000000
+      internalID: -3126297982061803194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_233
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d71e1c29009ebef0800000000000000
+      internalID: -90476573431556142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_234
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d530d41cbc2df3980800000000000000
+      internalID: -8556888994417409187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_235
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fa542bfa9536660800000000000000
+      internalID: 7377839225708064654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_236
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28f450b0f11a7520800000000000000
+      internalID: 2700490652010215468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_237
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f737e65dd7282af0800000000000000
+      internalID: -421042733559891976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_238
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aca94ec2d0ead9f0800000000000000
+      internalID: -442794417333883738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_239
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 351
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5298bd09f215cd070800000000000000
+      internalID: 8132464291859892517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_240
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657ee70c9e49664f0800000000000000
+      internalID: -835816949152815274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_241
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fae9da6fb519c30800000000000000
+      internalID: 4364370628931661593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_242
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 351
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eabf137436b8c0e0800000000000000
+      internalID: -2249347677485548829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_243
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 351
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ac0f196725710d0800000000000000
+      internalID: -3452199920148100471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_244
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78b73d4d5e14bb60800000000000000
+      internalID: 7760861443942496379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_245
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6eee3a63dfe2bdb0800000000000000
+      internalID: -4777492563387027859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_246
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 287
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a9a36ecea6cf740800000000000000
+      internalID: 5187138436531395156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_247
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d5c446a4430f530800000000000000
+      internalID: 3886663972535688486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_248
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65569a6f99e878ec0800000000000000
+      internalID: -3564723788121021098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_249
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d444f849a16418c00800000000000000
+      internalID: 901078480426320973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_250
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d52dccfb3cac8eb0800000000000000
+      internalID: -4716205336119401000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_251
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b732a25968fcf90800000000000000
+      internalID: -6931173326284686550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_252
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00981018ff84468b0800000000000000
+      internalID: -5159919010841523968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_253
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 287
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a04efe569f88570800000000000000
+      internalID: 8469293315481930385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_254
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937c1865c22b6b950800000000000000
+      internalID: 6464550218636576569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_255
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913b740c7cdf8e510800000000000000
+      internalID: 1578790703759602457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_256
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 287
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01fea5c84e9bf720800000000000000
+      internalID: 2881070422024974607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_257
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7680c145167fd590800000000000000
+      internalID: -7647263808582285699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_258
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fea4d3dff28d1490800000000000000
+      internalID: -7773913346489405703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_259
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4216905d2c629b0800000000000000
+      internalID: -5105178907336694601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_260
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324aa0ea6f7d64c70800000000000000
+      internalID: 8955082363554669603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_261
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d73e9c27a4ada70800000000000000
+      internalID: 8852469874423987460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_262
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacb01908c4c25ef0800000000000000
+      internalID: -120817876560986965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_263
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f2d930de3b25680800000000000000
+      internalID: -8767747693987680445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_264
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474ce368a0aaa4650800000000000000
+      internalID: 6217969197717046388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_265
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dfaf5e16f9232c0800000000000000
+      internalID: -4453321838696923841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_266
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec32b82b4c667c610800000000000000
+      internalID: 1641393584194921422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_267
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6bd2d0c9b43b8b0800000000000000
+      internalID: -5137679616291522830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_268
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af326bea5557ff390800000000000000
+      internalID: -7782372620209085446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_269
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4075392dd601b770800000000000000
+      internalID: 8624682308340117578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_270
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60119a9a492600d90800000000000000
+      internalID: -7133593419113754362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_271
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb21408b1cc90b9e0800000000000000
+      internalID: -1607612711141371205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_272
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606eea7c57120fd40800000000000000
+      internalID: 5616025525076026886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_273
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea22e22fe25c24320800000000000000
+      internalID: 2540809945212658350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_274
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8091357916925e0800000000000000
+      internalID: -1933907262416811831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_275
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0259aaf8f777b11a0800000000000000
+      internalID: -6837740219477093088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_276
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0206f2336e1222d30800000000000000
+      internalID: 4405120658106703904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_277
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bacbef5ed7f1370800000000000000
+      internalID: 8295487465414503217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_278
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f4fa83db5f23190800000000000000
+      internalID: -7984048996325830813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_279
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f0257e155354ec0800000000000000
+      internalID: -3583399302613823623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_280
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f51565099f733080800000000000000
+      internalID: -9208876517845297679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_281
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e27edee4ee34540800000000000000
+      internalID: 4991094834822852202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_282
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb15c5004406579f0800000000000000
+      internalID: -471364740810255937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_283
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6d8cef7a01f7050800000000000000
+      internalID: 5800373158796646095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_284
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54db81c9d75722ff0800000000000000
+      internalID: -62358262479536827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_285
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be0b09b593c58400800000000000000
+      internalID: 325881595876282032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_286
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120f6a769176475a0800000000000000
+      internalID: -6524476601342169055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_287
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ece60c791f56b50800000000000000
+      internalID: 6585935664170061388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_288
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a448539e75e23da0800000000000000
+      internalID: -5966454224511810399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_289
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354fa390751378790800000000000000
+      internalID: -7527994002239720365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_290
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35bb27d4c4711ff0800000000000000
+      internalID: -67144130661468866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_291
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897c043cdbb404700800000000000000
+      internalID: 522500835171682200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_292
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d471a499decc000800000000000000
+      internalID: 57682137877794076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_293
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d8ab8c8678e1860800000000000000
+      internalID: 7502582913359842701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_294
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 223
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd6df9c5e6714bf0800000000000000
+      internalID: -341861367395029551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_295
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801e05f7c1c4a1a20800000000000000
+      internalID: 3033820984266252552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_296
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898660a2d99e0c1b0800000000000000
+      internalID: -5638249872243660648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_297
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5ff1ac98935ab10800000000000000
+      internalID: 1992061674145707487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_298
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c5f87bcc52f9410800000000000000
+      internalID: 1485947963238734995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_299
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fca9bbb55b461b50800000000000000
+      internalID: 6563516338532887795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_300
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 159
+        width: 254
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64d6bd821b8ad630800000000000000
+      internalID: 3952624534774273130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_301
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf290b1d8466b1c0800000000000000
+      internalID: -4488289421421367369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_302
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bb7fd766c1f8e50800000000000000
+      internalID: 6813695987760479056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_303
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d28ac9777e9cd90800000000000000
+      internalID: -7076870838520632031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_304
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce16b97761e3460800000000000000
+      internalID: 7223235555312659457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_305
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67658030e302f70800000000000000
+      internalID: 9160389824817297073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_306
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 159
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b2ffac235513c90800000000000000
+      internalID: -7191873453291525223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_307
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a2b9700cc59fde0800000000000000
+      internalID: -1298905037688591862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_308
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015a901620d0d980800000000000000
+      internalID: -8516078033451724531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_309
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 95
+        width: 158
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66787fe38038410f0800000000000000
+      internalID: -1147147933633247386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_310
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8104af18ffd487d0800000000000000
+      internalID: -2916960401853513330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_311
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d7e48a5f93a62b0800000000000000
+      internalID: -5590592260173562604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_312
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 95
+        width: 116
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cd08051947461a0800000000000000
+      internalID: -6817195768462386172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_313
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c20fab28fec8a40800000000000000
+      internalID: 5371931800307248280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_314
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72105a131e99b8220800000000000000
+      internalID: 2489252411531919655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_315
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19205bf1e1fdf1a60800000000000000
+      internalID: 7647076012772360849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_316
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d841e0b0e8aed1440800000000000000
+      internalID: 4908337064695436429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_317
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada886a26c56df990800000000000000
+      internalID: -7350607115009357094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_318
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0485968fb3ed42670800000000000000
+      internalID: 8513173544789170240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_319
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8950d7b43b0ed0ff0800000000000000
+      internalID: -68151358670436968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_320
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d772e167de46752c0800000000000000
+      internalID: -4442971536325990531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LaserDude_32x32_321
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d5a0c401643f8d0800000000000000
+      internalID: -2813828306367259250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

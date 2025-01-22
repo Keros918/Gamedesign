@@ -1,0 +1,7142 @@
+fileFormatVersion: 2
+guid: 71ad55f696ed1ab43900ca3e7a684e38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3142623896278091412
+    second: PoliceMan_32x32_0
+  - first:
+      213: 5815758030539808855
+    second: PoliceMan_32x32_1
+  - first:
+      213: -5867163567810784691
+    second: PoliceMan_32x32_2
+  - first:
+      213: 4997518675254871349
+    second: PoliceMan_32x32_3
+  - first:
+      213: 3036968579679148844
+    second: PoliceMan_32x32_4
+  - first:
+      213: 7947411633950668955
+    second: PoliceMan_32x32_5
+  - first:
+      213: -7674653200439178250
+    second: PoliceMan_32x32_6
+  - first:
+      213: -8998522801778192222
+    second: PoliceMan_32x32_7
+  - first:
+      213: 7920224733620274987
+    second: PoliceMan_32x32_8
+  - first:
+      213: 2945456275606559370
+    second: PoliceMan_32x32_9
+  - first:
+      213: -319973094747974399
+    second: PoliceMan_32x32_10
+  - first:
+      213: 5651999499223568892
+    second: PoliceMan_32x32_11
+  - first:
+      213: 4283335551700458994
+    second: PoliceMan_32x32_12
+  - first:
+      213: -3072125171158041131
+    second: PoliceMan_32x32_13
+  - first:
+      213: -2665770013235689133
+    second: PoliceMan_32x32_14
+  - first:
+      213: 1692368666640838499
+    second: PoliceMan_32x32_15
+  - first:
+      213: 2169790199736340250
+    second: PoliceMan_32x32_16
+  - first:
+      213: -4477060417749595546
+    second: PoliceMan_32x32_17
+  - first:
+      213: -2974746170968155928
+    second: PoliceMan_32x32_18
+  - first:
+      213: 8145009578747492565
+    second: PoliceMan_32x32_19
+  - first:
+      213: -5490550674648751344
+    second: PoliceMan_32x32_20
+  - first:
+      213: -5440508679170974451
+    second: PoliceMan_32x32_21
+  - first:
+      213: -8739858462977681469
+    second: PoliceMan_32x32_22
+  - first:
+      213: 287435782606926362
+    second: PoliceMan_32x32_23
+  - first:
+      213: -6878375758390317807
+    second: PoliceMan_32x32_24
+  - first:
+      213: 3709084690589901025
+    second: PoliceMan_32x32_25
+  - first:
+      213: -5236656411916541107
+    second: PoliceMan_32x32_26
+  - first:
+      213: -8086408682913178920
+    second: PoliceMan_32x32_27
+  - first:
+      213: 350259061876594507
+    second: PoliceMan_32x32_28
+  - first:
+      213: -4708008614002028454
+    second: PoliceMan_32x32_29
+  - first:
+      213: -3265158149865253969
+    second: PoliceMan_32x32_30
+  - first:
+      213: -623289713917951543
+    second: PoliceMan_32x32_31
+  - first:
+      213: -1288151010809998007
+    second: PoliceMan_32x32_32
+  - first:
+      213: 4702180506233696926
+    second: PoliceMan_32x32_33
+  - first:
+      213: 2395289225019309578
+    second: PoliceMan_32x32_34
+  - first:
+      213: -7237200993649517198
+    second: PoliceMan_32x32_35
+  - first:
+      213: -6703923959679896208
+    second: PoliceMan_32x32_36
+  - first:
+      213: 8596250427069641294
+    second: PoliceMan_32x32_37
+  - first:
+      213: 7302323541247348565
+    second: PoliceMan_32x32_38
+  - first:
+      213: -862046277234885260
+    second: PoliceMan_32x32_39
+  - first:
+      213: 5881986444788876038
+    second: PoliceMan_32x32_40
+  - first:
+      213: 8642517005305713490
+    second: PoliceMan_32x32_41
+  - first:
+      213: -2555918908222248059
+    second: PoliceMan_32x32_42
+  - first:
+      213: 3321344074225078318
+    second: PoliceMan_32x32_43
+  - first:
+      213: -897297225797207677
+    second: PoliceMan_32x32_44
+  - first:
+      213: -3398138266948003222
+    second: PoliceMan_32x32_45
+  - first:
+      213: -7284089764049123329
+    second: PoliceMan_32x32_46
+  - first:
+      213: -3358444417249381939
+    second: PoliceMan_32x32_47
+  - first:
+      213: -7117385188223923881
+    second: PoliceMan_32x32_48
+  - first:
+      213: 5983778448874596421
+    second: PoliceMan_32x32_49
+  - first:
+      213: 1198285436604850571
+    second: PoliceMan_32x32_50
+  - first:
+      213: -6279267561855666469
+    second: PoliceMan_32x32_51
+  - first:
+      213: 6242607512568208034
+    second: PoliceMan_32x32_52
+  - first:
+      213: -2588963951529422115
+    second: PoliceMan_32x32_53
+  - first:
+      213: -3313571080576229657
+    second: PoliceMan_32x32_54
+  - first:
+      213: -1901786497257740832
+    second: PoliceMan_32x32_55
+  - first:
+      213: 5688248745330562024
+    second: PoliceMan_32x32_56
+  - first:
+      213: 3024870880985133567
+    second: PoliceMan_32x32_57
+  - first:
+      213: -6172595600209129546
+    second: PoliceMan_32x32_58
+  - first:
+      213: -6264726097958664312
+    second: PoliceMan_32x32_59
+  - first:
+      213: -7741316475568174205
+    second: PoliceMan_32x32_60
+  - first:
+      213: 4155411529419554439
+    second: PoliceMan_32x32_61
+  - first:
+      213: 601677029372937353
+    second: PoliceMan_32x32_62
+  - first:
+      213: -704179083448103546
+    second: PoliceMan_32x32_63
+  - first:
+      213: -1306872207975034804
+    second: PoliceMan_32x32_64
+  - first:
+      213: -1463973921416217288
+    second: PoliceMan_32x32_65
+  - first:
+      213: 1397550428861700814
+    second: PoliceMan_32x32_66
+  - first:
+      213: -2160129351267064450
+    second: PoliceMan_32x32_67
+  - first:
+      213: 6250890568340538411
+    second: PoliceMan_32x32_68
+  - first:
+      213: -1960139764540776891
+    second: PoliceMan_32x32_69
+  - first:
+      213: -8162946705747428499
+    second: PoliceMan_32x32_70
+  - first:
+      213: -80445730004298016
+    second: PoliceMan_32x32_71
+  - first:
+      213: -1857824726558880876
+    second: PoliceMan_32x32_72
+  - first:
+      213: 2425899999621701251
+    second: PoliceMan_32x32_73
+  - first:
+      213: -6945731629036634616
+    second: PoliceMan_32x32_74
+  - first:
+      213: 7470272690699835927
+    second: PoliceMan_32x32_75
+  - first:
+      213: -1131507984470773569
+    second: PoliceMan_32x32_76
+  - first:
+      213: 4351407267615514622
+    second: PoliceMan_32x32_77
+  - first:
+      213: -2352621667472019632
+    second: PoliceMan_32x32_78
+  - first:
+      213: -698081300793478147
+    second: PoliceMan_32x32_79
+  - first:
+      213: -451967704722307026
+    second: PoliceMan_32x32_80
+  - first:
+      213: -3236367802364380992
+    second: PoliceMan_32x32_81
+  - first:
+      213: 7028615888799709405
+    second: PoliceMan_32x32_82
+  - first:
+      213: -2921607416639002956
+    second: PoliceMan_32x32_83
+  - first:
+      213: -5534228670140629556
+    second: PoliceMan_32x32_84
+  - first:
+      213: 4329693605875690684
+    second: PoliceMan_32x32_85
+  - first:
+      213: -674599277763917905
+    second: PoliceMan_32x32_86
+  - first:
+      213: -7401186242808315707
+    second: PoliceMan_32x32_87
+  - first:
+      213: 1535853853205371756
+    second: PoliceMan_32x32_88
+  - first:
+      213: -386400736802121458
+    second: PoliceMan_32x32_89
+  - first:
+      213: 5158246404676442075
+    second: PoliceMan_32x32_90
+  - first:
+      213: -4999312933840475663
+    second: PoliceMan_32x32_91
+  - first:
+      213: 4692608058926488469
+    second: PoliceMan_32x32_92
+  - first:
+      213: 648041967669330297
+    second: PoliceMan_32x32_93
+  - first:
+      213: 422051190011861700
+    second: PoliceMan_32x32_94
+  - first:
+      213: -8302161850754899705
+    second: PoliceMan_32x32_95
+  - first:
+      213: -1671805609655551402
+    second: PoliceMan_32x32_96
+  - first:
+      213: 2035837712195662637
+    second: PoliceMan_32x32_97
+  - first:
+      213: 4596863142108466957
+    second: PoliceMan_32x32_98
+  - first:
+      213: -5250196799478073077
+    second: PoliceMan_32x32_99
+  - first:
+      213: -5351288617323781165
+    second: PoliceMan_32x32_100
+  - first:
+      213: 1460355172853073574
+    second: PoliceMan_32x32_101
+  - first:
+      213: 1852299546243054391
+    second: PoliceMan_32x32_102
+  - first:
+      213: -2286157614864183783
+    second: PoliceMan_32x32_103
+  - first:
+      213: 256344156691742873
+    second: PoliceMan_32x32_104
+  - first:
+      213: 670099986890691499
+    second: PoliceMan_32x32_105
+  - first:
+      213: 5547859895346278081
+    second: PoliceMan_32x32_106
+  - first:
+      213: 9138921385330665320
+    second: PoliceMan_32x32_107
+  - first:
+      213: -863703213804223746
+    second: PoliceMan_32x32_108
+  - first:
+      213: 9015223403632509582
+    second: PoliceMan_32x32_109
+  - first:
+      213: 6012973898869778086
+    second: PoliceMan_32x32_110
+  - first:
+      213: 6239192555530547765
+    second: PoliceMan_32x32_111
+  - first:
+      213: -4548897267888060092
+    second: PoliceMan_32x32_112
+  - first:
+      213: -3936762090296733500
+    second: PoliceMan_32x32_113
+  - first:
+      213: -2699664602846878375
+    second: PoliceMan_32x32_114
+  - first:
+      213: -8308068322075109225
+    second: PoliceMan_32x32_115
+  - first:
+      213: -5479462035742848444
+    second: PoliceMan_32x32_116
+  - first:
+      213: -746385222863581196
+    second: PoliceMan_32x32_117
+  - first:
+      213: 697844603195705367
+    second: PoliceMan_32x32_118
+  - first:
+      213: 4619920463516443133
+    second: PoliceMan_32x32_119
+  - first:
+      213: -8524138529119227693
+    second: PoliceMan_32x32_120
+  - first:
+      213: 683182162967192911
+    second: PoliceMan_32x32_121
+  - first:
+      213: -4527791461886543656
+    second: PoliceMan_32x32_122
+  - first:
+      213: -2720193232732943507
+    second: PoliceMan_32x32_123
+  - first:
+      213: -6614746000395405033
+    second: PoliceMan_32x32_124
+  - first:
+      213: -8684336447908953153
+    second: PoliceMan_32x32_125
+  - first:
+      213: -539831295196348753
+    second: PoliceMan_32x32_126
+  - first:
+      213: 8429182138733774325
+    second: PoliceMan_32x32_127
+  - first:
+      213: 5485069439132853909
+    second: PoliceMan_32x32_128
+  - first:
+      213: 6292523419805207953
+    second: PoliceMan_32x32_129
+  - first:
+      213: 2815510001518454061
+    second: PoliceMan_32x32_130
+  - first:
+      213: -5704535250046046368
+    second: PoliceMan_32x32_131
+  - first:
+      213: 8384657510990187776
+    second: PoliceMan_32x32_132
+  - first:
+      213: 6094194398474283475
+    second: PoliceMan_32x32_133
+  - first:
+      213: -9038757984216581299
+    second: PoliceMan_32x32_134
+  - first:
+      213: -3394968852286826428
+    second: PoliceMan_32x32_135
+  - first:
+      213: 7711923744591211061
+    second: PoliceMan_32x32_136
+  - first:
+      213: -8678588531496468461
+    second: PoliceMan_32x32_137
+  - first:
+      213: -4631169003864841426
+    second: PoliceMan_32x32_138
+  - first:
+      213: 8432761042016666328
+    second: PoliceMan_32x32_139
+  - first:
+      213: -8179931660104881599
+    second: PoliceMan_32x32_140
+  - first:
+      213: 7066797327310476225
+    second: PoliceMan_32x32_141
+  - first:
+      213: 1533578339697090315
+    second: PoliceMan_32x32_142
+  - first:
+      213: -1928921757947905135
+    second: PoliceMan_32x32_143
+  - first:
+      213: -2726295236060953031
+    second: PoliceMan_32x32_144
+  - first:
+      213: -7480487543588565188
+    second: PoliceMan_32x32_145
+  - first:
+      213: -2330755108591204265
+    second: PoliceMan_32x32_146
+  - first:
+      213: 4018459069246207606
+    second: PoliceMan_32x32_147
+  - first:
+      213: 7911364779360308036
+    second: PoliceMan_32x32_148
+  - first:
+      213: -4029288534304857023
+    second: PoliceMan_32x32_149
+  - first:
+      213: 1428065993381450172
+    second: PoliceMan_32x32_150
+  - first:
+      213: -1062388750958029846
+    second: PoliceMan_32x32_151
+  - first:
+      213: -3497937253627071897
+    second: PoliceMan_32x32_152
+  - first:
+      213: -26265162733142983
+    second: PoliceMan_32x32_153
+  - first:
+      213: -2781492657332723827
+    second: PoliceMan_32x32_154
+  - first:
+      213: 9070777404832859513
+    second: PoliceMan_32x32_155
+  - first:
+      213: -2670935501150679792
+    second: PoliceMan_32x32_156
+  - first:
+      213: 662102452803885140
+    second: PoliceMan_32x32_157
+  - first:
+      213: -5251967280618159982
+    second: PoliceMan_32x32_158
+  - first:
+      213: 8807086146381044493
+    second: PoliceMan_32x32_159
+  - first:
+      213: -5020805168554864246
+    second: PoliceMan_32x32_160
+  - first:
+      213: -1428374113428099701
+    second: PoliceMan_32x32_161
+  - first:
+      213: 8451171114526208024
+    second: PoliceMan_32x32_162
+  - first:
+      213: -2232748431382440212
+    second: PoliceMan_32x32_163
+  - first:
+      213: -4622098975458901997
+    second: PoliceMan_32x32_164
+  - first:
+      213: 7227314304654178184
+    second: PoliceMan_32x32_165
+  - first:
+      213: 7856836963325786970
+    second: PoliceMan_32x32_166
+  - first:
+      213: 7504180684560688193
+    second: PoliceMan_32x32_167
+  - first:
+      213: 8617576459614027603
+    second: PoliceMan_32x32_168
+  - first:
+      213: -1506114698812074043
+    second: PoliceMan_32x32_169
+  - first:
+      213: 6613842695710189636
+    second: PoliceMan_32x32_170
+  - first:
+      213: 9181739765041303620
+    second: PoliceMan_32x32_171
+  - first:
+      213: -16564682242435421
+    second: PoliceMan_32x32_172
+  - first:
+      213: 4039733446763807678
+    second: PoliceMan_32x32_173
+  - first:
+      213: 5514951966214850113
+    second: PoliceMan_32x32_174
+  - first:
+      213: -418873334102649460
+    second: PoliceMan_32x32_175
+  - first:
+      213: -4405101116642645118
+    second: PoliceMan_32x32_176
+  - first:
+      213: -2282037722575143468
+    second: PoliceMan_32x32_177
+  - first:
+      213: 81374138445801621
+    second: PoliceMan_32x32_178
+  - first:
+      213: -8485294183692398772
+    second: PoliceMan_32x32_179
+  - first:
+      213: 6354810308475424989
+    second: PoliceMan_32x32_180
+  - first:
+      213: -6735711310084028986
+    second: PoliceMan_32x32_181
+  - first:
+      213: 2471009241518314973
+    second: PoliceMan_32x32_182
+  - first:
+      213: -6346961276921898090
+    second: PoliceMan_32x32_183
+  - first:
+      213: -3995628809296894784
+    second: PoliceMan_32x32_184
+  - first:
+      213: -4007942102847029718
+    second: PoliceMan_32x32_185
+  - first:
+      213: 7800163266559576912
+    second: PoliceMan_32x32_186
+  - first:
+      213: -2406308423340043149
+    second: PoliceMan_32x32_187
+  - first:
+      213: -6790189633938811857
+    second: PoliceMan_32x32_188
+  - first:
+      213: 2720313684473147956
+    second: PoliceMan_32x32_189
+  - first:
+      213: -7931896833546086145
+    second: PoliceMan_32x32_190
+  - first:
+      213: -1669282389407371133
+    second: PoliceMan_32x32_191
+  - first:
+      213: 8223971606177852410
+    second: PoliceMan_32x32_192
+  - first:
+      213: -2022398291990106635
+    second: PoliceMan_32x32_193
+  - first:
+      213: -3536629476881423787
+    second: PoliceMan_32x32_194
+  - first:
+      213: 8280361600031222211
+    second: PoliceMan_32x32_195
+  - first:
+      213: -1742454834786495026
+    second: PoliceMan_32x32_196
+  - first:
+      213: 8867859546076292224
+    second: PoliceMan_32x32_197
+  - first:
+      213: 8810300231023408534
+    second: PoliceMan_32x32_198
+  - first:
+      213: -1667017829423763844
+    second: PoliceMan_32x32_199
+  - first:
+      213: 4298465325242310955
+    second: PoliceMan_32x32_200
+  - first:
+      213: -8132594230691852281
+    second: PoliceMan_32x32_201
+  - first:
+      213: 5610128459898955956
+    second: PoliceMan_32x32_202
+  - first:
+      213: -6081351907793899418
+    second: PoliceMan_32x32_203
+  - first:
+      213: 3394544731308420202
+    second: PoliceMan_32x32_204
+  - first:
+      213: -3861807396439552622
+    second: PoliceMan_32x32_205
+  - first:
+      213: 7845231814221999803
+    second: PoliceMan_32x32_206
+  - first:
+      213: 3594877308756997281
+    second: PoliceMan_32x32_207
+  - first:
+      213: -2061305988564338135
+    second: PoliceMan_32x32_208
+  - first:
+      213: -8988294246479193848
+    second: PoliceMan_32x32_209
+  - first:
+      213: -9211513637281331327
+    second: PoliceMan_32x32_210
+  - first:
+      213: 3837255383584322057
+    second: PoliceMan_32x32_211
+  - first:
+      213: 9150222071761729698
+    second: PoliceMan_32x32_212
+  - first:
+      213: 6251839026860247029
+    second: PoliceMan_32x32_213
+  - first:
+      213: 8985893633639320503
+    second: PoliceMan_32x32_214
+  - first:
+      213: 5238343559017834454
+    second: PoliceMan_32x32_215
+  - first:
+      213: -5866207301883986031
+    second: PoliceMan_32x32_216
+  - first:
+      213: 5491683561377506983
+    second: PoliceMan_32x32_217
+  - first:
+      213: -1987321031674172753
+    second: PoliceMan_32x32_218
+  - first:
+      213: 2696584745725864754
+    second: PoliceMan_32x32_219
+  - first:
+      213: -225963191526604641
+    second: PoliceMan_32x32_220
+  - first:
+      213: 3920978829170997939
+    second: PoliceMan_32x32_221
+  - first:
+      213: 975824602698654871
+    second: PoliceMan_32x32_222
+  - first:
+      213: 669064366693714693
+    second: PoliceMan_32x32_223
+  - first:
+      213: -7884502007061992193
+    second: PoliceMan_32x32_224
+  - first:
+      213: -7994979682027725515
+    second: PoliceMan_32x32_225
+  - first:
+      213: 541920561720412120
+    second: PoliceMan_32x32_226
+  - first:
+      213: -6436908799537999931
+    second: PoliceMan_32x32_227
+  - first:
+      213: -7171758274220175335
+    second: PoliceMan_32x32_228
+  - first:
+      213: -8402755224093346682
+    second: PoliceMan_32x32_229
+  - first:
+      213: -6944771792114081051
+    second: PoliceMan_32x32_230
+  - first:
+      213: 7016296469365729266
+    second: PoliceMan_32x32_231
+  - first:
+      213: 6169690879490569148
+    second: PoliceMan_32x32_232
+  - first:
+      213: 8926518892821023146
+    second: PoliceMan_32x32_233
+  - first:
+      213: -3946877224296993506
+    second: PoliceMan_32x32_234
+  - first:
+      213: -9066544216884904498
+    second: PoliceMan_32x32_235
+  - first:
+      213: -2490819037181451227
+    second: PoliceMan_32x32_236
+  - first:
+      213: -508307249789835850
+    second: PoliceMan_32x32_237
+  - first:
+      213: 1872471667046685704
+    second: PoliceMan_32x32_238
+  - first:
+      213: -8083991959414519538
+    second: PoliceMan_32x32_239
+  - first:
+      213: 8423385040406242564
+    second: PoliceMan_32x32_240
+  - first:
+      213: 8234939031118466032
+    second: PoliceMan_32x32_241
+  - first:
+      213: -4354097503030975437
+    second: PoliceMan_32x32_242
+  - first:
+      213: 3094680888476816854
+    second: PoliceMan_32x32_243
+  - first:
+      213: -7184906691442190001
+    second: PoliceMan_32x32_244
+  - first:
+      213: -7753768669478417876
+    second: PoliceMan_32x32_245
+  - first:
+      213: 449739002724998527
+    second: PoliceMan_32x32_246
+  - first:
+      213: -1704475955010007352
+    second: PoliceMan_32x32_247
+  - first:
+      213: 4467002379653951031
+    second: PoliceMan_32x32_248
+  - first:
+      213: -865186828884565788
+    second: PoliceMan_32x32_249
+  - first:
+      213: -1812674448039243465
+    second: PoliceMan_32x32_250
+  - first:
+      213: -1673244313288204066
+    second: PoliceMan_32x32_251
+  - first:
+      213: -1737549410627851328
+    second: PoliceMan_32x32_252
+  - first:
+      213: 7789160672046230988
+    second: PoliceMan_32x32_253
+  - first:
+      213: -5619853011695336854
+    second: PoliceMan_32x32_254
+  - first:
+      213: -878317984842757640
+    second: PoliceMan_32x32_255
+  - first:
+      213: 544657280905219119
+    second: PoliceMan_32x32_256
+  - first:
+      213: -3403138950820501873
+    second: PoliceMan_32x32_257
+  - first:
+      213: 783902266317410079
+    second: PoliceMan_32x32_258
+  - first:
+      213: -10838994927332683
+    second: PoliceMan_32x32_259
+  - first:
+      213: -4651329900171753915
+    second: PoliceMan_32x32_260
+  - first:
+      213: -2804195530637076549
+    second: PoliceMan_32x32_261
+  - first:
+      213: 1543296404810413773
+    second: PoliceMan_32x32_262
+  - first:
+      213: -7823077542753586924
+    second: PoliceMan_32x32_263
+  - first:
+      213: -3424442816200750380
+    second: PoliceMan_32x32_264
+  - first:
+      213: -3199538904881461728
+    second: PoliceMan_32x32_265
+  - first:
+      213: -5370506639129580554
+    second: PoliceMan_32x32_266
+  - first:
+      213: 2901150175410978668
+    second: PoliceMan_32x32_267
+  - first:
+      213: -4168118407250584926
+    second: PoliceMan_32x32_268
+  - first:
+      213: 4455083800193728845
+    second: PoliceMan_32x32_269
+  - first:
+      213: -8959460697434536456
+    second: PoliceMan_32x32_270
+  - first:
+      213: 8873497565831636363
+    second: PoliceMan_32x32_271
+  - first:
+      213: -327173448195969538
+    second: PoliceMan_32x32_272
+  - first:
+      213: 4589625064136429043
+    second: PoliceMan_32x32_273
+  - first:
+      213: 6890326865840281379
+    second: PoliceMan_32x32_274
+  - first:
+      213: 2668833691000188585
+    second: PoliceMan_32x32_275
+  - first:
+      213: -9192441317870925240
+    second: PoliceMan_32x32_276
+  - first:
+      213: 7870985207503100743
+    second: PoliceMan_32x32_277
+  - first:
+      213: -1070166977876329731
+    second: PoliceMan_32x32_278
+  - first:
+      213: 3223138738194164906
+    second: PoliceMan_32x32_279
+  - first:
+      213: 6370094261180459040
+    second: PoliceMan_32x32_280
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoliceMan_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4964f4888c7dc9b20800000000000000
+      internalID: 3142623896278091412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1247
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75063f59d19b5b050800000000000000
+      internalID: 5815758030539808855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1247
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42568512d5a39ea0800000000000000
+      internalID: -5867163567810784691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1247
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53582f4d1c0ca5540800000000000000
+      internalID: 4997518675254871349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 193
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b5cc925da752a20800000000000000
+      internalID: 3036968579679148844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1183
+        width: 194
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98bf6d16c0ea4e60800000000000000
+      internalID: 7947411633950668955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1183
+        width: 194
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb028583972e7590800000000000000
+      internalID: -7674653200439178250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1183
+        width: 194
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a012c02033de1380800000000000000
+      internalID: -8998522801778192222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 193
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2703bc9e6a4aed60800000000000000
+      internalID: 7920224733620274987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a59f080ec50e820800000000000000
+      internalID: 2945456275606559370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1119
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1055dd56a2a3f8bf0800000000000000
+      internalID: -319973094747974399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf118e5599fef6e40800000000000000
+      internalID: 5651999499223568892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1055
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd58ec7df6717b30800000000000000
+      internalID: 4283335551700458994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ddb6930f6e9d55d0800000000000000
+      internalID: -3072125171158041131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1119
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359c23cfb48410bd0800000000000000
+      internalID: -2665770013235689133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fe024f5508c7710800000000000000
+      internalID: 1692368666640838499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1055
+        width: 194
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f886cc0b4ac1e10800000000000000
+      internalID: 2169790199736340250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1121
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ac21245494ed1c0800000000000000
+      internalID: -4477060417749595546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e85d7e4e1497b6d0800000000000000
+      internalID: -2974746170968155928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1121
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8f569ce03e80170800000000000000
+      internalID: 8145009578747492565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1119
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013a7486045adc3b0800000000000000
+      internalID: -5490550674648751344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1121
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d959c6e2e6f74b0800000000000000
+      internalID: -5440508679170974451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1079
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7160f9809c5b680800000000000000
+      internalID: -8739858462977681469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1079
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b506425d2df300800000000000000
+      internalID: 287435782606926362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1081
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11dac71e0b91b80a0800000000000000
+      internalID: -6878375758390317807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1081
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e06370efd0597330800000000000000
+      internalID: 3709084690589901025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1079
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4361f40db8a357b0800000000000000
+      internalID: -5236656411916541107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1079
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da5352852e47cf80800000000000000
+      internalID: -8086408682913178920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1089
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471482d2ce5cd400800000000000000
+      internalID: 350259061876594507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1081
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a501ee21c1bc9aeb0800000000000000
+      internalID: -4708008614002028454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1089
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa35fc556f3dfa2d0800000000000000
+      internalID: -3265158149865253969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1063
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c104c9be41a957f0800000000000000
+      internalID: -623289713917951543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9451c970b719f1ee0800000000000000
+      internalID: -1288151010809998007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1073
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9273d7d140814140800000000000000
+      internalID: 4702180506233696926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eb89ffbd6cd3120800000000000000
+      internalID: 2395289225019309578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d9a656a0c409b90800000000000000
+      internalID: -7237200993649517198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075bc067da0e6f2a0800000000000000
+      internalID: -6703923959679896208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4239c1f7340c4770800000000000000
+      internalID: 8596250427069641294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f45074290175560800000000000000
+      internalID: 7302323541247348565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d77796a756904f0800000000000000
+      internalID: -862046277234885260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603cd47e18301a150800000000000000
+      internalID: 5881986444788876038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 863
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25315822d6360f770800000000000000
+      internalID: 8642517005305713490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 863
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b65b87b4d878cd0800000000000000
+      internalID: -2555918908222248059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20d80996d8c71e20800000000000000
+      internalID: 3321344074225078318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389f96e5de82c83f0800000000000000
+      internalID: -897297225797207677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a17e4104367d0d0800000000000000
+      internalID: -3398138266948003222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70bcdc3f6b9ea90800000000000000
+      internalID: -7284089764049123329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 863
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1f4f7a8986461d0800000000000000
+      internalID: -3358444417249381939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 863
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759494e71e7f93d90800000000000000
+      internalID: -7117385188223923881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548eecbbbc6aa0350800000000000000
+      internalID: 5983778448874596421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b812b5c714a21a010800000000000000
+      internalID: 1198285436604850571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 799
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6b5f5eb6f8bd8a0800000000000000
+      internalID: -6279267561855666469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 799
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa10da357232a650800000000000000
+      internalID: 6242607512568208034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd21cc4c007221cd0800000000000000
+      internalID: -2588963951529422115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee1f3488a4d302d0800000000000000
+      internalID: -3313571080576229657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e56150c14f7b95e0800000000000000
+      internalID: -1901786497257740832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e35d73a818b0fe40800000000000000
+      internalID: 5688248745330562024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ba803a008af920800000000000000
+      internalID: 3024870880985133567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 799
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf45636109865aa0800000000000000
+      internalID: -6172595600209129546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 799
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8870e0c4ec83f09a0800000000000000
+      internalID: -6264726097958664312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 799
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b41e34ea1519490800000000000000
+      internalID: -7741316475568174205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e7d9a05ccfaa930800000000000000
+      internalID: 4155411529419554439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98449450216995800800000000000000
+      internalID: 601677029372937353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dc0d0cad04a36f0800000000000000
+      internalID: -704179083448103546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4051d4a6ae0ddde0800000000000000
+      internalID: -1306872207975034804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83dfc85997beeabe0800000000000000
+      internalID: -1463973921416217288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca1ff3e5b8156310800000000000000
+      internalID: 1397550428861700814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75e4d4cccda502e0800000000000000
+      internalID: -2160129351267064450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2407cf6adf9fb650800000000000000
+      internalID: 6250890568340538411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54edd68f44f2cc4e0800000000000000
+      internalID: -1960139764540776891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bba73683367be80800000000000000
+      internalID: -8162946705747428499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e69567e80332eef0800000000000000
+      internalID: -80445730004298016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b458e114ea736e0800000000000000
+      internalID: -1857824726558880876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e521a52378aa120800000000000000
+      internalID: 2425899999621701251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 193
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e731a22edcb9f90800000000000000
+      internalID: -6945731629036634616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 735
+        width: 194
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a1778de6dbba760800000000000000
+      internalID: 7470272690699835927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 735
+        width: 194
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0f91dab731c40f0800000000000000
+      internalID: -1131507984470773569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 737
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff964beadd436c30800000000000000
+      internalID: 4351407267615514622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 735
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f6173ee0fc95fd0800000000000000
+      internalID: -2352621667472019632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 737
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3bcd961caef46f0800000000000000
+      internalID: -698081300793478147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 737
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28041664c94ab9f0800000000000000
+      internalID: -451967704722307026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 735
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c83f8971ac1613d0800000000000000
+      internalID: -3236367802364380992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 737
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8b29269e8aa8160800000000000000
+      internalID: 7028615888799709405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6e51ea88d5477d0800000000000000
+      internalID: -2921607416639002956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd3c7a98587233b0800000000000000
+      internalID: -5534228670140629556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc20841569261c30800000000000000
+      internalID: 4329693605875690684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa78523f78753a6f0800000000000000
+      internalID: -674599277763917905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c007e84354b94990800000000000000
+      internalID: -7401186242808315707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b983331f2705510800000000000000
+      internalID: 1535853853205371756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d5fdb39a33aaf0800000000000000
+      internalID: -386400736802121458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7dca686c5c59740800000000000000
+      internalID: 5158246404676442075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f92c69cf5fde9ab0800000000000000
+      internalID: -4999312933840475663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bd276ca2e7f1140800000000000000
+      internalID: 4692608058926488469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971c9727cbe4ef800800000000000000
+      internalID: 648041967669330297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca10b9325d6bd500800000000000000
+      internalID: 422051190011861700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 385
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70164f198cbc8cc80800000000000000
+      internalID: -8302161850754899705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ab9f6d7ad8cc8e0800000000000000
+      internalID: -1671805609655551402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2334c7ec9fb04c10800000000000000
+      internalID: 2035837712195662637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f067a2ca65bcf30800000000000000
+      internalID: 4596863142108466957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09773ed3dd8327b0800000000000000
+      internalID: -5250196799478073077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d323d9da576cb5b0800000000000000
+      internalID: -5351288617323781165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6cfcbda49344410800000000000000
+      internalID: 1460355172853073574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b3f679f90b4b910800000000000000
+      internalID: 1852299546243054391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e477903cfe540e0800000000000000
+      internalID: -2286157614864183783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990cbdff6a7be8300800000000000000
+      internalID: 256344156691742873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba31d92436cac4900800000000000000
+      internalID: 670099986890691499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 671
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce20c55e25fdfc40800000000000000
+      internalID: 5547859895346278081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 671
+        width: 386
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867ead27498f3de70800000000000000
+      internalID: 9138921385330665320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 671
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef206ddc0828304f0800000000000000
+      internalID: -863703213804223746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82cd40cbe18c1d70800000000000000
+      internalID: 9015223403632509582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a624d527ef527350800000000000000
+      internalID: 6012973898869778086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532f8a59290169650800000000000000
+      internalID: 6239192555530547765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 671
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44989c339021fd0c0800000000000000
+      internalID: -4548897267888060092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c093aa9cbfcd59c0800000000000000
+      internalID: -3936762090296733500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955ad9ed85dd88ad0800000000000000
+      internalID: -2699664602846878375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798990d01efc3bc80800000000000000
+      internalID: -8308068322075109225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 671
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a0f475f4a05f3b0800000000000000
+      internalID: -5479462035742848444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 671
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff8d95289e44a5f0800000000000000
+      internalID: -746385222863581196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 671
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71847e128fd3fa900800000000000000
+      internalID: 697844603195705367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 321
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1a4762f214d1040800000000000000
+      internalID: 4619920463516443133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0b0abab2d24b980800000000000000
+      internalID: -8524138529119227693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45ea8cbe862b7900800000000000000
+      internalID: 683182162967192911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8b43997ad0a21c0800000000000000
+      internalID: -4527791461886543656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b0882caaeef3ad0800000000000000
+      internalID: -2720193232732943507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719fefe1f83b334a0800000000000000
+      internalID: -6614746000395405033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3c860230a0b7780800000000000000
+      internalID: -8684336447908953153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faebe231c422288f0800000000000000
+      internalID: -539831295196348753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f54b46de787af470800000000000000
+      internalID: 8429182138733774325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5966ddff791ee1c40800000000000000
+      internalID: 5485069439132853909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 607
+        width: 322
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc05a06b8835750800000000000000
+      internalID: 6292523419805207953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25211edd63b21720800000000000000
+      internalID: 2815510001518454061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06faf4cf96b65d0b0800000000000000
+      internalID: -5704535250046046368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d81e915994c5470800000000000000
+      internalID: 8384657510990187776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 607
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d92c39548de29450800000000000000
+      internalID: 6094194398474283475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b7b04b081ef8280800000000000000
+      internalID: -9038757984216581299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4489defe0d5a2e0d0800000000000000
+      internalID: -3394968852286826428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a624349c1460b60800000000000000
+      internalID: 7711923744591211061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310cf5436b57f8780800000000000000
+      internalID: -8678588531496468461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2326d5f358cabfb0800000000000000
+      internalID: -4631169003864841426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 607
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d208213d7f270570800000000000000
+      internalID: 8432761042016666328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a2a788e7b0b7e80800000000000000
+      internalID: -8179931660104881599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3550a4abe421260800000000000000
+      internalID: 7066797327310476225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 449
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fd0ecef5d584510800000000000000
+      internalID: 1533578339697090315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3ef981e71b35e0800000000000000
+      internalID: -1928921757947905135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9364fb56de04a2ad0800000000000000
+      internalID: -2726295236060953031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f4ba16638ff2890800000000000000
+      internalID: -7480487543588565188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7588efdd39e77afd0800000000000000
+      internalID: -2330755108591204265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 543
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676fdd69b3f64c730800000000000000
+      internalID: 4018459069246207606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bce42c950dacd60800000000000000
+      internalID: 7911364779360308036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14464371d671518c0800000000000000
+      internalID: -4029288534304857023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1115b647281d310800000000000000
+      internalID: 1428065993381450172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 543
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae396cd4f03a141f0800000000000000
+      internalID: -1062388750958029846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f3f6c994d47fc0800000000000000
+      internalID: -3497937253627071897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93cb25149ffa2aff0800000000000000
+      internalID: -26265162733142983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f53564a272669d0800000000000000
+      internalID: -2781492657332723827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 543
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975c3bb9dffd1ed70800000000000000
+      internalID: 9070777404832859513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 543
+        width: 450
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d0feb105eeeead0800000000000000
+      internalID: -2670935501150679792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 543
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4585a404ca2403900800000000000000
+      internalID: 662102452803885140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c7ca95934d17b0800000000000000
+      internalID: -5251967280618159982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5e4d203e093a70800000000000000
+      internalID: 8807086146381044493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8197d1fc44825ab0800000000000000
+      internalID: -5020805168554864246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 543
+        width: 162
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d21cacf456d2ce0800000000000000
+      internalID: -1428374113428099701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81070693a57984570800000000000000
+      internalID: 8451171114526208024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 543
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce693aa912fa301e0800000000000000
+      internalID: -2232748431382440212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 543
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310431388710bdfb0800000000000000
+      internalID: -4622098975458901997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 543
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887f20171149c4460800000000000000
+      internalID: 7227314304654178184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 449
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b31314797190d60800000000000000
+      internalID: 7856836963325786970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 479
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446691e294342860800000000000000
+      internalID: 7504180684560688193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fff04d128c79770800000000000000
+      internalID: 8617576459614027603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7df4249a4391be0800000000000000
+      internalID: -1506114698812074043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4482e1ed3e619cb50800000000000000
+      internalID: 6613842695710189636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 479
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4409d5b5ba71c6f70800000000000000
+      internalID: 9181739765041303620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a65f1f528625cff0800000000000000
+      internalID: -16564682242435421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb30f999a24001830800000000000000
+      internalID: 4039733446763807678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1460493089b098c40800000000000000
+      internalID: 5514951966214850113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 479
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c859de20cecdf2af0800000000000000
+      internalID: -418873334102649460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28ba6d6afdfedd2c0800000000000000
+      internalID: -4405101116642645118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddfdd538c29450e0800000000000000
+      internalID: -2282037722575143468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 479
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59827f70959112100800000000000000
+      internalID: 81374138445801621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 479
+        width: 450
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f835e95ed2e3a80800000000000000
+      internalID: -8485294183692398772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 479
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01bab6e42d03850800000000000000
+      internalID: 6354810308475424989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 1409
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c54cd43042f582a0800000000000000
+      internalID: -6735711310084028986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5186d20d9ca4220800000000000000
+      internalID: 2471009241518314973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b19e5a8501be7a0800000000000000
+      internalID: -6346961276921898090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 479
+        width: 130
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c4aa8784ccac88c0800000000000000
+      internalID: -3995628809296894784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e787774ede068c0800000000000000
+      internalID: -4007942102847029718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 479
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b8555f92fbf3c60800000000000000
+      internalID: 7800163266559576912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 479
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37459c6fc331b9ed0800000000000000
+      internalID: -2406308423340043149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 479
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24998ff08664c1a0800000000000000
+      internalID: -6790189633938811857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432f7a812ee70c520800000000000000
+      internalID: 2720313684473147956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_190
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 160
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff89079dadd3ce190800000000000000
+      internalID: -7931896833546086145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_191
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 415
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380fe85d28485d8e0800000000000000
+      internalID: -1669282389407371133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_192
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 415
+        width: 194
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb21257a9a612270800000000000000
+      internalID: 8223971606177852410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_193
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda293f77ffee3e0800000000000000
+      internalID: -2022398291990106635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_194
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 415
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552ae488a3e5beec0800000000000000
+      internalID: -3536629476881423787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_195
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 415
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c965a50101c9e270800000000000000
+      internalID: 8280361600031222211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec593674f8e81d7e0800000000000000
+      internalID: -1742454834786495026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_197
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0842fe1f547f01b70800000000000000
+      internalID: 8867859546076292224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_198
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 351
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69531b29169744a70800000000000000
+      internalID: 8810300231023408534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_199
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 351
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e24facd109dd8e0800000000000000
+      internalID: -1667017829423763844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_200
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 351
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21e666607737ab30800000000000000
+      internalID: 4298465325242310955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_201
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 351
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7009831b2a8332f80800000000000000
+      internalID: -8132594230691852281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_202
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 351
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8269c4c1e2bdd40800000000000000
+      internalID: 5610128459898955956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_203
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 351
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660fcc509a2ba9ba0800000000000000
+      internalID: -6081351907793899418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_204
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 351
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6cefc3b278db1f20800000000000000
+      internalID: 3394544731308420202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_205
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 351
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d8e3832aa186ac0800000000000000
+      internalID: -3861807396439552622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_206
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 193
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeab4be4ccdfdc60800000000000000
+      internalID: 7845231814221999803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_207
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b297add193e130800000000000000
+      internalID: 3594877308756997281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_208
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 287
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92abc3aef15c463e0800000000000000
+      internalID: -2061305988564338135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_209
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 287
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8099bed310a234380800000000000000
+      internalID: -8988294246479193848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_210
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1870e2ec6212a2080800000000000000
+      internalID: -9211513637281331327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_211
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 194
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902bff2d07ba04530800000000000000
+      internalID: 3837255383584322057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_212
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8fb4b8e7e1cfe70800000000000000
+      internalID: 9150222071761729698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_213
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 287
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7cde4a87ef2c650800000000000000
+      internalID: 6251839026860247029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_214
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 287
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb048686ae44bc70800000000000000
+      internalID: 8985893633639320503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_215
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7a6b686b552b840800000000000000
+      internalID: 5238343559017834454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_216
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ff6681a8b079ea0800000000000000
+      internalID: -5866207301883986031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_217
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a622c65a11663c40800000000000000
+      internalID: 5491683561377506983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_218
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faae56c0d0e9b64e0800000000000000
+      internalID: -1987321031674172753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_219
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b2ab30a813c6520800000000000000
+      internalID: 2696584745725864754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_220
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f904ebcaca73ddcf0800000000000000
+      internalID: -225963191526604641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_221
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba709c887d1a6630800000000000000
+      internalID: 3920978829170997939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_222
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794a0f65e43da8d00800000000000000
+      internalID: 975824602698654871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_223
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b86a42f7ef84900800000000000000
+      internalID: 669064366693714693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_224
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc273ec23f949290800000000000000
+      internalID: -7884502007061992193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_225
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d9542a6502c0190800000000000000
+      internalID: -7994979682027725515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_226
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d743d131e9458700800000000000000
+      internalID: 541920561720412120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_227
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf83ff0d818ba6a0800000000000000
+      internalID: -6436908799537999931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_228
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9105322e8dbc87c90800000000000000
+      internalID: -7171758274220175335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_229
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684bb55b4aa636b80800000000000000
+      internalID: -8402755224093346682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_230
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e223ec99d63f9f90800000000000000
+      internalID: -6944771792114081051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_231
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f72f570774ee5160800000000000000
+      internalID: 7016296469365729266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_232
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3b00e9a252f9550800000000000000
+      internalID: 6169690879490569148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_233
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9096763ad51eb70800000000000000
+      internalID: 8926518892821023146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_234
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1da2b17310e939c0800000000000000
+      internalID: -3946877224296993506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_235
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdf334421a2d2280800000000000000
+      internalID: -9066544216884904498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_236
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524e4095845de6dd0800000000000000
+      internalID: -2490819037181451227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_237
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5658bdf3122f8f0800000000000000
+      internalID: -508307249789835850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_238
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c1d467f0b5cf910800000000000000
+      internalID: 1872471667046685704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_239
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09cbfbc424efcf80800000000000000
+      internalID: -8083991959414519538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_240
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405e0c3b010e5e470800000000000000
+      internalID: 8423385040406242564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_241
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc0d01b61684270800000000000000
+      internalID: 8234939031118466032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_242
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3346c66d3632393c0800000000000000
+      internalID: -4354097503030975437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_243
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5d9da2fd382fa20800000000000000
+      internalID: 3094680888476816854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_244
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 223
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d2407e651a4c90800000000000000
+      internalID: -7184906691442190001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_245
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 223
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a8f21f974156490800000000000000
+      internalID: -7753768669478417876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_246
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 223
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ddf0b7d3bcd3600800000000000000
+      internalID: 449739002724998527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_247
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 223
+        width: 130
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce0f6d462c7858e0800000000000000
+      internalID: -1704475955010007352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_248
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 223
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e29124ffafdfd30800000000000000
+      internalID: 4467002379653951031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_249
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 223
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e02dffb92d3ef3f0800000000000000
+      internalID: -865186828884565788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_250
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 223
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7319137813618d6e0800000000000000
+      internalID: -1812674448039243465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_251
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 223
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0a30c892177c8e0800000000000000
+      internalID: -1673244313288204066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 193
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb66d7540cf2e7e0800000000000000
+      internalID: -1737549410627851328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_253
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd22cbcc58a81c60800000000000000
+      internalID: 7789160672046230988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_254
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a628dfb06754202b0800000000000000
+      internalID: -5619853011695336854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_255
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 159
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f94c9142769fc3f0800000000000000
+      internalID: -878317984842757640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_256
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 159
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c8fa849e20f8700800000000000000
+      internalID: 544657280905219119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_257
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f866c03a72f95c0d0800000000000000
+      internalID: -3403138950820501873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_258
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f097a35faf0ea00800000000000000
+      internalID: 783902266317410079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_259
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 159
+        width: 194
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b252a5ddfd79dff0800000000000000
+      internalID: -10838994927332683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_260
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5460c1f7918237fb0800000000000000
+      internalID: -4651329900171753915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_261
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb793aba50f7519d0800000000000000
+      internalID: -2804195530637076549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_262
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 159
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6bcd747e3ea6510800000000000000
+      internalID: 1543296404810413773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_263
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 159
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41136dd5c68de6390800000000000000
+      internalID: -7823077542753586924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_264
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da47b2f66fe970d0800000000000000
+      internalID: -3424442816200750380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_265
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 159
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0268f716154f893d0800000000000000
+      internalID: -3199538904881461728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbedc67aa02875b0800000000000000
+      internalID: -5370506639129580554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_267
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 95
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ffe6da6b4f24820800000000000000
+      internalID: 2901150175410978668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_268
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 95
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aadf0a646ed726c0800000000000000
+      internalID: -4168118407250584926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_269
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 95
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41052bbc13a3dd30800000000000000
+      internalID: 4455083800193728845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_270
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5475607f999a380800000000000000
+      internalID: -8959460697434536456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_271
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8520b6b50ff42b70800000000000000
+      internalID: 8873497565831636363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_272
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 95
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde6587b75a57bf0800000000000000
+      internalID: -327173448195969538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_273
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 95
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdc410ddaf91bf30800000000000000
+      internalID: 4589625064136429043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_274
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 97
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3279db827cb5f9f50800000000000000
+      internalID: 6890326865840281379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_275
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae29a41a1a990520800000000000000
+      internalID: 2668833691000188585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_276
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 31
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a0ea53353ed6080800000000000000
+      internalID: -9192441317870925240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_277
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 31
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b939d085b5b3d60800000000000000
+      internalID: 7870985207503100743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_278
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaf359bdc00621f0800000000000000
+      internalID: -1070166977876329731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_279
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 31
+        width: 98
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac2ddffa93eabc20800000000000000
+      internalID: 3223138738194164906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoliceMan_32x32_280
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0286a67fafe176850800000000000000
+      internalID: 6370094261180459040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

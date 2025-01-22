@@ -1,0 +1,7692 @@
+fileFormatVersion: 2
+guid: d06e671d2dae53547bd873870c2bd34e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4424607107132806834
+    second: ShopLady_32x32_0
+  - first:
+      213: -4708712936234689436
+    second: ShopLady_32x32_1
+  - first:
+      213: -2115839735742349377
+    second: ShopLady_32x32_2
+  - first:
+      213: 3046816931969256237
+    second: ShopLady_32x32_3
+  - first:
+      213: -212635652959548011
+    second: ShopLady_32x32_4
+  - first:
+      213: 6955516205562489819
+    second: ShopLady_32x32_5
+  - first:
+      213: -6616715305443105021
+    second: ShopLady_32x32_6
+  - first:
+      213: -4628021534968055242
+    second: ShopLady_32x32_7
+  - first:
+      213: 3786846229180073534
+    second: ShopLady_32x32_8
+  - first:
+      213: -7146232442748158878
+    second: ShopLady_32x32_9
+  - first:
+      213: 2241315555026400873
+    second: ShopLady_32x32_10
+  - first:
+      213: 5854140552461843261
+    second: ShopLady_32x32_11
+  - first:
+      213: -426405401700763028
+    second: ShopLady_32x32_12
+  - first:
+      213: 6088309153948102913
+    second: ShopLady_32x32_13
+  - first:
+      213: 7593058574298190013
+    second: ShopLady_32x32_14
+  - first:
+      213: 8505380489165147873
+    second: ShopLady_32x32_15
+  - first:
+      213: -1374021600229625675
+    second: ShopLady_32x32_16
+  - first:
+      213: -5324895673158494211
+    second: ShopLady_32x32_17
+  - first:
+      213: -5248023009074617689
+    second: ShopLady_32x32_18
+  - first:
+      213: -8017308848056305902
+    second: ShopLady_32x32_19
+  - first:
+      213: 6663155542817994892
+    second: ShopLady_32x32_20
+  - first:
+      213: 3853415873960981119
+    second: ShopLady_32x32_21
+  - first:
+      213: 3998020068596814601
+    second: ShopLady_32x32_22
+  - first:
+      213: -2934972461125293824
+    second: ShopLady_32x32_23
+  - first:
+      213: 5573982196362838401
+    second: ShopLady_32x32_24
+  - first:
+      213: 3219566809825660256
+    second: ShopLady_32x32_25
+  - first:
+      213: -6382416317635386301
+    second: ShopLady_32x32_26
+  - first:
+      213: -3810167316894312010
+    second: ShopLady_32x32_27
+  - first:
+      213: -7667184784000602404
+    second: ShopLady_32x32_28
+  - first:
+      213: -8299164346870186090
+    second: ShopLady_32x32_29
+  - first:
+      213: 5627959157046151264
+    second: ShopLady_32x32_30
+  - first:
+      213: -3664083562629388695
+    second: ShopLady_32x32_31
+  - first:
+      213: -8968364838419967992
+    second: ShopLady_32x32_32
+  - first:
+      213: 1437971987395412749
+    second: ShopLady_32x32_33
+  - first:
+      213: 2911325799533196684
+    second: ShopLady_32x32_34
+  - first:
+      213: -3892928813682781283
+    second: ShopLady_32x32_35
+  - first:
+      213: 461472280780587066
+    second: ShopLady_32x32_36
+  - first:
+      213: -5869788650259633503
+    second: ShopLady_32x32_37
+  - first:
+      213: -9151272235263658661
+    second: ShopLady_32x32_38
+  - first:
+      213: -8553739457687151314
+    second: ShopLady_32x32_39
+  - first:
+      213: 2931187417763185403
+    second: ShopLady_32x32_40
+  - first:
+      213: -5464685086382321236
+    second: ShopLady_32x32_41
+  - first:
+      213: -2949857244337185264
+    second: ShopLady_32x32_42
+  - first:
+      213: 1379026078286561837
+    second: ShopLady_32x32_43
+  - first:
+      213: 1338573505871877904
+    second: ShopLady_32x32_44
+  - first:
+      213: -2716513800888470348
+    second: ShopLady_32x32_45
+  - first:
+      213: 626912221630725087
+    second: ShopLady_32x32_46
+  - first:
+      213: 3656543438433512822
+    second: ShopLady_32x32_47
+  - first:
+      213: 2709088010597929414
+    second: ShopLady_32x32_48
+  - first:
+      213: -7098749500337701845
+    second: ShopLady_32x32_49
+  - first:
+      213: -6700312047897896889
+    second: ShopLady_32x32_50
+  - first:
+      213: -8892674295619596076
+    second: ShopLady_32x32_51
+  - first:
+      213: -7792912907555144804
+    second: ShopLady_32x32_52
+  - first:
+      213: -4660685726729381194
+    second: ShopLady_32x32_53
+  - first:
+      213: 8709971644068272394
+    second: ShopLady_32x32_54
+  - first:
+      213: 1457891724617842985
+    second: ShopLady_32x32_55
+  - first:
+      213: -3341417700764038577
+    second: ShopLady_32x32_56
+  - first:
+      213: -1352841165416756519
+    second: ShopLady_32x32_57
+  - first:
+      213: 6662151019818783747
+    second: ShopLady_32x32_58
+  - first:
+      213: -1907522867688608879
+    second: ShopLady_32x32_59
+  - first:
+      213: -8520975572902504345
+    second: ShopLady_32x32_60
+  - first:
+      213: 6192234086272018795
+    second: ShopLady_32x32_61
+  - first:
+      213: -3129378077470773702
+    second: ShopLady_32x32_62
+  - first:
+      213: 8543389374922265327
+    second: ShopLady_32x32_63
+  - first:
+      213: 7437000682175998870
+    second: ShopLady_32x32_64
+  - first:
+      213: -6068691122251266228
+    second: ShopLady_32x32_65
+  - first:
+      213: 2540846575026544179
+    second: ShopLady_32x32_66
+  - first:
+      213: 164262556456613143
+    second: ShopLady_32x32_67
+  - first:
+      213: 7174064248926569977
+    second: ShopLady_32x32_68
+  - first:
+      213: -5727601418771509070
+    second: ShopLady_32x32_69
+  - first:
+      213: 6134531061620489350
+    second: ShopLady_32x32_70
+  - first:
+      213: -3518641987526047077
+    second: ShopLady_32x32_71
+  - first:
+      213: 8880902893318120401
+    second: ShopLady_32x32_72
+  - first:
+      213: -6667601595759492062
+    second: ShopLady_32x32_73
+  - first:
+      213: 191402550081614631
+    second: ShopLady_32x32_74
+  - first:
+      213: -3588027666270402208
+    second: ShopLady_32x32_75
+  - first:
+      213: -1797146949506828232
+    second: ShopLady_32x32_76
+  - first:
+      213: 2166796070724353061
+    second: ShopLady_32x32_77
+  - first:
+      213: -6621122529714986861
+    second: ShopLady_32x32_78
+  - first:
+      213: 8843979532609199256
+    second: ShopLady_32x32_79
+  - first:
+      213: -5611214783456776899
+    second: ShopLady_32x32_80
+  - first:
+      213: -2824432241665684916
+    second: ShopLady_32x32_81
+  - first:
+      213: -8078085166255793300
+    second: ShopLady_32x32_82
+  - first:
+      213: 1278607447203688221
+    second: ShopLady_32x32_83
+  - first:
+      213: 2486587260562633039
+    second: ShopLady_32x32_84
+  - first:
+      213: -6109092530165607927
+    second: ShopLady_32x32_85
+  - first:
+      213: -7746690289154568486
+    second: ShopLady_32x32_86
+  - first:
+      213: 4535224376328202657
+    second: ShopLady_32x32_87
+  - first:
+      213: 4458342918411786768
+    second: ShopLady_32x32_88
+  - first:
+      213: -6906540182529228672
+    second: ShopLady_32x32_89
+  - first:
+      213: -1344761882014668205
+    second: ShopLady_32x32_90
+  - first:
+      213: -5907486987385785129
+    second: ShopLady_32x32_91
+  - first:
+      213: 8206610096823346961
+    second: ShopLady_32x32_92
+  - first:
+      213: -774909609042813093
+    second: ShopLady_32x32_93
+  - first:
+      213: -9095547894447463290
+    second: ShopLady_32x32_94
+  - first:
+      213: 2461600371194795982
+    second: ShopLady_32x32_95
+  - first:
+      213: -8138413454690188160
+    second: ShopLady_32x32_96
+  - first:
+      213: -2708271877485898863
+    second: ShopLady_32x32_97
+  - first:
+      213: -7337618150895517972
+    second: ShopLady_32x32_98
+  - first:
+      213: -4712868178462183778
+    second: ShopLady_32x32_99
+  - first:
+      213: 2659990615550251312
+    second: ShopLady_32x32_100
+  - first:
+      213: -8728000027524424272
+    second: ShopLady_32x32_101
+  - first:
+      213: -234743823448326524
+    second: ShopLady_32x32_102
+  - first:
+      213: -576139509021221312
+    second: ShopLady_32x32_103
+  - first:
+      213: 1335487673440393282
+    second: ShopLady_32x32_104
+  - first:
+      213: -4449593334094653942
+    second: ShopLady_32x32_105
+  - first:
+      213: 3403844279303028683
+    second: ShopLady_32x32_106
+  - first:
+      213: 2018946435520917959
+    second: ShopLady_32x32_107
+  - first:
+      213: 2566577207870251916
+    second: ShopLady_32x32_108
+  - first:
+      213: -1549087747073371510
+    second: ShopLady_32x32_109
+  - first:
+      213: 8672478805651879146
+    second: ShopLady_32x32_110
+  - first:
+      213: -8440839356888129844
+    second: ShopLady_32x32_111
+  - first:
+      213: -3018784771654262866
+    second: ShopLady_32x32_112
+  - first:
+      213: -5407844252949673810
+    second: ShopLady_32x32_113
+  - first:
+      213: -5856104085933090671
+    second: ShopLady_32x32_114
+  - first:
+      213: 105852761948302758
+    second: ShopLady_32x32_115
+  - first:
+      213: -3249466536175834735
+    second: ShopLady_32x32_116
+  - first:
+      213: 1497324857443990454
+    second: ShopLady_32x32_117
+  - first:
+      213: 2452061709130001546
+    second: ShopLady_32x32_118
+  - first:
+      213: 2268129793780687930
+    second: ShopLady_32x32_119
+  - first:
+      213: 6668086773813940362
+    second: ShopLady_32x32_120
+  - first:
+      213: -4306515266697853979
+    second: ShopLady_32x32_121
+  - first:
+      213: -555567913279944918
+    second: ShopLady_32x32_122
+  - first:
+      213: -5027998005457741892
+    second: ShopLady_32x32_123
+  - first:
+      213: 3368689679111424198
+    second: ShopLady_32x32_124
+  - first:
+      213: -1765557564747595741
+    second: ShopLady_32x32_125
+  - first:
+      213: -7244416663981008806
+    second: ShopLady_32x32_126
+  - first:
+      213: 984543467761321351
+    second: ShopLady_32x32_127
+  - first:
+      213: -3787533900351463914
+    second: ShopLady_32x32_128
+  - first:
+      213: 4285493810263368457
+    second: ShopLady_32x32_129
+  - first:
+      213: 6667855409554028455
+    second: ShopLady_32x32_130
+  - first:
+      213: 6238387708286196477
+    second: ShopLady_32x32_131
+  - first:
+      213: -8600518785532522902
+    second: ShopLady_32x32_132
+  - first:
+      213: 379100386623014017
+    second: ShopLady_32x32_133
+  - first:
+      213: 5001339031498283812
+    second: ShopLady_32x32_134
+  - first:
+      213: -5319485614675136849
+    second: ShopLady_32x32_135
+  - first:
+      213: -1498371471047619488
+    second: ShopLady_32x32_136
+  - first:
+      213: -4895492692337043642
+    second: ShopLady_32x32_137
+  - first:
+      213: -1571727937175040157
+    second: ShopLady_32x32_138
+  - first:
+      213: 4432502266834478711
+    second: ShopLady_32x32_139
+  - first:
+      213: 7161016067828274499
+    second: ShopLady_32x32_140
+  - first:
+      213: -7841348468365293688
+    second: ShopLady_32x32_141
+  - first:
+      213: 4634411560105191124
+    second: ShopLady_32x32_142
+  - first:
+      213: -287321453469207386
+    second: ShopLady_32x32_143
+  - first:
+      213: 3465880099245576306
+    second: ShopLady_32x32_144
+  - first:
+      213: 4370290739380712769
+    second: ShopLady_32x32_145
+  - first:
+      213: 4741117655030640921
+    second: ShopLady_32x32_146
+  - first:
+      213: 6933581840307495696
+    second: ShopLady_32x32_147
+  - first:
+      213: 9095221597759927090
+    second: ShopLady_32x32_148
+  - first:
+      213: 4591007284112687993
+    second: ShopLady_32x32_149
+  - first:
+      213: -2533628652677288887
+    second: ShopLady_32x32_150
+  - first:
+      213: 676001966140503884
+    second: ShopLady_32x32_151
+  - first:
+      213: 8607552721162408364
+    second: ShopLady_32x32_152
+  - first:
+      213: -525650446405308474
+    second: ShopLady_32x32_153
+  - first:
+      213: -886260180337165568
+    second: ShopLady_32x32_154
+  - first:
+      213: 3879247608131163626
+    second: ShopLady_32x32_155
+  - first:
+      213: -1200130603566425886
+    second: ShopLady_32x32_156
+  - first:
+      213: -950644855214973483
+    second: ShopLady_32x32_157
+  - first:
+      213: -4753754343577827507
+    second: ShopLady_32x32_158
+  - first:
+      213: -8423825349039837457
+    second: ShopLady_32x32_159
+  - first:
+      213: -7353700567096966202
+    second: ShopLady_32x32_160
+  - first:
+      213: -1374395383652951188
+    second: ShopLady_32x32_161
+  - first:
+      213: 1653069369839789419
+    second: ShopLady_32x32_162
+  - first:
+      213: 5673075700576308377
+    second: ShopLady_32x32_163
+  - first:
+      213: 6853537983955291699
+    second: ShopLady_32x32_164
+  - first:
+      213: -2469545091068692668
+    second: ShopLady_32x32_165
+  - first:
+      213: -5098412238794956799
+    second: ShopLady_32x32_166
+  - first:
+      213: -3552187410296851688
+    second: ShopLady_32x32_167
+  - first:
+      213: -4736642420233417429
+    second: ShopLady_32x32_168
+  - first:
+      213: 7234465733112920439
+    second: ShopLady_32x32_169
+  - first:
+      213: -912293604186589328
+    second: ShopLady_32x32_170
+  - first:
+      213: -4751970340471352545
+    second: ShopLady_32x32_171
+  - first:
+      213: 2310320948431863043
+    second: ShopLady_32x32_172
+  - first:
+      213: 1398069888487779518
+    second: ShopLady_32x32_173
+  - first:
+      213: -3109987930119714971
+    second: ShopLady_32x32_174
+  - first:
+      213: 2071016325098266346
+    second: ShopLady_32x32_175
+  - first:
+      213: -155594773214889649
+    second: ShopLady_32x32_176
+  - first:
+      213: -3647932553723284729
+    second: ShopLady_32x32_177
+  - first:
+      213: 287399728572073302
+    second: ShopLady_32x32_178
+  - first:
+      213: 7271814173635960233
+    second: ShopLady_32x32_179
+  - first:
+      213: 4500849064900774582
+    second: ShopLady_32x32_180
+  - first:
+      213: 7006570672537773607
+    second: ShopLady_32x32_181
+  - first:
+      213: 1214527157009884050
+    second: ShopLady_32x32_182
+  - first:
+      213: 5107623481811841745
+    second: ShopLady_32x32_183
+  - first:
+      213: 3042748671847867618
+    second: ShopLady_32x32_184
+  - first:
+      213: 7142074918873778227
+    second: ShopLady_32x32_185
+  - first:
+      213: -4176245295530225214
+    second: ShopLady_32x32_186
+  - first:
+      213: -5143960495009472040
+    second: ShopLady_32x32_187
+  - first:
+      213: 153280029618321781
+    second: ShopLady_32x32_188
+  - first:
+      213: -2639435916886102225
+    second: ShopLady_32x32_189
+  - first:
+      213: -6890146807252498410
+    second: ShopLady_32x32_190
+  - first:
+      213: -3185689940962841653
+    second: ShopLady_32x32_191
+  - first:
+      213: 7118351415228797780
+    second: ShopLady_32x32_192
+  - first:
+      213: -3213327523664557635
+    second: ShopLady_32x32_193
+  - first:
+      213: -1232804460824966898
+    second: ShopLady_32x32_194
+  - first:
+      213: 4340150303441871290
+    second: ShopLady_32x32_195
+  - first:
+      213: -8690339330639915544
+    second: ShopLady_32x32_196
+  - first:
+      213: 3979649399990361954
+    second: ShopLady_32x32_197
+  - first:
+      213: 4695831518949086564
+    second: ShopLady_32x32_198
+  - first:
+      213: -6964372833103454420
+    second: ShopLady_32x32_199
+  - first:
+      213: -8976936724115005149
+    second: ShopLady_32x32_200
+  - first:
+      213: 2114070463850865310
+    second: ShopLady_32x32_201
+  - first:
+      213: -8752662548001540846
+    second: ShopLady_32x32_202
+  - first:
+      213: -4018913650274080968
+    second: ShopLady_32x32_203
+  - first:
+      213: -984096602398872254
+    second: ShopLady_32x32_204
+  - first:
+      213: 108299494558855574
+    second: ShopLady_32x32_205
+  - first:
+      213: -8852575577402318762
+    second: ShopLady_32x32_206
+  - first:
+      213: -4539877437764420106
+    second: ShopLady_32x32_207
+  - first:
+      213: 5721373878433994480
+    second: ShopLady_32x32_208
+  - first:
+      213: 4759540177350220295
+    second: ShopLady_32x32_209
+  - first:
+      213: 2830939985410958944
+    second: ShopLady_32x32_210
+  - first:
+      213: -8460117896722773224
+    second: ShopLady_32x32_211
+  - first:
+      213: -1695296384541872896
+    second: ShopLady_32x32_212
+  - first:
+      213: 3383637079317080750
+    second: ShopLady_32x32_213
+  - first:
+      213: -5577833828237536224
+    second: ShopLady_32x32_214
+  - first:
+      213: -89872133102679071
+    second: ShopLady_32x32_215
+  - first:
+      213: -7235049753771664271
+    second: ShopLady_32x32_216
+  - first:
+      213: -3721980734199982306
+    second: ShopLady_32x32_217
+  - first:
+      213: -8932540922019342413
+    second: ShopLady_32x32_218
+  - first:
+      213: -6176296809938957477
+    second: ShopLady_32x32_219
+  - first:
+      213: -7644743114842000671
+    second: ShopLady_32x32_220
+  - first:
+      213: -1295112195720084003
+    second: ShopLady_32x32_221
+  - first:
+      213: 3482211397267499416
+    second: ShopLady_32x32_222
+  - first:
+      213: 5733328843815728928
+    second: ShopLady_32x32_223
+  - first:
+      213: 530457624804616553
+    second: ShopLady_32x32_224
+  - first:
+      213: -2661725342824349589
+    second: ShopLady_32x32_225
+  - first:
+      213: -7349177883337190470
+    second: ShopLady_32x32_226
+  - first:
+      213: 1642072965083535485
+    second: ShopLady_32x32_227
+  - first:
+      213: 4403779309201165382
+    second: ShopLady_32x32_228
+  - first:
+      213: 256113980207560925
+    second: ShopLady_32x32_229
+  - first:
+      213: 2466217219253337707
+    second: ShopLady_32x32_230
+  - first:
+      213: -2682881280980779916
+    second: ShopLady_32x32_231
+  - first:
+      213: -2148632190560030819
+    second: ShopLady_32x32_232
+  - first:
+      213: -6450088349593169179
+    second: ShopLady_32x32_233
+  - first:
+      213: -5278972410268822719
+    second: ShopLady_32x32_234
+  - first:
+      213: -7263550212856144326
+    second: ShopLady_32x32_235
+  - first:
+      213: 4231256203080687414
+    second: ShopLady_32x32_236
+  - first:
+      213: 1778368991951740
+    second: ShopLady_32x32_237
+  - first:
+      213: -4509410334790885073
+    second: ShopLady_32x32_238
+  - first:
+      213: -2451246573889494587
+    second: ShopLady_32x32_239
+  - first:
+      213: -8993102035028257505
+    second: ShopLady_32x32_240
+  - first:
+      213: -4063623670349949873
+    second: ShopLady_32x32_241
+  - first:
+      213: 4987259508583053396
+    second: ShopLady_32x32_242
+  - first:
+      213: -5746212983873397437
+    second: ShopLady_32x32_243
+  - first:
+      213: -5165682382873075440
+    second: ShopLady_32x32_244
+  - first:
+      213: -9134276219982074151
+    second: ShopLady_32x32_245
+  - first:
+      213: 7371099987023147360
+    second: ShopLady_32x32_246
+  - first:
+      213: -8446099302732565577
+    second: ShopLady_32x32_247
+  - first:
+      213: -8085168164370417642
+    second: ShopLady_32x32_248
+  - first:
+      213: -2711594197784467545
+    second: ShopLady_32x32_249
+  - first:
+      213: -2226372248659351557
+    second: ShopLady_32x32_250
+  - first:
+      213: -6178514871481894419
+    second: ShopLady_32x32_251
+  - first:
+      213: 4899761481484498461
+    second: ShopLady_32x32_252
+  - first:
+      213: -8878419117333304084
+    second: ShopLady_32x32_253
+  - first:
+      213: -4000505351167940419
+    second: ShopLady_32x32_254
+  - first:
+      213: 4279751116075758482
+    second: ShopLady_32x32_255
+  - first:
+      213: 7987371631621045371
+    second: ShopLady_32x32_256
+  - first:
+      213: -3818541379636494528
+    second: ShopLady_32x32_257
+  - first:
+      213: 5936449894780216396
+    second: ShopLady_32x32_258
+  - first:
+      213: -8937250648156148162
+    second: ShopLady_32x32_259
+  - first:
+      213: -6075192741838599429
+    second: ShopLady_32x32_260
+  - first:
+      213: 3299913998659664649
+    second: ShopLady_32x32_261
+  - first:
+      213: 4611410820337526054
+    second: ShopLady_32x32_262
+  - first:
+      213: -6776320012478561885
+    second: ShopLady_32x32_263
+  - first:
+      213: -6825656761991594167
+    second: ShopLady_32x32_264
+  - first:
+      213: 4064527719708162305
+    second: ShopLady_32x32_265
+  - first:
+      213: -2312491522825625365
+    second: ShopLady_32x32_266
+  - first:
+      213: -2531331615579566516
+    second: ShopLady_32x32_267
+  - first:
+      213: 4152060592478371081
+    second: ShopLady_32x32_268
+  - first:
+      213: -2192616641683428995
+    second: ShopLady_32x32_269
+  - first:
+      213: -924765334677263691
+    second: ShopLady_32x32_270
+  - first:
+      213: 8501469990994969517
+    second: ShopLady_32x32_271
+  - first:
+      213: 3904162875859945859
+    second: ShopLady_32x32_272
+  - first:
+      213: -977453378875005348
+    second: ShopLady_32x32_273
+  - first:
+      213: 8330235380571519679
+    second: ShopLady_32x32_274
+  - first:
+      213: -6888034565941020481
+    second: ShopLady_32x32_275
+  - first:
+      213: 6146514474075087438
+    second: ShopLady_32x32_276
+  - first:
+      213: -5794495873433545876
+    second: ShopLady_32x32_277
+  - first:
+      213: 7698221909909865027
+    second: ShopLady_32x32_278
+  - first:
+      213: -3528032140346691650
+    second: ShopLady_32x32_279
+  - first:
+      213: -7823362737833867301
+    second: ShopLady_32x32_280
+  - first:
+      213: -3263667146362655520
+    second: ShopLady_32x32_281
+  - first:
+      213: 5148463370732754829
+    second: ShopLady_32x32_282
+  - first:
+      213: -7656053753207192812
+    second: ShopLady_32x32_283
+  - first:
+      213: -6563483959296523816
+    second: ShopLady_32x32_284
+  - first:
+      213: 8357882095155545909
+    second: ShopLady_32x32_285
+  - first:
+      213: -5005458683527761196
+    second: ShopLady_32x32_286
+  - first:
+      213: 568579943357837238
+    second: ShopLady_32x32_287
+  - first:
+      213: 8014285420460683490
+    second: ShopLady_32x32_288
+  - first:
+      213: -9198767459678406074
+    second: ShopLady_32x32_289
+  - first:
+      213: 4622801271383373348
+    second: ShopLady_32x32_290
+  - first:
+      213: -1383980668348384675
+    second: ShopLady_32x32_291
+  - first:
+      213: 183279961116376276
+    second: ShopLady_32x32_292
+  - first:
+      213: -6329777108750863144
+    second: ShopLady_32x32_293
+  - first:
+      213: -6275460677099481789
+    second: ShopLady_32x32_294
+  - first:
+      213: -3384894092366436199
+    second: ShopLady_32x32_295
+  - first:
+      213: -6516786982306019044
+    second: ShopLady_32x32_296
+  - first:
+      213: -2398144418465260889
+    second: ShopLady_32x32_297
+  - first:
+      213: 792581167623460916
+    second: ShopLady_32x32_298
+  - first:
+      213: 9029745945569485711
+    second: ShopLady_32x32_299
+  - first:
+      213: 1763502110112002147
+    second: ShopLady_32x32_300
+  - first:
+      213: -428935404133065265
+    second: ShopLady_32x32_301
+  - first:
+      213: -8951812201522031609
+    second: ShopLady_32x32_302
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShopLady_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e492ea45743a892c0800000000000000
+      internalID: -4424607107132806834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1247
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cd176488a47aeb0800000000000000
+      internalID: -4708712936234689436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1247
+        width: 64
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfbb6578f603a2e0800000000000000
+      internalID: -2115839735742349377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1183
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b4cad5bd7784a20800000000000000
+      internalID: 3046816931969256237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1183
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d43ce00019c0df0800000000000000
+      internalID: -212635652959548011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1183
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb66061325f68060800000000000000
+      internalID: 6955516205562489819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1183
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3076c2f8c74bc24a0800000000000000
+      internalID: -6616715305443105021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1183
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63afe5b2fe6f5cfb0800000000000000
+      internalID: -4628021534968055242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1183
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e364e45f4949d8430800000000000000
+      internalID: 3786846229180073534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1183
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cbf97a47b73dc90800000000000000
+      internalID: -7146232442748158878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1183
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966f7ee4f90ca1f10800000000000000
+      internalID: 2241315555026400873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1183
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b72bed0d51e3150800000000000000
+      internalID: 5854140552461843261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1183
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a715ddb8a151af0800000000000000
+      internalID: -426405401700763028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1183
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f5d31be40e7450800000000000000
+      internalID: 6088309153948102913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1183
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db017c72b86ff5960800000000000000
+      internalID: 7593058574298190013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1183
+        width: 224
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee0a30dd7e290670800000000000000
+      internalID: 8505380489165147873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1119
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0799c62ae7eece0800000000000000
+      internalID: -1374021600229625675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1121
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df79f57099b2a16b0800000000000000
+      internalID: -5324895673158494211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1119
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2e703e0e64b27b0800000000000000
+      internalID: -5248023009074617689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1119
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217f109841cccb090800000000000000
+      internalID: -8017308848056305902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1121
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8877dcc9a8487c50800000000000000
+      internalID: 6663155542817994892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1119
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f72bb4332551a7530800000000000000
+      internalID: 3853415873960981119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1119
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039899e112db7730800000000000000
+      internalID: 3998020068596814601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1055
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009a215c812e447d0800000000000000
+      internalID: -2934972461125293824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1055
+        width: 34
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1810f8e7643ca5d40800000000000000
+      internalID: 5573982196362838401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1121
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06dcb4e94f23eac20800000000000000
+      internalID: 3219566809825660256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1119
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344afa2bc2a1d67a0800000000000000
+      internalID: -6382416317635386301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1119
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b916bd23019f1bc0800000000000000
+      internalID: -3810167316894312010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1121
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde2d5abf00b89590800000000000000
+      internalID: -7667184784000602404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1119
+        width: 224
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f37345ff173dc80800000000000000
+      internalID: -8299164346870186090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1081
+        width: 193
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068842ef8078a1e40800000000000000
+      internalID: 5627959157046151264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1089
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966a026b96f862dc0800000000000000
+      internalID: -3664083562629388695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1081
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800dfd522b7f98380800000000000000
+      internalID: -8968364838419967992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_33
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1089
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d038aa167e3b4f310800000000000000
+      internalID: 1437971987395412749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1063
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c853b9ac36b176820800000000000000
+      internalID: 2911325799533196684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1055
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d931e8c9ed989f9c0800000000000000
+      internalID: -3892928813682781283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_36
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1073
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30cd99289a776600800000000000000
+      internalID: 461472280780587066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 993
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaa7a272525a8ea0800000000000000
+      internalID: -5869788650259633503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 993
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55f6363366200180800000000000000
+      internalID: -9151272235263658661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 993
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d905b68430b4980800000000000000
+      internalID: -8553739457687151314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 993
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf28ed52d6bada820800000000000000
+      internalID: 2931187417763185403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 993
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca19ec8fdd98924b0800000000000000
+      internalID: -5464685086382321236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 993
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e5b2d17700017d0800000000000000
+      internalID: -2949857244337185264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 993
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22454c69e8432310800000000000000
+      internalID: 1379026078286561837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 993
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0171e33f281939210800000000000000
+      internalID: 1338573505871877904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 993
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b89e37110d4ad0800000000000000
+      internalID: -2716513800888470348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 993
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb76a3185d33b800800000000000000
+      internalID: 626912221630725087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 993
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d6d9152e6aeb230800000000000000
+      internalID: 3656543438433512822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 993
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c195f8313d989520800000000000000
+      internalID: 2709088010597929414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cb3e2b0fc2c7d90800000000000000
+      internalID: -7098749500337701845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 929
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74896c431b5b303a0800000000000000
+      internalID: -6700312047897896889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 929
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d852f7dfd69480800000000000000
+      internalID: -8892674295619596076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_52
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 929
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b7e9bcff20ad390800000000000000
+      internalID: -7792912907555144804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 929
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6badf80660be15fb0800000000000000
+      internalID: -4660685726729381194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 929
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091a68101900e870800000000000000
+      internalID: 8709971644068272394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 929
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92104de9cc87b3410800000000000000
+      internalID: 1457891724617842985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 929
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ac1c30e46e0a1d0800000000000000
+      internalID: -3341417700764038577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_57
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 929
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da0fc1b02eb93de0800000000000000
+      internalID: -1352841165416756519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 929
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3041e401e07b47c50800000000000000
+      internalID: 6662151019818783747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_59
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 929
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b6c7eee0e1785e0800000000000000
+      internalID: -1907522867688608879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_60
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 929
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7689d5dccd96fb980800000000000000
+      internalID: -8520975572902504345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 863
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b692f46f71c3fe550800000000000000
+      internalID: 6192234086272018795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 863
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ea57cf7373294d0800000000000000
+      internalID: -3129378077470773702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe296162f57309670800000000000000
+      internalID: 8543389374922265327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 799
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b207fa7b8853760800000000000000
+      internalID: 7437000682175998870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4785aed39da7cba0800000000000000
+      internalID: -6068691122251266228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_66
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e993d7f76e24320800000000000000
+      internalID: 2540846575026544179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7157e7fbce3974200800000000000000
+      internalID: 164262556456613143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_68
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f50911bc656f8360800000000000000
+      internalID: 7174064248926569977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_69
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0d9131bd87380b0800000000000000
+      internalID: -5727601418771509070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c3d779f7b322550800000000000000
+      internalID: 6134531061620489350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a4cb141c54b2fc0800000000000000
+      internalID: -3518641987526047077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 805
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d327f0e02e4f3b70800000000000000
+      internalID: 8880902893318120401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 805
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2248de4dcabe773a0800000000000000
+      internalID: -6667601595759492062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 807
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723f7beea9ff7a200800000000000000
+      internalID: 191402550081614631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 805
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069cda309d3c43ec0800000000000000
+      internalID: -3588027666270402208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 805
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838f7710f504f07e0800000000000000
+      internalID: -1797146949506828232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 735
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cbc30db81021e10800000000000000
+      internalID: 2166796070724353061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 737
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a002b32c0d14a0800000000000000
+      internalID: -6621122529714986861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 735
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c1ff907802cba70800000000000000
+      internalID: 8843979532609199256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 735
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d63a942e5f022b0800000000000000
+      internalID: -5611214783456776899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 737
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a4b5737d99dc8d0800000000000000
+      internalID: -2824432241665684916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_82
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 735
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b98ff3750e4ef80800000000000000
+      internalID: -8078085166255793300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_83
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 735
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1faeb9e2b68eb110800000000000000
+      internalID: 1278607447203688221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_84
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 735
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41f8d060f1228220800000000000000
+      internalID: 2486587260562633039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_85
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 737
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9029c7f06b4283ba0800000000000000
+      internalID: -6109092530165607927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_86
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 735
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade49f9c93a3e7490800000000000000
+      internalID: -7746690289154568486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_87
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 735
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a92cb7aa8a50fe30800000000000000
+      internalID: 4535224376328202657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_88
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 737
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a10d253473fdd30800000000000000
+      internalID: 4458342918411786768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 735
+        width: 224
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0804261eb4a0720a0800000000000000
+      internalID: -6906540182529228672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_90
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aa7037132765de0800000000000000
+      internalID: -1344761882014668205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_91
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4b0a952e3640ea0800000000000000
+      internalID: -5907486987385785129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_92
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1172a4f076cb3e170800000000000000
+      internalID: 8206610096823346961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_93
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f57f3f0d7fe35f0800000000000000
+      internalID: -774909609042813093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_94
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68428e9516f16c180800000000000000
+      internalID: -9095547894447463290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_95
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 743
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71908de7c592220800000000000000
+      internalID: 2461600371194795982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0848ee5051c8e0f80800000000000000
+      internalID: -8138413454690188160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193d54393194a6ad0800000000000000
+      internalID: -2708271877485898863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 743
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceef96a0b2b8b2a90800000000000000
+      internalID: -7337618150895517972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ee48d8c57889eb0800000000000000
+      internalID: -4712868178462183778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031deb12f5f2ae420800000000000000
+      internalID: 2659990615550251312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_101
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 735
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd9ec7c73aefd680800000000000000
+      internalID: -8728000027524424272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 671
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e352e7cb50ebcf0800000000000000
+      internalID: -234743823448326524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ed8b74b242108f0800000000000000
+      internalID: -576139509021221312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d35996fa988210800000000000000
+      internalID: 1335487673440393282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_105
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 671
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a069756007edf32c0800000000000000
+      internalID: -4449593334094653942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 671
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf3a927652ec3f20800000000000000
+      internalID: 3403844279303028683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1f3c5161db40c10800000000000000
+      internalID: 2018946435520917959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_108
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8368bb4f505e9320800000000000000
+      internalID: 2566577207870251916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8218c5c6e8808ae0800000000000000
+      internalID: -1549087747073371510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4fbf46685da5870800000000000000
+      internalID: 8672478805651879146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_111
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccedb8e835d1cda80800000000000000
+      internalID: -8440839356888129844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_112
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf50309e3f1b16d0800000000000000
+      internalID: -3018784771654262866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_113
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea80c4ecd4a73f4b0800000000000000
+      internalID: -5407844252949673810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 671
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1989e3e5c50fabea0800000000000000
+      internalID: -5856104085933090671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_115
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad2c62b680187100800000000000000
+      internalID: 105852761948302758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_116
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19968b9d66397e2d0800000000000000
+      internalID: -3249466536175834735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbbf41560197c410800000000000000
+      internalID: 1497324857443990454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 671
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ce7040229770220800000000000000
+      internalID: 2452061709130001546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 671
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3427c6c7040a7f10800000000000000
+      internalID: 2268129793780687930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 671
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8019ac779dc98c50800000000000000
+      internalID: 6668086773813940362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_121
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e38dac8e2f2c34c0800000000000000
+      internalID: -4306515266697853979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2708582de93a48f0800000000000000
+      internalID: -555567913279944918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb791591476f83ab0800000000000000
+      internalID: -5027998005457741892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c806f14a6dffbe20800000000000000
+      internalID: 3368689679111424198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 671
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32047bacfba7f77e0800000000000000
+      internalID: -1765557564747595741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_126
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 671
+        width: 416
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58dd7a3d69a67b90800000000000000
+      internalID: -7244416663981008806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78548dd411dc9ad00800000000000000
+      internalID: 984543467761321351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_128
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1dce1cf9ff6bc0800000000000000
+      internalID: -3787533900351463914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_129
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90322e73ae1297b30800000000000000
+      internalID: 4285493810263368457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_130
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7722cca2bf88c50800000000000000
+      internalID: 6667855409554028455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfadf8b7194339650800000000000000
+      internalID: 6238387708286196477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_132
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e82486bb1d4a880800000000000000
+      internalID: -8600518785532522902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184c0e60bc5d24500800000000000000
+      internalID: 379100386623014017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_134
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 607
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b50c5d953586540800000000000000
+      internalID: 5001339031498283812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_135
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 607
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeec7d64046d26b0800000000000000
+      internalID: -5319485614675136849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_136
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c80a6f517b43be0800000000000000
+      internalID: -1498371471047619488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_137
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647dab07557bf0cb0800000000000000
+      internalID: -4895492692337043642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_138
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fcf1db4c9103ae0800000000000000
+      internalID: -1571727937175040157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_139
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77668c8c359638d30800000000000000
+      internalID: 4432502266834478711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_140
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345d4c94c2a016360800000000000000
+      internalID: 7161016067828274499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_141
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 607
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887880ffc1fed2390800000000000000
+      internalID: -7841348468365293688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_142
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 607
+        width: 96
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6a80f72ccb05040800000000000000
+      internalID: 4634411560105191124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_143
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 607
+        width: 352
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a47e9d09aa330cf0800000000000000
+      internalID: -287321453469207386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_144
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270d0a55697491030800000000000000
+      internalID: 3465880099245576306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_145
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 611
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14577fdc54466ac30800000000000000
+      internalID: 4370290739380712769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 543
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9113f624365dbc140800000000000000
+      internalID: 4741117655030640921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_147
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013a0a4b2f7093060800000000000000
+      internalID: 6933581840307495696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_148
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233f0f7cad7b83e70800000000000000
+      internalID: 9095221597759927090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_149
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97384cafcc886bf30800000000000000
+      internalID: 4591007284112687993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_150
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2b640a2eb6dcd0800000000000000
+      internalID: -2533628652677288887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_151
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c473543e434a16900800000000000000
+      internalID: 676001966140503884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_152
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1155a589b247770800000000000000
+      internalID: 8607552721162408364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_153
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf6cf934b384b8f0800000000000000
+      internalID: -525650446405308474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_154
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bfd64cf0f53b3f0800000000000000
+      internalID: -886260180337165568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_155
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5117e752bd5d530800000000000000
+      internalID: 3879247608131163626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_156
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8195a1397485fe0800000000000000
+      internalID: -1200130603566425886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_157
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dddb597a81aec2f0800000000000000
+      internalID: -950644855214973483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_158
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47c2996c95470eb0800000000000000
+      internalID: -4753754343577827507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_159
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feeac84f97f881b80800000000000000
+      internalID: -8423825349039837457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_160
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 543
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3c899bb4862f990800000000000000
+      internalID: -7353700567096966202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_161
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bdd603eaa2dece0800000000000000
+      internalID: -1374395383652951188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_162
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65216265d1e0f610800000000000000
+      internalID: 1653069369839789419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_163
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c40ccda40dabe40800000000000000
+      internalID: 5673075700576308377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_164
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e4d4c1c78ac1f50800000000000000
+      internalID: 6853537983955291699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_165
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4477a0ae2d96abdd0800000000000000
+      internalID: -2469545091068692668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_166
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1006f14d41dce39b0800000000000000
+      internalID: -5098412238794956799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_167
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81334a1ee5814bec0800000000000000
+      internalID: -3552187410296851688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_168
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc0f980d0144eb0800000000000000
+      internalID: -4736642420233417429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_169
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 543
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7797ee1214cf56460800000000000000
+      internalID: 7234465733112920439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_170
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077f89fecc1e653f0800000000000000
+      internalID: -912293604186589328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_171
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f135301072c9d0eb0800000000000000
+      internalID: -4751970340471352545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_172
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dbc6879a8ef0020800000000000000
+      internalID: 2310320948431863043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_173
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 543
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebceb720821f66310800000000000000
+      internalID: 1398069888487779518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_174
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 543
+        width: 479
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5674679747a17d4d0800000000000000
+      internalID: -3109987930119714971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee548dff5abdbc10800000000000000
+      internalID: 2071016325098266346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_176
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f497e9dc06737ddf0800000000000000
+      internalID: -155594773214889649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_177
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7037db28ba0ff5dc0800000000000000
+      internalID: -3647932553723284729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_178
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655051ac78c0df300800000000000000
+      internalID: 287399728572073302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_179
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add834967caae460800000000000000
+      internalID: 7271814173635960233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_180
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba4f05c06a367e30800000000000000
+      internalID: 4500849064900774582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_181
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726a84e77e65c3160800000000000000
+      internalID: 7006570672537773607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_182
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293a3a3b30edad010800000000000000
+      internalID: 1214527157009884050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_183
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2b6dfce7ce1e640800000000000000
+      internalID: 5107623481811841745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_184
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 479
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4a84ebbc30a3a20800000000000000
+      internalID: 3042748671847867618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_185
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338c2b26c4fbd1360800000000000000
+      internalID: 7142074918873778227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_186
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c15609c70ffa06c0800000000000000
+      internalID: -4176245295530225214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_187
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d161540f2bfc98b0800000000000000
+      internalID: -5143960495009472040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_188
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 579bf84ff5f802200800000000000000
+      internalID: 153280029618321781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_189
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 479
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2fa8969407de5bd0800000000000000
+      internalID: -2639435916886102225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_190
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6184c6ffbf74160a0800000000000000
+      internalID: -6890146807252498410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_191
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbef5090e72ac3d0800000000000000
+      internalID: -3185689940962841653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_192
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4539c13c5e679c260800000000000000
+      internalID: 7118351415228797780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_193
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db90df464a7f763d0800000000000000
+      internalID: -3213327523664557635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_194
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c203efd234eee0800000000000000
+      internalID: -1232804460824966898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_195
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1e474b4bf4b3c30800000000000000
+      internalID: 4340150303441871290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_196
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e51a931c66b56780800000000000000
+      internalID: -8690339330639915544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_197
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f95015b0e8a3730800000000000000
+      internalID: 3979649399990361954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_198
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4651b0c03e1fa2140800000000000000
+      internalID: 4695831518949086564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_199
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 479
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fdc7f9ec3995f90800000000000000
+      internalID: -6964372833103454420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_200
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32167fb7c938b6380800000000000000
+      internalID: -8976936724115005149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_201
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 479
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92e9f3d2efa65d10800000000000000
+      internalID: 2114070463850865310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_202
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 479
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215b08349cb488680800000000000000
+      internalID: -8752662548001540846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_203
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 479
+        width: 479
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 837e1740453f938c0800000000000000
+      internalID: -4018913650274080968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24da855aa59c752f0800000000000000
+      internalID: -984096602398872254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_205
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691f88601d1c08100800000000000000
+      internalID: 108299494558855574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_206
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 415
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650e2a15a65552580800000000000000
+      internalID: -8852575577402318762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_207
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 415
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdbd3e068d1ff0c0800000000000000
+      internalID: -4539877437764420106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_208
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 415
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f6d143ba37666f40800000000000000
+      internalID: 5721373878433994480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_209
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ad82df2984d0240800000000000000
+      internalID: 4759540177350220295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_210
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 415
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066aed2fae4894720800000000000000
+      internalID: 2830939985410958944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_211
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b0ae7b89f979a80800000000000000
+      internalID: -8460117896722773224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_212
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 415
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00da06a9be81978e0800000000000000
+      internalID: -1695296384541872896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_213
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 415
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae8811ff715fe20800000000000000
+      internalID: 3383637079317080750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_214
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 415
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0249eb39fad8792b0800000000000000
+      internalID: -5577833828237536224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_215
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 415
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb453765c5b0cef0800000000000000
+      internalID: -89872133102679071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_216
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 415
+        width: 224
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c9926f490f79b90800000000000000
+      internalID: -7235049753771664271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17992dfd3ed85cc0800000000000000
+      internalID: -3721980734199982306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_218
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b79569ab5d390480800000000000000
+      internalID: -8932540922019342413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_219
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 351
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc53856c2694aa0800000000000000
+      internalID: -6176296809938957477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_220
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 351
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2bab004aa68e590800000000000000
+      internalID: -7644743114842000671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_221
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd504ddd156d60ee0800000000000000
+      internalID: -1295112195720084003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_222
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89922f6f0dc435030800000000000000
+      internalID: 3482211397267499416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_223
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027332cf430e09f40800000000000000
+      internalID: 5733328843815728928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_224
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96960e636609c5700800000000000000
+      internalID: 530457624804616553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_225
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60cc4337e6af0bd0800000000000000
+      internalID: -2661725342824349589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_226
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 351
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3978817a9720a90800000000000000
+      internalID: -7349177883337190470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_227
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 351
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78931369a0d9c610800000000000000
+      internalID: 1642072965083535485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_228
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 351
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c862213fd5d1d30800000000000000
+      internalID: 4403779309201165382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_229
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 351
+        width: 224
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8784cde46ed8300800000000000000
+      internalID: 256113980207560925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 287
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6efb8c8e73c93220800000000000000
+      internalID: 2466217219253337707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_231
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c789080bd74cad0800000000000000
+      internalID: -2682881280980779916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_232
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 287
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f23b818668e22e0800000000000000
+      internalID: -2148632190560030819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_233
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 287
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e21d90f1deac76a0800000000000000
+      internalID: -6450088349593169179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_234
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143d6d2ef825db6b0800000000000000
+      internalID: -5278972410268822719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_235
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e1f7ab09fa23b90800000000000000
+      internalID: -7263550212856144326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_236
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 287
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fda4a391178ba30800000000000000
+      internalID: 4231256203080687414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_237
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b7b0cca61560000800000000000000
+      internalID: 1778368991951740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_238
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 287
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216050413b5b61c0800000000000000
+      internalID: -4509410334790885073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_239
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 287
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c16c627a3c6bfdd0800000000000000
+      internalID: -2451246573889494587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_240
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 287
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f155c4db855123380800000000000000
+      internalID: -8993102035028257505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_241
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 287
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f441ce34dcb1b97c0800000000000000
+      internalID: -4063623670349949873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_242
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 287
+        width: 224
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45838c3791e463540800000000000000
+      internalID: 4987259508583053396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_243
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d1d746cb95140b0800000000000000
+      internalID: -5746212983873397437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_244
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0116b52ed3fcf48b0800000000000000
+      internalID: -5165682382873075440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_245
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9deaba36c288c3180800000000000000
+      internalID: -9134276219982074151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_246
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 301
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061b66a62686b4660800000000000000
+      internalID: 7371099987023147360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_247
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 299
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b373fafe6d69ca80800000000000000
+      internalID: -8446099302732565577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_248
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 297
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618776d3466bbcf80800000000000000
+      internalID: -8085168164370417642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_249
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 295
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7eb0a917b7e5ad0800000000000000
+      internalID: -2711594197784467545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_250
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 303
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf72fd45c365a11e0800000000000000
+      internalID: -2226372248659351557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_251
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 291
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de97ad5a571814aa0800000000000000
+      internalID: -6178514871481894419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_252
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 299
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16760c7b137ff340800000000000000
+      internalID: 4899761481484498461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_253
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecaf484ad489c480800000000000000
+      internalID: -8878419117333304084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_254
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 297
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8e59524995b78c0800000000000000
+      internalID: -4000505351167940419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_255
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 299
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293f6c807fab46b30800000000000000
+      internalID: 4279751116075758482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_256
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 301
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cfdc71e28d8de60800000000000000
+      internalID: 7987371631621045371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_257
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 299
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ff2a2c8d0d10bc0800000000000000
+      internalID: -3818541379636494528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_258
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 299
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44a7450ab1826250800000000000000
+      internalID: 5936449894780216396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_259
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ee50813e188f380800000000000000
+      internalID: -8937250648156148162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_260
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfacda8936490bba0800000000000000
+      internalID: -6075192741838599429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_261
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bb27f4c46abcd20800000000000000
+      internalID: 3299913998659664649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_262
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6256c9375b50fff30800000000000000
+      internalID: 4611410820337526054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_263
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 291
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a148d3e9dca5f1a0800000000000000
+      internalID: -6776320012478561885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_264
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f7fbeb6556641a0800000000000000
+      internalID: -6825656761991594167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_265
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109fee02d6a186830800000000000000
+      internalID: 4064527719708162305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_266
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be060eb463168efd0800000000000000
+      internalID: -2312491522825625365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_267
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 291
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e0aa4ae47eedcd0800000000000000
+      internalID: -2531331615579566516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_268
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 289
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d329c3c151f9930800000000000000
+      internalID: 4152060592478371081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_269
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 287
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7969d708c24291e0800000000000000
+      internalID: -2192616641683428995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 223
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba67f5e3d29a23f0800000000000000
+      internalID: -924765334677263691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_271
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 223
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da306e10ae94bf570800000000000000
+      internalID: 8501469990994969517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_272
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38946e0537f5e2630800000000000000
+      internalID: 3904162875859945859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_273
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 223
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5666a7a4536f62f0800000000000000
+      internalID: -977453378875005348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_274
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 223
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba3b5271f0fa9370800000000000000
+      internalID: 8330235380571519679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_275
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 223
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb839708e09c860a0800000000000000
+      internalID: -6888034565941020481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_276
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 223
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42ea0a395ecc4550800000000000000
+      internalID: 6146514474075087438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_277
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 223
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63d68324b0d59fa0800000000000000
+      internalID: -5794495873433545876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_278
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 160
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3428e464a0495da60800000000000000
+      internalID: 7698221909909865027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_279
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf697ee579e90fc0800000000000000
+      internalID: -3528032140346691650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_280
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 159
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd782663a05dd6390800000000000000
+      internalID: -7823362737833867301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_281
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 159
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece0f3a50025b2d0800000000000000
+      internalID: -3263667146362655520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_282
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 159
+        width: 66
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87d2af6824037740800000000000000
+      internalID: 5148463370732754829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_283
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4130acaccab30c590800000000000000
+      internalID: -7656053753207192812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_284
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 159
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d108252d12d9e4a0800000000000000
+      internalID: -6563483959296523816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_285
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 159
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537085ccb792df370800000000000000
+      internalID: 8357882095155545909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_286
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 159
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2fe6ee8d9098ab0800000000000000
+      internalID: -5005458683527761196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_287
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 159
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf614e227004e700800000000000000
+      internalID: 568579943357837238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_288
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 159
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0b62fd026783f60800000000000000
+      internalID: 8014285420460683490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_289
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 159
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a327a8bb9675080800000000000000
+      internalID: -9198767459678406074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_290
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 159
+        width: 226
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426b700834d772040800000000000000
+      internalID: 4622801271383373348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_291
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a361f2aec1bcce0800000000000000
+      internalID: -1383980668348384675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_292
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcf9c057242b8200800000000000000
+      internalID: 183279961116376276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_293
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d47185914d1828a0800000000000000
+      internalID: -6329777108750863144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_294
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 95
+        width: 148
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3459d8353c519e8a0800000000000000
+      internalID: -6275460677099481789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_295
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9982e26c1c07601d0800000000000000
+      internalID: -3384894092366436199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_296
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 31
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1982ca54c8bf85a0800000000000000
+      internalID: -6516786982306019044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_297
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aada497b5418bed0800000000000000
+      internalID: -2398144418465260889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_298
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 31
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4385cd76f50dffa00800000000000000
+      internalID: 792581167623460916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_299
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 31
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8361b9881a105d70800000000000000
+      internalID: 9029745945569485711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_300
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 31
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360b0e163d7397810800000000000000
+      internalID: 1763502110112002147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_301
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 31
+        width: 128
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd5f05c58d1c0af0800000000000000
+      internalID: -428935404133065265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShopLady_32x32_302
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 45
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70495404b36c4c380800000000000000
+      internalID: -8951812201522031609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

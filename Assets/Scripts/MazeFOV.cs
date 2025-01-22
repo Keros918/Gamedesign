@@ -2,16 +2,11 @@ using UnityEngine;
 
 public class MazeFOV : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    [SerializeField] private Material lanternEffectMaterial;
+
     void Start()
     {
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        lanternEffectMaterial.SetFloat("_RestrictedVisionRadius", 1.5f);
     }
 
     void OnTriggerEnter2D(Collider2D other)
@@ -20,8 +15,7 @@ public class MazeFOV : MonoBehaviour
         {
             return;
         }
-        Debug.Log("Entered");
-        // Restrict vision
+        lanternEffectMaterial.SetFloat("_RestrictedVisionRadius", 0.5f);
     }
 
     void OnTriggerExit2D(Collider2D other)
@@ -30,7 +24,6 @@ public class MazeFOV : MonoBehaviour
         {
             return;
         }
-        Debug.Log("Exited");
-        // Restore vision
+        lanternEffectMaterial.SetFloat("_RestrictedVisionRadius", 1.5f);
     }
 }
