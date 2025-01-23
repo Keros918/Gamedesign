@@ -49,7 +49,6 @@ public class DialogController : MonoBehaviour
 
     private void StartConversation(DialogText dialogText, Sprite npcSprite, string name)
     {
-        Time.timeScale = 0;
         npcSpriteContainer.sprite = npcSprite;
         nameContainer.text = name;
         gameObject.SetActive(true);
@@ -61,7 +60,6 @@ public class DialogController : MonoBehaviour
 
     private void EndConversation(DialogText dialogText)
     {
-        Time.timeScale = 1;
         paragraphs.Clear();
         conversationEnded = false;
         gameObject.SetActive(false);

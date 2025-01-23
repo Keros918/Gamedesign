@@ -5,8 +5,8 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private Transform attackPoint;
     [SerializeField] private float attackRange = 1f;
     [SerializeField] private LayerMask enemyLayer;
-    [SerializeField] private int attackDamage = 10;
-    [SerializeField] private float staminaCost = 20f;
+    [SerializeField] private int attackDamage = 15;
+    [SerializeField] private float staminaCost = 10;
     [SerializeField] private PlayerStamina stamina;
     [SerializeField] private Animator animator;
 
@@ -20,7 +20,6 @@ public class PlayerAttack : MonoBehaviour
             stamina = GetComponent<PlayerStamina>();
         }
     }
-
     void Awake()
     {
         playerControls = new PlayerControls();
@@ -36,15 +35,11 @@ public class PlayerAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        attack = playerControls.World.Action1.ReadValue<float>();
-
         if (playerControls.World.Action1.triggered)
         {
             Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
             if (stamina.UseStamina(staminaCost))
             {
-                stamina.UseStamina(staminaCost);
                 animator.SetTrigger("Laser");
                 foreach (Collider2D hit in hits)
                 {
