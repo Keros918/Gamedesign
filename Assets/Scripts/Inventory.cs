@@ -17,16 +17,10 @@ public class Inventory : MonoBehaviour
     public int Money => money;
     public int Pfand => pfand;
     public int HealingItems => healingItems;
-    void Awake()
+ 
+    void Start()
     {
-        playerControls = new PlayerControls();
-    }
-    private void OnEnable(){
-        playerControls.Enable();
-    }
-
-    private void OnDisable(){
-        playerControls.Disable();
+        playerControls = InputManager.inputActions;
     }
     void Update()
     {

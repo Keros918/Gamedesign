@@ -11,25 +11,55 @@ using UnityEngine.InputSystem;
 
 public class InputManager : MonoBehaviour
 {
-    public static PlayerControls inputActions = new PlayerControls();
+    public static PlayerControls inputActions;
     public static event Action<InputActionMap> actionMapChange;
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+
+    private void Awake()
     {
-        ToggleActionMap(inputActions.World);
+        if (inputActions == null)
+        {
+            inputActions = new PlayerControls();
+        }
+    }
+    private void Start()
+    {
+        inputActions.UI.Disable();
+        inputActions.World.Enable();
+    }
+    private void OnEnable(){
+        inputActions?.Enable();
     }
 
-    public static void   ToggleActionMap(InputActionMap actionMap)
-    {
-        if (actionMap.enabled)
-            return;
-        inputActions.Disable();
-        actionMapChange?.Invoke(actionMap);
-        actionMap.Enable();
+    private void OnDisable(){
+        inputActions?.Disable();
     }
-    // Update is called once per frame
-    void Update()
+
+    public static void  ToggleActionMap(InputActionMap actionMap)
     {
+        Debug.Log("ToggleActionMap");
+        foreach (var map in inputActions.asset.actionMaps)
+            {
+                map.Disable();
+            }
+        Debug.Log("All Maps disabled");
+        actionMap.Enable();
+        Debug.Log("New action Map enabled.");
         
+        /*
+        if (actionMap.enabled) {
+            Debug.Log("Current Map already active. Cancelling!");
+            return;
+        }
+        else
+        {   
+            Debug.Log("Disabling Current Action Map!");
+            inputActions.Disable();
+            Debug.Log("Calling Action Map Change Event!");
+            actionMapChange?.Invoke(actionMap);
+            Debug.Log("Enabling New Action Map!");
+            actionMap.Enable();
+            Debug.Log("New Action Map enabled!");
+        }
+        */
     }
 }

@@ -13,17 +13,15 @@ public class PlayerMovementController : MonoBehaviour
 
     void Awake()
     {
-        playerControls = new PlayerControls();          //NewInputSystem
+        playerControls = InputManager.inputActions; 
         animator = GetComponent<Animator>();
         playerBody = GetComponent<Rigidbody2D>();
     }
-    private void OnEnable(){                            //NewInputSystem
-        playerControls.Enable();
+
+    void Start()
+    {
+        playerControls = InputManager.inputActions; 
     }
-    private void OnDisable(){                           //NewInputSystem
-        playerControls.Disable();
-    }
-    // Update is called once per frame
     void Update()
     {
         move = playerControls.World.Move.ReadValue<Vector2>();      //NewInputSystem
@@ -34,8 +32,7 @@ public class PlayerMovementController : MonoBehaviour
         {
             animator.SetFloat("moveX", move.x);
             animator.SetFloat("moveY", move.y);
-        }
-        
+        } 
     }
 
     void FixedUpdate()  //Smoother Movement

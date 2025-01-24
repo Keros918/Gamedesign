@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerAttack : MonoBehaviour
 {
@@ -15,22 +16,15 @@ public class PlayerAttack : MonoBehaviour
     private float attack;
     private void Start()
     {
+        playerControls = InputManager.inputActions; 
         if (stamina == null)
         {
             stamina = GetComponent<PlayerStamina>();
         }
     }
     void Awake()
-    {
-        playerControls = new PlayerControls();
+    { 
         animator = GetComponent<Animator>();
-    }
-    private void OnEnable(){
-        playerControls.Enable();
-    }
-
-    private void OnDisable(){
-        playerControls.Disable();
     }
     // Update is called once per frame
     void Update()
