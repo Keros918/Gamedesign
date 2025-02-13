@@ -10,6 +10,8 @@ public class PlayerAttack : MonoBehaviour
     [SerializeField] private PlayerStamina stamina;
     [SerializeField] private Animator animator;
 
+    AudioManager audioManager;
+
     
     private PlayerControls playerControls;
     private float attack;
@@ -25,6 +27,7 @@ public class PlayerAttack : MonoBehaviour
     {
         playerControls = new PlayerControls();
         animator = GetComponent<Animator>();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
     private void OnEnable(){
         playerControls.Enable();
@@ -44,6 +47,7 @@ public class PlayerAttack : MonoBehaviour
             Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
             if (stamina.UseStamina(staminaCost))
             {
+                audioManager.PlaySFX(audioManager.attack);
                 stamina.UseStamina(staminaCost);
                 animator.SetTrigger("Laser");
                 foreach (Collider2D hit in hits)
