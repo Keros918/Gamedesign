@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   paragraphs:
   - {fileID: 11400000, guid: 9aeecf72236b2e54fa60bea4046fed97, type: 2}
+  - {fileID: 11400000, guid: 7dd147f1c33961644951de8852bf31e0, type: 2}
   completed: 0
   unlocked: 1
   unlockOnCompletion: {fileID: 0}

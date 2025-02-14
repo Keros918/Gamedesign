@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83bcc1c07605f0d44a1028580c046895, type: 3}
   m_Name: OA3_DialogNode 1
   m_EditorClassIdentifier: 
-  text: That sounded different... maybe it worked. Let's get out of here and take
-    a look around.
+  text: This marks the end of our playable prototype. Feel free to explore the world
+    a little further and thank you for playing.
   speakerSprite: {fileID: 0}
   speakerName: You
