@@ -22,6 +22,8 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private GameObject obelisksNarugubi;
     [SerializeField] private GameObject obelisksFurtwangen;
 
+    AudioManager audioManager;
+
     private PlayerControls playerControls;
     private float useLantern;
     private float aspectRatio;
@@ -35,6 +37,7 @@ public class LanternEffectController : MonoBehaviour
     void Awake()
     {
         playerControls = new PlayerControls();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
     private void OnEnable(){
         playerControls.Enable();
@@ -50,11 +53,13 @@ public class LanternEffectController : MonoBehaviour
         useLantern = playerControls.World.Action2.ReadValue<float>();
         if (Input.GetKeyDown(KeyCode.L))
         {
+            audioManager.PlaySFX(audioManager.lantern_on);
             isFurtwangenActive = !isFurtwangenActive;
             UpdateWorldTextures(false);
         }
         if (playerControls.World.Action2.triggered)
         {
+            audioManager.PlaySFX(audioManager.lantern_off);
             isLanternEnabled = !isLanternEnabled;
             UpdateLanternEnabled(false);
         }

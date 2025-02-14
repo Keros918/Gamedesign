@@ -10,6 +10,9 @@ public class Inventory : MonoBehaviour
     [SerializeField] private float healingAmount = 10f;
     [SerializeField] private EnemyManager enemyManager;
 
+    AudioManager audioManager;
+
+
     private PlayerControls playerControls;
 
     public bool HasLaserSword => hasLaserSword;
@@ -20,6 +23,7 @@ public class Inventory : MonoBehaviour
     void Awake()
     {
         playerControls = new PlayerControls();
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
     private void OnEnable(){
         playerControls.Enable();
@@ -57,6 +61,7 @@ public class Inventory : MonoBehaviour
     {
         if (money >= cost)
         {
+            audioManager.PlaySFX(audioManager.buy);
             money -= cost;
             healingItems++;
             return true;
@@ -72,6 +77,7 @@ public class Inventory : MonoBehaviour
             pfand++;
             if (TryGetComponent<PlayerHealth>(out var player))
             {
+                audioManager.PlaySFX(audioManager.heal);
                 player.Regenrate(healingAmount);
                 return true;
             }

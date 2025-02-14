@@ -12,7 +12,10 @@ public class AudioManager : MonoBehaviour
     public AudioClip attack;
     public AudioClip hit;
     public AudioClip heal;
-    public AudioClip lantern;
+    public AudioClip buy;
+     public AudioClip collect_pfand;
+    public AudioClip lantern_on;
+    public AudioClip lantern_off;
     public AudioClip dialog;
     public AudioClip obelisk;
 
