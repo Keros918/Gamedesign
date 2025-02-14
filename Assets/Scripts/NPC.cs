@@ -24,6 +24,10 @@ public class NPC : Interactable
         {
             text.completed = false;
         }
+        // if (!dialogTexts.Any(d => d.unlocked))
+        // {
+        //     hasInteraction = false;
+        // }
     }
 
     public override void Interact()

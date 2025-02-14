@@ -20,9 +20,9 @@ public abstract class Interactable : MonoBehaviour
     private void OnEnable(){                            //NewInputSystem
         playerControls.Enable();
     }
-    private void OnDisable(){                           //NewInputSystem
-        playerControls.Disable();
-    }
+    // private void OnDisable(){                           //NewInputSystem
+    //     playerControls.Disable();
+    // }
     void Start()
     {
         playerControls = InputManager.inputActions;

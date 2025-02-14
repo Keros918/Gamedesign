@@ -10,6 +10,7 @@ public class DialogController : MonoBehaviour
     [SerializeField] private TextMeshProUGUI textBox;
     [SerializeField] private TextMeshProUGUI nameContainer;
     [SerializeField] private float typeSpeed = 0.5f;
+    [SerializeField] private PlayerMovementController playerMovement;
     private Queue<string> paragraphs = new();
     private string p;
     private bool conversationEnded = false;
@@ -49,6 +50,7 @@ public class DialogController : MonoBehaviour
 
     private void StartConversation(DialogText dialogText, Sprite npcSprite, string name)
     {
+        playerMovement.playerControls.World.Move.Disable();
         npcSpriteContainer.sprite = npcSprite;
         nameContainer.text = name;
         gameObject.SetActive(true);
@@ -60,6 +62,7 @@ public class DialogController : MonoBehaviour
 
     private void EndConversation(DialogText dialogText)
     {
+        playerMovement.playerControls.World.Move.Enable();
         paragraphs.Clear();
         conversationEnded = false;
         gameObject.SetActive(false);

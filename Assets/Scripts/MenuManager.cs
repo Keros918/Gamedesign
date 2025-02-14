@@ -11,6 +11,8 @@ public class MenuManager : MonoBehaviour
     [SerializeField] private GameObject _inventoryMenu;
     [SerializeField] private GameObject _topInGameUI;
     [SerializeField] private GameObject _firstPhoneButton;
+    [SerializeField] private GameObject _MoneyCount;
+    [SerializeField] private GameObject _PfandCount;
 
 
     private PlayerControls playerControls; 
@@ -36,7 +38,7 @@ public class MenuManager : MonoBehaviour
         resumeAction = playerControls.UI.Exit;
         phoneAction.started += OnMenuButtonPressed;
         resumeAction.started += OnResumeButtonPressed;
-        InventoryMenu.InitializeUI();
+        InventoryMenu.InitializeUI(_MoneyCount, _PfandCount);
     }
 
     private void GoToPhoneMain()

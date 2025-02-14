@@ -3,14 +3,14 @@ using TMPro; // Ensure you have the TextMeshPro namespace
 
 public class InventoryMenu : MonoBehaviour
 {
-    [SerializeField] private static TextMeshPro _MoneyCount; // Reference to the TextMeshPro for the first item
-    [SerializeField] private static TextMeshPro _PfandCount; // Reference to the TextMeshPro for the second item
+    [SerializeField] private static TMP_Text _MoneyCount; // Reference to the TextMeshPro for the first item
+    [SerializeField] private static TMP_Text _PfandCount; // Reference to the TextMeshPro for the second item
 
     
-    public static void InitializeUI()
+    public static void InitializeUI(GameObject moneyCount, GameObject pfandCount)
     {
-        _MoneyCount = GameObject.Find("MoneyCount").GetComponent<TextMeshPro>();
-        _PfandCount = GameObject.Find("PfandCount").GetComponent<TextMeshPro>();
+        _MoneyCount = moneyCount.GetComponent<TMP_Text>();
+        _PfandCount = pfandCount.GetComponent<TMP_Text>();
     }
     public static void UpdateItemCounts()
     {

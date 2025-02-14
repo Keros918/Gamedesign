@@ -8,7 +8,7 @@ public class PlayerMovementController : MonoBehaviour
     [SerializeField] private Rigidbody2D playerBody;
     private Rigidbody2D rb;
     private Vector2 move;                               //NewInputSystem
-    private PlayerControls playerControls;              //NewInputSystem
+    public PlayerControls playerControls;              //NewInputSystem
     public bool isMoving;
 
     void Awake()
