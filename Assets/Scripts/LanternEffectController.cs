@@ -71,11 +71,11 @@ public class LanternEffectController : MonoBehaviour
 
     public void DeactivateLantern()
     {
-        if (!isActiveAndEnabled)
-        {
-            return;
-        }
-        isLanternEnabled = !isLanternEnabled;
+        // if (!isActiveAndEnabled)
+        // {
+        //     return;
+        // }
+        isLanternEnabled = false;
         UpdateLanternEnabled(false);
     }
 

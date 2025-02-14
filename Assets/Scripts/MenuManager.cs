@@ -123,6 +123,14 @@ public class MenuManager : MonoBehaviour
             TimeHandler.ToggleGamePause();
             Debug.Log("PauseToggled");
             InputManager.ToggleActionMap(playerControls.World);
+            if (Inventory.HasLaserSword == false)
+            {
+                playerControls.World.Action1.Disable();
+            }
+            if (Inventory.HasLantern == false)
+            {
+                playerControls.World.Action2.Disable();
+            }
             GoToWorld();
         }
 

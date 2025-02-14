@@ -3,8 +3,6 @@ using UnityEngine.Events;
 
 public class Inventory : MonoBehaviour
 {
-    [SerializeField] private bool hasLaserSword = false;
-    [SerializeField] private bool hasLantern = false;
     [SerializeField] private int money = 0;
     [SerializeField] private int pfand = 0;
     [SerializeField] private int healingItems = 0;
@@ -16,8 +14,8 @@ public class Inventory : MonoBehaviour
 
     private PlayerControls playerControls;
 
-    public bool HasLaserSword => hasLaserSword;
-    public bool HasLantern => hasLantern;
+    public static bool HasLaserSword;
+    public static bool HasLantern;
     public static int Money;
     public static int Pfand;
     public int HealingItems => healingItems;
@@ -28,7 +26,6 @@ public class Inventory : MonoBehaviour
         Money = money;
         Pfand = pfand;
         InventoryMenu.UpdateItemCounts();
-        playerControls = new PlayerControls();
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
     private void OnEnable(){
@@ -45,10 +42,10 @@ public class Inventory : MonoBehaviour
 
     public void UnlockLaserSword()
     {
-        hasLaserSword = true;
+        HasLaserSword = true;
         enemyManager.Enable();
     }
-    public void UnlockLantern() => hasLantern = true;
+    public void UnlockLantern() => HasLantern = true;
 
     public void CollectMoney(int amount){
         money += amount;

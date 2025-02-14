@@ -2,8 +2,6 @@ using UnityEngine;
 
 public class EnemyManager : MonoBehaviour
 {
-    // [SerializeField] private GameObject enemyContainer;
-    [SerializeField] private Inventory inventory;
     [SerializeField] private LanternEffectController lantern;
 
     void Start()
@@ -13,7 +11,7 @@ public class EnemyManager : MonoBehaviour
 
     public void Enable()
     {
-        if (inventory.HasLaserSword && lantern.isFurtwangenActive)
+        if (Inventory.HasLaserSword && lantern.isFurtwangenActive)
         {
             gameObject.SetActive(true);
         }
@@ -21,7 +19,7 @@ public class EnemyManager : MonoBehaviour
 
     public void Disable()
     {
-        if (!inventory.HasLaserSword || !lantern.isFurtwangenActive)
+        if (!Inventory.HasLaserSword || !lantern.isFurtwangenActive)
         {
             gameObject.SetActive(false);
         }

@@ -1,6 +1,5 @@
 using System.Linq;
 using UnityEngine;
-using UnityEngine.InputSystem;
 
 public abstract class Interactable : MonoBehaviour
 {
@@ -20,9 +19,7 @@ public abstract class Interactable : MonoBehaviour
     private void OnEnable(){                            //NewInputSystem
         playerControls.Enable();
     }
-    // private void OnDisable(){                           //NewInputSystem
-    //     playerControls.Disable();
-    // }
+
     void Start()
     {
         playerControls = InputManager.inputActions;
@@ -32,7 +29,6 @@ public abstract class Interactable : MonoBehaviour
             Debug.LogError("InputManager.inputActions is not initialized!");
             return;
         }
-        // playerControls.World.Interact.performed += OnInteract;
     }
     void Update()
     {
@@ -40,42 +36,13 @@ public abstract class Interactable : MonoBehaviour
         bool isWithinInteractDistance = IsWithinInteractDistance();
         interactSprite.gameObject.SetActive(isWithinInteractDistance);
         bool hasInteraction = InteractChecks();
-        // if (gameObject.name == "Mystery dude")
-        // {
-        //     Debug.Log(hasInteraction);
-        // }
-        // if (hasInteraction == false)
-        // {
-        //     interactSprite.enabled = false;
-        // }
         interactSprite.enabled = hasInteraction;
         if (playerControls.World.Interact.triggered && isWithinInteractDistance && hasInteraction)
         {
             Interact();
         }
     }
-    private void OnDestroy()
-    {
-        // Unregister callback methods
-        //playerControls.World.Interact.performed -= OnInteract;
-    }
-    /*
-    private void OnInteract(InputAction.CallbackContext context)
-    {
-        Debug.Log("Interaction triggered");
-        bool isWithinInteractDistance = IsWithinInteractDistance();
-        interactSprite.gameObject.SetActive(isWithinInteractDistance);
-        if (!hasInteraction)
-            {
-                interactSprite.enabled = false;
-            }
 
-        if (isWithinInteractDistance && hasInteraction)
-        {
-            Interact();
-        }
-    }
-*/
     public abstract bool InteractChecks();
 
     public abstract void Interact();
