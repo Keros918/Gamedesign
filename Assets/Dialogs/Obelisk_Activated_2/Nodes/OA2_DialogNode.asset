@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcc1c07605f0d44a1028580c046895, type: 3}
+  m_Name: OA2_DialogNode
+  m_EditorClassIdentifier: 
+  text: That makes two. I should probably check in with that mysterious guy again
+    - maybe he's made some progress with that last Obelisk.
+  speakerSprite: {fileID: 0}
+  speakerName: You

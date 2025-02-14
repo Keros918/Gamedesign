@@ -36,7 +36,15 @@ public class DialogController : MonoBehaviour
         if (!isTyping)
         {
             dialogNode = dialogNodes.Dequeue();
-            npcSpriteContainer.sprite = dialogNode.speakerSprite;
+            if (dialogNode.speakerSprite != null)
+            {
+                npcSpriteContainer.sprite = dialogNode.speakerSprite;
+            }
+            else
+            {
+                npcSpriteContainer.sprite = null;
+                npcSpriteContainer.color = new Color(1, 1, 1, 0);
+            }
             nameContainer.text = dialogNode.speakerName;
             typeEffectCoroutine = StartCoroutine(TypeDialog(dialogNode));
         }
@@ -66,6 +74,7 @@ public class DialogController : MonoBehaviour
         playerMovement.playerControls.World.Move.Enable();
         dialogNodes.Clear();
         conversationEnded = false;
+        npcSpriteContainer.color = new Color(1, 1, 1, 1);
         gameObject.SetActive(false);
         dialogList.completed = true;
         if (dialogList.unlockOnCompletion)

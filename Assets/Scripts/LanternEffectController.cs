@@ -11,7 +11,7 @@ public class LanternEffectController : MonoBehaviour
     [SerializeField] private GameObject navmeshNarugubi;
     [SerializeField] private Camera _camera;
     [SerializeField] private EnemyManager enemyManager;
-    [SerializeField] private GameObject mazeEntry;
+    [SerializeField] private GameObject narugubiExtraColliders;
     [SerializeField] private GameObject trashcans;
     public bool isFurtwangenActive = true;
 
@@ -28,6 +28,7 @@ public class LanternEffectController : MonoBehaviour
     private PlayerControls playerControls;
     private float useLantern;
     private float aspectRatio;
+    [HideInInspector] public static bool TriggerWorldSwitching = false;
 
     void Start()
     {
@@ -49,8 +50,9 @@ public class LanternEffectController : MonoBehaviour
     {
 
         useLantern = playerControls.World.Action2.ReadValue<float>();
-        if (Input.GetKeyDown(KeyCode.L))
+        if (Input.GetKeyDown(KeyCode.L) || TriggerWorldSwitching == true)
         {
+            TriggerWorldSwitching = false;
             audioManager.PlaySFX(audioManager.lantern_on);
             isFurtwangenActive = !isFurtwangenActive;
             UpdateWorldTextures(false);
@@ -85,7 +87,7 @@ public class LanternEffectController : MonoBehaviour
         {
             if (!isFurtwangenActive)
             {
-                mazeEntry.SetActive(false);
+                narugubiExtraColliders.SetActive(false);
             }
             lanternEffectMaterial.SetInt("_EnableLantern", 1);
         }
@@ -93,7 +95,7 @@ public class LanternEffectController : MonoBehaviour
         {
             if (!isFurtwangenActive)
             {
-                mazeEntry.SetActive(true);
+                narugubiExtraColliders.SetActive(true);
             }
             lanternEffectMaterial.SetInt("_EnableLantern", 0);
         }
@@ -123,7 +125,7 @@ public class LanternEffectController : MonoBehaviour
             obelisksFurtwangen.SetActive(true);
             obelisksNarugubi.SetActive(false);
             trashcans.SetActive(true);
-            mazeEntry.SetActive(false);
+            narugubiExtraColliders.SetActive(false);
             enemyManager.Enable();
             navmeshFurtwangen.SetActive(true);
             navmeshNarugubi.SetActive(false);
@@ -135,7 +137,7 @@ public class LanternEffectController : MonoBehaviour
             obelisksFurtwangen.SetActive(false);
             obelisksNarugubi.SetActive(true);
             trashcans.SetActive(false);
-            mazeEntry.SetActive(true);
+            narugubiExtraColliders.SetActive(true);
             enemyManager.Disable();
             navmeshFurtwangen.SetActive(false);
             navmeshNarugubi.SetActive(true);

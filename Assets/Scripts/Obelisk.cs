@@ -29,6 +29,7 @@ public class Obelisk : Interactable
 
     AudioManager audioManager;
     private SpriteRenderer spriteRenderer;
+    private DialogList correspondingDialog;
 
     void Start()
     {
@@ -41,21 +42,40 @@ public class Obelisk : Interactable
         if (!isActivated)
         {
             audioManager.PlaySFX(audioManager.obelisk);
-            isActivated = true;
+            // isActivated = ObeliskManager.DialogCompleted();
             // hasInteraction = false;
-            Debug.Log("Obelisk has been activated");
+            // Debug.Log("Obelisk has been activated");
 
             if (spriteRenderer != null)
             {
                 spriteRenderer.color = activatedColor;
             }
 
-            ObeliskManager.Instance.ObeliskActivated();
+            if (correspondingDialog == null)
+            {
+                ObeliskManager.Instance.ObeliskActivated();
+                correspondingDialog = ObeliskManager.GetNextDialog();
+            }
+            ObeliskManager.DialogController.NextParagraph(correspondingDialog);
+            isActivated = correspondingDialog.completed;
+
+            // if (ObeliskManager.ActivatedObelisks == 1)
+            // {
+            //     ObeliskManager.DialogController.NextParagraph(ObeliskManager.DialogFirstActivated);
+            // }
+            // if (ObeliskManager.ActivatedObelisks == 2)
+            // {
+            //     ObeliskManager.DialogController.NextParagraph(ObeliskManager.DialogSecondActivated);
+            // }
+            // if (ObeliskManager.ActivatedObelisks == 3)
+            // {
+            //     ObeliskManager.DialogController.NextParagraph(ObeliskManager.DialogThirdActivated);
+            // }
         }
     }
 
     public override bool InteractChecks()
     {
-        return !isActivated;
+        return !isActivated && Inventory.HasLaserSword;
     }
 }
