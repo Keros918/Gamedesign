@@ -10,6 +10,7 @@ public class ObeliskManager : MonoBehaviour
     public static DialogList DialogFirstActivated;
     public static DialogList DialogSecondActivated;
     public static DialogList DialogThirdActivated;
+    AudioManager audioManager;
     public static ObeliskManager Instance { get; private set; }
     private int totalObelisks;
     public static int ActivatedObelisks;
@@ -23,7 +24,8 @@ public class ObeliskManager : MonoBehaviour
         DialogFirstActivated.completed = false;
         DialogSecondActivated.completed = false;
         DialogThirdActivated.completed = false;
-
+        
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
 
         if (Instance != null && Instance != this)
         {
@@ -46,6 +48,7 @@ public class ObeliskManager : MonoBehaviour
     {
         ActivatedObelisks++;
         Debug.Log($"Obelisks activated: {ActivatedObelisks}/{totalObelisks}");
+        audioManager.PlaySFX(audioManager.obelisk);
 
         if (ActivatedObelisks >= totalObelisks)
         {

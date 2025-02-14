@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83bcc1c07605f0d44a1028580c046895, type: 3}
   m_Name: MD1_DialogNode 5
   m_EditorClassIdentifier: 
-  text: "The Inner City\u2026 I was planning to go there myself. But it seems like
+  text: "The inner city\u2026 I was planning to go there myself. But it seems like
     all roads to it are currently blocked."
   speakerSprite: {fileID: 21300000, guid: 7d3b36dbd37745b4f9626a290e202128, type: 3}
   speakerName: You

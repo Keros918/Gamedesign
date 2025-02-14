@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: OA3_DialogNode 1
   m_EditorClassIdentifier: 
   text: This marks the end of our playable prototype. Feel free to explore the world
-    a little further and thank you for playing.
+    a little further and thank you for playing!
   speakerSprite: {fileID: 0}
   speakerName: You

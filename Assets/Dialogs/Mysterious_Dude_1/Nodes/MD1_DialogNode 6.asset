@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   text: "Yes, but there\u2019s an old legend. It speaks of three Obelisks scattered
     across the city, hidden in plain sight. Activate all three, and they\u2019ll
-    open a path straight to the heart of the Inner City. I know there's one inside
+    open a path straight to the heart of the inner city. I know there's one inside
     this park, but I can\u2019t reach it without the lantern. Would you mind searching
     for the other two Obelisks? They should be around here somewhere."
   speakerSprite: {fileID: 21300000, guid: 7d3b36dbd37745b4f9626a290e202128, type: 3}
