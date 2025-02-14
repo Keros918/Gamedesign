@@ -39,10 +39,16 @@ public abstract class Interactable : MonoBehaviour
         interact = playerControls.World.Interact.ReadValue<float>();
         bool isWithinInteractDistance = IsWithinInteractDistance();
         interactSprite.gameObject.SetActive(isWithinInteractDistance);
-        if (!hasInteraction)
-        {
-            interactSprite.enabled = false;
-        }
+        bool hasInteraction = InteractChecks();
+        // if (gameObject.name == "Mystery dude")
+        // {
+        //     Debug.Log(hasInteraction);
+        // }
+        // if (hasInteraction == false)
+        // {
+        //     interactSprite.enabled = false;
+        // }
+        interactSprite.enabled = hasInteraction;
         if (playerControls.World.Interact.triggered && isWithinInteractDistance && hasInteraction)
         {
             Interact();
@@ -70,6 +76,8 @@ public abstract class Interactable : MonoBehaviour
         }
     }
 */
+    public abstract bool InteractChecks();
+
     public abstract void Interact();
 
     private bool IsWithinInteractDistance()

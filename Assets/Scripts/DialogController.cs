@@ -11,73 +11,88 @@ public class DialogController : MonoBehaviour
     [SerializeField] private TextMeshProUGUI nameContainer;
     [SerializeField] private float typeSpeed = 0.5f;
     [SerializeField] private PlayerMovementController playerMovement;
-    private Queue<string> paragraphs = new();
-    private string p;
+    [SerializeField] private Inventory inventory;
+    private Queue<DialogNode> dialogNodes = new();
+    private DialogNode dialogNode;
     private bool conversationEnded = false;
     private bool isTyping;
     private Coroutine typeEffectCoroutine;
 
-    public void NextParagraph(DialogText dialogText, Sprite npcSprite, string name)
+    public void NextParagraph(DialogList dialogList)
     {
-        if (paragraphs.Count == 0)
+        if (dialogNodes.Count == 0)
         {
             if (!conversationEnded)
             {
-                StartConversation(dialogText, npcSprite, name);
+                StartConversation(dialogList);
             }
             else if (conversationEnded && !isTyping)
             {
-                EndConversation(dialogText);
+                EndConversation(dialogList);
                 return;
             }
         }
 
         if (!isTyping)
         {
-            p = paragraphs.Dequeue();
-            typeEffectCoroutine = StartCoroutine(TypeDialog(p));
+            dialogNode = dialogNodes.Dequeue();
+            npcSpriteContainer.sprite = dialogNode.speakerSprite;
+            nameContainer.text = dialogNode.speakerName;
+            typeEffectCoroutine = StartCoroutine(TypeDialog(dialogNode));
         }
         else
         {
             SkipTyping();
         }
 
-        if (paragraphs.Count == 0)
+        if (dialogNodes.Count == 0)
         {
             conversationEnded = true;
         }
     }
 
-    private void StartConversation(DialogText dialogText, Sprite npcSprite, string name)
+    private void StartConversation(DialogList dialogList)
     {
         playerMovement.playerControls.World.Move.Disable();
-        npcSpriteContainer.sprite = npcSprite;
-        nameContainer.text = name;
         gameObject.SetActive(true);
-        foreach (var p in dialogText.paragraphs)
+        foreach (var p in dialogList.paragraphs)
         {
-            paragraphs.Enqueue(p);
+            dialogNodes.Enqueue(p);
         }
     }
 
-    private void EndConversation(DialogText dialogText)
+    private void EndConversation(DialogList dialogList)
     {
         playerMovement.playerControls.World.Move.Enable();
-        paragraphs.Clear();
+        dialogNodes.Clear();
         conversationEnded = false;
         gameObject.SetActive(false);
-        dialogText.completed = true;
+        dialogList.completed = true;
+        if (dialogList.unlockOnCompletion)
+        {
+            dialogList.unlockOnCompletion.unlocked = true;
+        }
+        if (dialogList.unlockLaserSword)
+        {
+            inventory.UnlockLaserSword();
+            playerMovement.playerControls.World.Action1.Enable();
+        }
+        if (dialogList.unlockLantern)
+        {
+            inventory.UnlockLantern();
+            playerMovement.playerControls.World.Action2.Enable();
+        }
     }
 
-    private IEnumerator TypeDialog(string p)
+    private IEnumerator TypeDialog(DialogNode p)
     {
         isTyping = true;
         int maxVisibleChars = 0;
 
         textBox.maxVisibleCharacters = maxVisibleChars;
-        textBox.text = p;
+        textBox.text = p.text;
 
-        foreach (var c in p.ToCharArray())
+        foreach (var c in p.text.ToCharArray())
         {
             maxVisibleChars++;
             textBox.maxVisibleCharacters = maxVisibleChars;
@@ -91,7 +106,7 @@ public class DialogController : MonoBehaviour
     private void SkipTyping()
     {
         StopCoroutine(typeEffectCoroutine);
-        textBox.maxVisibleCharacters = p.Length;
+        textBox.maxVisibleCharacters = dialogNode.text.Length;
         isTyping = false;
     }
 }
