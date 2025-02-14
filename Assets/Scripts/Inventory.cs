@@ -14,8 +14,8 @@ public class Inventory : MonoBehaviour
 
     private PlayerControls playerControls;
 
-    public static bool HasLaserSword;
-    public static bool HasLantern;
+    public static bool HasLaserSword = false;
+    public static bool HasLantern = false;
     public static int Money;
     public static int Pfand;
     public int HealingItems => healingItems;
@@ -29,7 +29,10 @@ public class Inventory : MonoBehaviour
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
     private void OnEnable(){
-        playerControls.Enable();
+        if (playerControls != null)
+        {
+            playerControls.Enable();
+        }
     }
 
     void Update()
