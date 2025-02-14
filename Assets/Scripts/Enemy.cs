@@ -14,6 +14,8 @@ public class Enemy : MonoBehaviour
     [SerializeField] float targetRange = 50f;
     [SerializeField] Transform playerTransform;
     [SerializeField] float cooldownInSeconds = 3f;
+
+    AudioManager audioManager;
     private bool canAttack = true;
 
     private void Start()
@@ -22,6 +24,7 @@ public class Enemy : MonoBehaviour
         agent.updateRotation = false;
         agent.updateUpAxis = false;
         currentHealth = maxHealth;
+        audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
 
     private void Update()
@@ -75,10 +78,12 @@ public class Enemy : MonoBehaviour
 
     public void TakeDamage(int damage)
     {
+        audioManager.PlaySFX(audioManager.hit);
         currentHealth -= damage;
         Debug.Log($"Enemy {name} took {damage} damage. Current health: {currentHealth}");
         if (currentHealth <= 0)
         {
+            audioManager.PlaySFX(audioManager.death);
             Debug.Log($"{name} died!");
             Destroy(gameObject);
         }
