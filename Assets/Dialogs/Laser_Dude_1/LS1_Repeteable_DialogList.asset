@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: baa4f8f7dba660747b930bc32b316202, type: 3}
+  m_Name: LS1_Repeteable_DialogList
+  m_EditorClassIdentifier: 
+  paragraphs:
+  - {fileID: 11400000, guid: c80fad27143feff4897c64bc7c7cda7f, type: 2}
+  - {fileID: 11400000, guid: 6a020b994f331964c8a9cf6f963a52d8, type: 2}
+  completed: 1
+  unlocked: 1
+  unlockOnCompletion: {fileID: 0}
+  unlockLaserSword: 0
+  unlockLantern: 0

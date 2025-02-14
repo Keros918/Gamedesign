@@ -38,6 +38,7 @@ public class DialogController : MonoBehaviour
             dialogNode = dialogNodes.Dequeue();
             if (dialogNode.speakerSprite != null)
             {
+                npcSpriteContainer.color = new Color(1, 1, 1, 1);
                 npcSpriteContainer.sprite = dialogNode.speakerSprite;
             }
             else
@@ -74,7 +75,6 @@ public class DialogController : MonoBehaviour
         playerMovement.playerControls.World.Move.Enable();
         dialogNodes.Clear();
         conversationEnded = false;
-        npcSpriteContainer.color = new Color(1, 1, 1, 1);
         gameObject.SetActive(false);
         dialogList.completed = true;
         if (dialogList.unlockOnCompletion)
@@ -89,6 +89,7 @@ public class DialogController : MonoBehaviour
         if (dialogList.unlockLantern)
         {
             inventory.UnlockLantern();
+            LanternEffectController.TriggerWorldSwitching = true;
             playerMovement.playerControls.World.Action2.Enable();
         }
     }

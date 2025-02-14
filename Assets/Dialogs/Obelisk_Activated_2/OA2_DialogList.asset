@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   paragraphs:
   - {fileID: 11400000, guid: 110e6bbd23a8d5c4ea6499b8e2f448d8, type: 2}
-  completed: 0
+  completed: 1
   unlocked: 1
-  unlockOnCompletion: {fileID: 0}
+  unlockOnCompletion: {fileID: 11400000, guid: 0d00091e8eb1a7b4ab6cdcd3062bcedd, type: 2}
   unlockLaserSword: 0
   unlockLantern: 0
