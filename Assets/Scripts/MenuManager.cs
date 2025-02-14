@@ -8,6 +8,7 @@ public class MenuManager : MonoBehaviour
     [SerializeField] private GameObject _phoneBorder;
     [SerializeField] private GameObject _phoneMainScreen;
     [SerializeField] private GameObject _phoneNoSignalScreen;
+    [SerializeField] private GameObject _phoneASocialScreen;
     [SerializeField] private GameObject _inventoryMenu;
     [SerializeField] private GameObject _topInGameUI;
     [SerializeField] private GameObject _firstPhoneButton;
@@ -18,6 +19,7 @@ public class MenuManager : MonoBehaviour
     private PlayerControls playerControls; 
     private InputAction phoneAction;
     private InputAction resumeAction;
+    
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -44,27 +46,33 @@ public class MenuManager : MonoBehaviour
     private void GoToPhoneMain()
     {
         _phone.SetActive(true);
-        Debug.Log("Going to phone");
         _phoneBorder.SetActive(true);
-        Debug.Log("_phoneBorder = true");
         _phoneMainScreen.SetActive(true); 
-        Debug.Log("_phoneMainScreen = true");
         _topInGameUI.SetActive(true);
-        Debug.Log("_topInGameUI = true");
         _phoneNoSignalScreen.SetActive(false);
-        Debug.Log("_phoneNoSignalScreen = false");
+        _phoneASocialScreen.SetActive(false);
         _inventoryMenu.SetActive(false);
-        Debug.Log("_inventoryMenu = false");
         var eventSystem = EventSystem.current;
         eventSystem.SetSelectedGameObject(_firstPhoneButton, new BaseEventData(eventSystem));
     }
-    private void GoToPhoneNoSignal()
+    public void GoToPhoneNoSignal()
     {
         _phone.SetActive(true);
         _phoneBorder.SetActive(true);
         _phoneMainScreen.SetActive(false); 
         _topInGameUI.SetActive(true);
         _phoneNoSignalScreen.SetActive(true);
+        _phoneASocialScreen.SetActive(false);
+        _inventoryMenu.SetActive(false);
+    }
+    public void GoToASocial()
+    {
+        _phone.SetActive(true);
+        _phoneBorder.SetActive(true);
+        _phoneMainScreen.SetActive(false); 
+        _topInGameUI.SetActive(true);
+        _phoneNoSignalScreen.SetActive(false);
+        _phoneASocialScreen.SetActive(true);
         _inventoryMenu.SetActive(false);
     }
 
@@ -75,6 +83,7 @@ public class MenuManager : MonoBehaviour
         _phoneMainScreen.SetActive(false); 
         _topInGameUI.SetActive(true);
         _phoneNoSignalScreen.SetActive(false);
+        _phoneASocialScreen.SetActive(false);
         _inventoryMenu.SetActive(false);
     }
 
@@ -85,6 +94,7 @@ public class MenuManager : MonoBehaviour
         _phoneMainScreen.SetActive(false); 
         _topInGameUI.SetActive(false);
         _phoneNoSignalScreen.SetActive(false);
+        _phoneASocialScreen.SetActive(false);
         _inventoryMenu.SetActive(true);
     }
     private void OnDestroy()
