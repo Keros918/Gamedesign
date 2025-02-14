@@ -1,63 +1,25 @@
 using UnityEngine;
-using System;
-using UnityEngine.AI;
+using TMPro; // Ensure you have the TextMeshPro namespace
 
 public class InventoryMenu : MonoBehaviour
 {
-    public GameObject inventoryMenu;
-    public static bool isPaused;
-    private float select;                               //NewInputSystem
-    private PlayerControls playerControls;              //NewInputSystem
+    [SerializeField] private static TextMeshPro _MoneyCount; // Reference to the TextMeshPro for the first item
+    [SerializeField] private static TextMeshPro _PfandCount; // Reference to the TextMeshPro for the second item
 
-
-    void Awake()
+    
+    public static void InitializeUI()
     {
-        playerControls = new PlayerControls();          //NewInputSystem
+        _MoneyCount = GameObject.Find("MoneyCount").GetComponent<TextMeshPro>();
+        _PfandCount = GameObject.Find("PfandCount").GetComponent<TextMeshPro>();
     }
-    private void OnEnable(){                            //NewInputSystem
-        playerControls.Enable();
-    }
-    private void OnDisable(){                           //NewInputSystem
-        playerControls.Disable();
-    }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    public static void UpdateItemCounts()
     {
-        inventoryMenu.SetActive(false);
+        // Get item counts from the inventory
+        int money = Inventory.Money;
+        int pfand = Inventory.Pfand;
+
+        // Update the TextMeshPro elements
+        _MoneyCount.text = "" + money;
+        _PfandCount.text = "" + pfand;
     }
-
-    // Update is called once per frame
-    void Update()
-    {
-        select = playerControls.World.Menu.ReadValue<float>();
-
-        if (playerControls.World.Menu.triggered)
-        {
-            if (isPaused)
-            {
-                ResumeGame();
-            }
-            else
-            {
-                PauseGame();
-            }
-        }
-    }
-
-
-    public void PauseGame()
-    {
-        inventoryMenu.SetActive(true);
-        Time.timeScale = 0f;
-        isPaused = true;
-    }
-
-public void ResumeGame()
-{
-    inventoryMenu.SetActive(false);
-    Time.timeScale = 1f;
-    isPaused = false;
-}
-
-
 }

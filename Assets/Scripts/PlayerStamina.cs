@@ -4,9 +4,9 @@ using UnityEngine.Events;
 public class PlayerStamina : MonoBehaviour
 {
     [SerializeField] private float maxStamina = 100f;
-    [SerializeField] private float currentStamina;
+    [SerializeField] public float currentStamina;
     [SerializeField] private float staminaRegenRate = 5f;
-    [SerializeField] private float emptyStaminaDelay = 2f;
+    [SerializeField] private float emptyStaminaDelay = 1.5f;
 
     private bool isRegenerating = true;
     private float regenDelayTimer;

@@ -28,20 +28,10 @@ public class LanternEffectController : MonoBehaviour
 
     void Start()
     {
+        playerControls = InputManager.inputActions; 
         UpdateWorldTextures(true);
         UpdateLanternEnabled(true);
         aspectRatio = (float)furtwangenTexture.width / furtwangenTexture.height;
-    }
-    void Awake()
-    {
-        playerControls = new PlayerControls();
-    }
-    private void OnEnable(){
-        playerControls.Enable();
-    }
-
-    private void OnDisable(){
-        playerControls.Disable();
     }
     // Update is called once per frame
     void Update()

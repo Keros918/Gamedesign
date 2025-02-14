@@ -15,10 +15,10 @@ using System.Collections.Generic;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.Utilities;
 
-public partial class @PlayerControls: IInputActionCollection2, IDisposable
+public partial class PlayerControls: IInputActionCollection2, IDisposable
 {
     public InputActionAsset asset { get; }
-    public @PlayerControls()
+    public PlayerControls()
     {
         asset = InputActionAsset.FromJson(@"{
     ""name"": ""PlayerControls"",
@@ -313,6 +313,15 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""processors"": """",
                     ""interactions"": """",
                     ""initialStateCheck"": true
+                },
+                {
+                    ""name"": ""Exit"",
+                    ""type"": ""Button"",
+                    ""id"": ""776ecb5c-80b9-4412-9810-f1715944be3b"",
+                    ""expectedControlType"": """",
+                    ""processors"": """",
+                    ""interactions"": """",
+                    ""initialStateCheck"": false
                 }
             ],
             ""bindings"": [
@@ -436,6 +445,39 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""a6a2a526-22f8-4aa9-932f-6bf04207a629"",
+                    ""path"": ""<Gamepad>/select"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";GamePad"",
+                    ""action"": ""Exit"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""b6dae7fb-8b69-4cda-a4ac-5f0af916b76e"",
+                    ""path"": ""<Gamepad>/start"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";GamePad"",
+                    ""action"": ""Exit"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""7d603115-79fd-457a-9df7-7055f69dd0ee"",
+                    ""path"": ""<Keyboard>/tab"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Keyboard"",
+                    ""action"": ""Exit"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
                 }
             ]
         }
@@ -478,9 +520,10 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
         m_UI_Accept = m_UI.FindAction("Accept", throwIfNotFound: true);
         m_UI_Deny = m_UI.FindAction("Deny", throwIfNotFound: true);
         m_UI_Move = m_UI.FindAction("Move", throwIfNotFound: true);
+        m_UI_Exit = m_UI.FindAction("Exit", throwIfNotFound: true);
     }
 
-    ~@PlayerControls()
+    ~PlayerControls()
     {
         UnityEngine.Debug.Assert(!m_World.enabled, "This will cause a leak and performance issues, PlayerControls.World.Disable() has not been called.");
         UnityEngine.Debug.Assert(!m_UI.enabled, "This will cause a leak and performance issues, PlayerControls.UI.Disable() has not been called.");
@@ -505,12 +548,12 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
 
     public ReadOnlyArray<InputControlScheme> controlSchemes => asset.controlSchemes;
 
-    public bool Contains(InputAction action)
+    public bool Contains(UnityEngine.InputSystem.InputAction action)
     {
         return asset.Contains(action);
     }
 
-    public IEnumerator<InputAction> GetEnumerator()
+    public IEnumerator<UnityEngine.InputSystem.InputAction> GetEnumerator()
     {
         return asset.GetEnumerator();
     }
@@ -532,12 +575,12 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
 
     public IEnumerable<InputBinding> bindings => asset.bindings;
 
-    public InputAction FindAction(string actionNameOrId, bool throwIfNotFound = false)
+    public UnityEngine.InputSystem.InputAction FindAction(string actionNameOrId, bool throwIfNotFound = false)
     {
         return asset.FindAction(actionNameOrId, throwIfNotFound);
     }
 
-    public int FindBinding(InputBinding bindingMask, out InputAction action)
+    public int FindBinding(InputBinding bindingMask, out UnityEngine.InputSystem.InputAction action)
     {
         return asset.FindBinding(bindingMask, out action);
     }
@@ -545,22 +588,22 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     // World
     private readonly InputActionMap m_World;
     private List<IWorldActions> m_WorldActionsCallbackInterfaces = new List<IWorldActions>();
-    private readonly InputAction m_World_Move;
-    private readonly InputAction m_World_Interact;
-    private readonly InputAction m_World_Action1;
-    private readonly InputAction m_World_Action2;
-    private readonly InputAction m_World_Action3;
-    private readonly InputAction m_World_Menu;
+    private readonly UnityEngine.InputSystem.InputAction m_World_Move;
+    private readonly UnityEngine.InputSystem.InputAction m_World_Interact;
+    private readonly UnityEngine.InputSystem.InputAction m_World_Action1;
+    private readonly UnityEngine.InputSystem.InputAction m_World_Action2;
+    private readonly UnityEngine.InputSystem.InputAction m_World_Action3;
+    private readonly UnityEngine.InputSystem.InputAction m_World_Menu;
     public struct WorldActions
     {
-        private @PlayerControls m_Wrapper;
-        public WorldActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
-        public InputAction @Move => m_Wrapper.m_World_Move;
-        public InputAction @Interact => m_Wrapper.m_World_Interact;
-        public InputAction @Action1 => m_Wrapper.m_World_Action1;
-        public InputAction @Action2 => m_Wrapper.m_World_Action2;
-        public InputAction @Action3 => m_Wrapper.m_World_Action3;
-        public InputAction @Menu => m_Wrapper.m_World_Menu;
+        private PlayerControls m_Wrapper;
+        public WorldActions(PlayerControls wrapper) { m_Wrapper = wrapper; }
+        public UnityEngine.InputSystem.InputAction @Move => m_Wrapper.m_World_Move;
+        public UnityEngine.InputSystem.InputAction @Interact => m_Wrapper.m_World_Interact;
+        public UnityEngine.InputSystem.InputAction @Action1 => m_Wrapper.m_World_Action1;
+        public UnityEngine.InputSystem.InputAction @Action2 => m_Wrapper.m_World_Action2;
+        public UnityEngine.InputSystem.InputAction @Action3 => m_Wrapper.m_World_Action3;
+        public UnityEngine.InputSystem.InputAction @Menu => m_Wrapper.m_World_Menu;
         public InputActionMap Get() { return m_Wrapper.m_World; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -631,16 +674,18 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     // UI
     private readonly InputActionMap m_UI;
     private List<IUIActions> m_UIActionsCallbackInterfaces = new List<IUIActions>();
-    private readonly InputAction m_UI_Accept;
-    private readonly InputAction m_UI_Deny;
-    private readonly InputAction m_UI_Move;
+    private readonly UnityEngine.InputSystem.InputAction m_UI_Accept;
+    private readonly UnityEngine.InputSystem.InputAction m_UI_Deny;
+    private readonly UnityEngine.InputSystem.InputAction m_UI_Move;
+    private readonly UnityEngine.InputSystem.InputAction m_UI_Exit;
     public struct UIActions
     {
-        private @PlayerControls m_Wrapper;
-        public UIActions(@PlayerControls wrapper) { m_Wrapper = wrapper; }
-        public InputAction @Accept => m_Wrapper.m_UI_Accept;
-        public InputAction @Deny => m_Wrapper.m_UI_Deny;
-        public InputAction @Move => m_Wrapper.m_UI_Move;
+        private PlayerControls m_Wrapper;
+        public UIActions(PlayerControls wrapper) { m_Wrapper = wrapper; }
+        public UnityEngine.InputSystem.InputAction @Accept => m_Wrapper.m_UI_Accept;
+        public UnityEngine.InputSystem.InputAction @Deny => m_Wrapper.m_UI_Deny;
+        public UnityEngine.InputSystem.InputAction @Move => m_Wrapper.m_UI_Move;
+        public UnityEngine.InputSystem.InputAction @Exit => m_Wrapper.m_UI_Exit;
         public InputActionMap Get() { return m_Wrapper.m_UI; }
         public void Enable() { Get().Enable(); }
         public void Disable() { Get().Disable(); }
@@ -659,6 +704,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @Move.started += instance.OnMove;
             @Move.performed += instance.OnMove;
             @Move.canceled += instance.OnMove;
+            @Exit.started += instance.OnExit;
+            @Exit.performed += instance.OnExit;
+            @Exit.canceled += instance.OnExit;
         }
 
         private void UnregisterCallbacks(IUIActions instance)
@@ -672,6 +720,9 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
             @Move.started -= instance.OnMove;
             @Move.performed -= instance.OnMove;
             @Move.canceled -= instance.OnMove;
+            @Exit.started -= instance.OnExit;
+            @Exit.performed -= instance.OnExit;
+            @Exit.canceled -= instance.OnExit;
         }
 
         public void RemoveCallbacks(IUIActions instance)
@@ -709,17 +760,18 @@ public partial class @PlayerControls: IInputActionCollection2, IDisposable
     }
     public interface IWorldActions
     {
-        void OnMove(InputAction.CallbackContext context);
-        void OnInteract(InputAction.CallbackContext context);
-        void OnAction1(InputAction.CallbackContext context);
-        void OnAction2(InputAction.CallbackContext context);
-        void OnAction3(InputAction.CallbackContext context);
-        void OnMenu(InputAction.CallbackContext context);
+        void OnMove(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnInteract(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnAction1(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnAction2(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnAction3(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnMenu(UnityEngine.InputSystem.InputAction.CallbackContext context);
     }
     public interface IUIActions
     {
-        void OnAccept(InputAction.CallbackContext context);
-        void OnDeny(InputAction.CallbackContext context);
-        void OnMove(InputAction.CallbackContext context);
+        void OnAccept(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnDeny(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnMove(UnityEngine.InputSystem.InputAction.CallbackContext context);
+        void OnExit(UnityEngine.InputSystem.InputAction.CallbackContext context);
     }
 }
