@@ -9,20 +9,23 @@ public class AnimatedUI : MonoBehaviour
     public float signalSequenceInterval = 1f; 
     public float noSignalInterval = 0.5f; 
 
-    private void Start()
+    public void Awake()
     {
         StartCoroutine(SignalSequence());
         StartCoroutine(NoSignalSequence());
+        Debug.Log("Signalroutines Started");
     }
 
     private IEnumerator SignalSequence()
     {
         int index = 0;
+        Debug.Log("Signalroutine going into while");
         while (true)
         {
             for (int i = 0; i < signalSequenceImages.Length; i++)
             {
                 signalSequenceImages[i].enabled = i == index;
+                Debug.Log("Signalroutine while i= "+ i);
             }
             index = (index + 1) % signalSequenceImages.Length;
             yield return new WaitForSeconds(signalSequenceInterval);
