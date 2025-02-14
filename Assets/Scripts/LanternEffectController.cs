@@ -16,6 +16,7 @@ public class LanternEffectController : MonoBehaviour
     public bool isFurtwangenActive = true;
 
     private bool isLanternEnabled = false;
+    public bool canToggleLantern = true;
     [SerializeField] private Material lanternEffectMaterial;
     [SerializeField] private Transform lanternTransform;
     [SerializeField] private float lanternRadius = 5f;
@@ -30,6 +31,7 @@ public class LanternEffectController : MonoBehaviour
 
     void Start()
     {
+        playerControls = InputManager.inputActions; 
         UpdateWorldTextures(true);
         UpdateLanternEnabled(true);
         aspectRatio = (float)furtwangenTexture.width / furtwangenTexture.height;
@@ -42,10 +44,6 @@ public class LanternEffectController : MonoBehaviour
     private void OnEnable(){
         playerControls.Enable();
     }
-
-    private void OnDisable(){
-        playerControls.Disable();
-    }
     // Update is called once per frame
     void Update()
     {
@@ -57,7 +55,7 @@ public class LanternEffectController : MonoBehaviour
             isFurtwangenActive = !isFurtwangenActive;
             UpdateWorldTextures(false);
         }
-        if (playerControls.World.Action2.triggered)
+        if (playerControls.World.Action2.triggered && canToggleLantern == true)
         {
             audioManager.PlaySFX(audioManager.lantern_off);
             isLanternEnabled = !isLanternEnabled;
@@ -69,6 +67,16 @@ public class LanternEffectController : MonoBehaviour
         lanternEffectMaterial.SetVector("_LanternPosition", viewportPos);
         lanternEffectMaterial.SetFloat("_LanternRadius", lanternRadius);
         lanternEffectMaterial.SetFloat("_AspectRatio", aspectRatio);
+    }
+
+    public void DeactivateLantern()
+    {
+        if (!isActiveAndEnabled)
+        {
+            return;
+        }
+        isLanternEnabled = !isLanternEnabled;
+        UpdateLanternEnabled(false);
     }
 
     void UpdateLanternEnabled(bool init)

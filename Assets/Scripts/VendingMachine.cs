@@ -8,4 +8,9 @@ public class VendingMachine : Interactable
     {
         inventory.BuyHealingItem(cost);
     }
+
+    public override bool InteractChecks()
+    {
+        return Inventory.Money >= cost;
+    }
 }

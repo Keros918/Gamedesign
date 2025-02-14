@@ -42,7 +42,7 @@ public class Obelisk : Interactable
         {
             audioManager.PlaySFX(audioManager.obelisk);
             isActivated = true;
-            hasInteraction = false;
+            // hasInteraction = false;
             Debug.Log("Obelisk has been activated");
 
             if (spriteRenderer != null)
@@ -52,5 +52,10 @@ public class Obelisk : Interactable
 
             ObeliskManager.Instance.ObeliskActivated();
         }
+    }
+
+    public override bool InteractChecks()
+    {
+        return !isActivated;
     }
 }

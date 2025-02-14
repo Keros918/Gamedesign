@@ -20,10 +20,10 @@ public class Trashcan : Interactable
             inventory.CollectPfand(pfandAmount);
             pfandAmount--;
         }
-        if (pfandAmount == 0)
-        {
-            hasInteraction = false;
-            // gameObject.SetActive(false);
-        }
+    }
+
+    public override bool InteractChecks()
+    {
+        return pfandAmount > 0;
     }
 }

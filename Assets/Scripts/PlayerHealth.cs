@@ -33,7 +33,7 @@ public class PlayerHealth : MonoBehaviour
 
     public void Regenrate(float amount)
     {
-        currentHealth = Math.Min(maxHealth, amount);
+        currentHealth = Math.Min(maxHealth, currentHealth + amount);
         OnPlayerHealthChanged.Invoke();
     }
 }

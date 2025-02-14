@@ -16,6 +16,8 @@ public class MazeFOV : MonoBehaviour
         {
             return;
         }
+        lantern.canToggleLantern = false;
+        lantern.DeactivateLantern();
         lanternEffectMaterial.SetFloat("_RestrictedVisionRadius", 0.5f);
     }
 
@@ -25,6 +27,7 @@ public class MazeFOV : MonoBehaviour
         {
             return;
         }
+        lantern.canToggleLantern = true;
         lanternEffectMaterial.SetFloat("_RestrictedVisionRadius", 1.5f);
     }
 }

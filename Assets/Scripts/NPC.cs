@@ -1,3 +1,4 @@
+using System;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.AI;
@@ -6,11 +7,9 @@ public class NPC : Interactable
 {
     [SerializeField] private Transform target;
     private NavMeshAgent agent;
-    [SerializeField] DialogText[] dialogTexts;
-    [SerializeField] DialogText repeatableDialog;
+    [SerializeField] DialogList[] dialogs;
+    [SerializeField] DialogList repeatableDialog;
     [SerializeField] DialogController dialogController;
-    [SerializeField] Sprite closeupSprite;
-    [SerializeField] string npcName;
 
     private void Start()
     {
@@ -20,10 +19,15 @@ public class NPC : Interactable
             agent.updateRotation = false;
             agent.updateUpAxis = false;
         }
-        foreach (var text in dialogTexts)
+        foreach (var text in dialogs)
         {
             text.completed = false;
         }
+    }
+
+    public override bool InteractChecks()
+    {
+        return dialogs.Any(d => d.completed == false && d.unlocked == true) || (repeatableDialog != null && repeatableDialog.unlocked);
     }
 
     public override void Interact()
@@ -33,8 +37,8 @@ public class NPC : Interactable
 
     public void Talk()
     {
-        DialogText dialog = dialogTexts.FirstOrDefault(d => d.completed == false);
-        if (dialog == null)
+        DialogList dialog = dialogs.FirstOrDefault(d => d.completed == false && d.unlocked);
+        if (dialog == null && repeatableDialog.unlocked)
         {
             dialog = repeatableDialog;
         }
@@ -43,6 +47,6 @@ public class NPC : Interactable
             hasInteraction = false;
             return;
         }
-        dialogController.NextParagraph(dialog, closeupSprite, npcName);
+        dialogController.NextParagraph(dialog);
     }
 }

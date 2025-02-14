@@ -8,22 +8,20 @@ public class PlayerMovementController : MonoBehaviour
     [SerializeField] private Rigidbody2D playerBody;
     private Rigidbody2D rb;
     private Vector2 move;                               //NewInputSystem
-    private PlayerControls playerControls;              //NewInputSystem
+    public PlayerControls playerControls;              //NewInputSystem
     public bool isMoving;
 
     void Awake()
     {
-        playerControls = new PlayerControls();          //NewInputSystem
+        playerControls = InputManager.inputActions; 
         animator = GetComponent<Animator>();
         playerBody = GetComponent<Rigidbody2D>();
     }
-    private void OnEnable(){                            //NewInputSystem
-        playerControls.Enable();
+
+    void Start()
+    {
+        playerControls = InputManager.inputActions; 
     }
-    private void OnDisable(){                           //NewInputSystem
-        playerControls.Disable();
-    }
-    // Update is called once per frame
     void Update()
     {
         move = playerControls.World.Move.ReadValue<Vector2>();      //NewInputSystem
@@ -34,8 +32,7 @@ public class PlayerMovementController : MonoBehaviour
         {
             animator.SetFloat("moveX", move.x);
             animator.SetFloat("moveY", move.y);
-        }
-        
+        } 
     }
 
     void FixedUpdate()  //Smoother Movement

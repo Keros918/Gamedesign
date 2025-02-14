@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Inventory : MonoBehaviour
 {
@@ -17,11 +18,16 @@ public class Inventory : MonoBehaviour
 
     public bool HasLaserSword => hasLaserSword;
     public bool HasLantern => hasLantern;
-    public int Money => money;
-    public int Pfand => pfand;
+    public static int Money;
+    public static int Pfand;
     public int HealingItems => healingItems;
-    void Awake()
+ 
+    void Start()
     {
+        playerControls = InputManager.inputActions;
+        Money = money;
+        Pfand = pfand;
+        InventoryMenu.UpdateItemCounts();
         playerControls = new PlayerControls();
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
     }
@@ -29,12 +35,8 @@ public class Inventory : MonoBehaviour
         playerControls.Enable();
     }
 
-    private void OnDisable(){
-        playerControls.Disable();
-    }
     void Update()
     {
-
         if (playerControls.World.Action3.triggered)
         {
             UseHealingItem();
@@ -48,13 +50,23 @@ public class Inventory : MonoBehaviour
     }
     public void UnlockLantern() => hasLantern = true;
 
-    public void CollectMoney(int amount) => money += amount;
-    public void CollectPfand(int amount) => pfand += amount;
-
+    public void CollectMoney(int amount){
+        money += amount;
+        Money = money;
+        InventoryMenu.UpdateItemCounts();  
+    }
+    public void CollectPfand(int amount){
+        pfand += amount;
+        Pfand = pfand;
+        InventoryMenu.UpdateItemCounts(); 
+    }
     public void TradePfand(int amountPfandTraded, int pricePerPfand = 1)
     {
         money += amountPfandTraded * pricePerPfand;
         pfand -= amountPfandTraded;
+        Money = money;
+        Pfand = pfand;
+        InventoryMenu.UpdateItemCounts(); 
     }
 
     public bool BuyHealingItem(int cost)
@@ -63,7 +75,9 @@ public class Inventory : MonoBehaviour
         {
             audioManager.PlaySFX(audioManager.buy);
             money -= cost;
+            Money = money;
             healingItems++;
+            InventoryMenu.UpdateItemCounts(); 
             return true;
         }
         return false;
@@ -75,6 +89,8 @@ public class Inventory : MonoBehaviour
         {
             healingItems--;
             pfand++;
+            Pfand = pfand;
+            InventoryMenu.UpdateItemCounts(); 
             if (TryGetComponent<PlayerHealth>(out var player))
             {
                 audioManager.PlaySFX(audioManager.heal);

@@ -1,12 +1,13 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerAttack : MonoBehaviour
 {
     [SerializeField] private Transform attackPoint;
     [SerializeField] private float attackRange = 1f;
     [SerializeField] private LayerMask enemyLayer;
-    [SerializeField] private int attackDamage = 10;
-    [SerializeField] private float staminaCost = 20f;
+    [SerializeField] private int attackDamage = 15;
+    [SerializeField] private float staminaCost = 10;
     [SerializeField] private PlayerStamina stamina;
     [SerializeField] private Animator animator;
 
@@ -17,31 +18,20 @@ public class PlayerAttack : MonoBehaviour
     private float attack;
     private void Start()
     {
+        playerControls = InputManager.inputActions; 
         if (stamina == null)
         {
             stamina = GetComponent<PlayerStamina>();
         }
     }
-
     void Awake()
-    {
-        playerControls = new PlayerControls();
+    { 
         animator = GetComponent<Animator>();
         audioManager = GameObject.FindGameObjectWithTag("Audio").GetComponent<AudioManager>();
-    }
-    private void OnEnable(){
-        playerControls.Enable();
-    }
-
-    private void OnDisable(){
-        playerControls.Disable();
     }
     // Update is called once per frame
     void Update()
     {
-
-        attack = playerControls.World.Action1.ReadValue<float>();
-
         if (playerControls.World.Action1.triggered)
         {
             Collider2D[] hits = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83bcc1c07605f0d44a1028580c046895, type: 3}
+  m_Name: SL1_DialogNode 2
+  m_EditorClassIdentifier: 
+  text: "I know, it\u2019s inconvenient, isn\u2019t it? But the renovations will
+    make the store much nicer, I promise! In the meantime, the vending machines should
+    have a good selection of basics. Oh, and if you\u2019re buying a drink, don\u2019t
+    forget that there\u2019s a deposit on the bottles and cans."
+  speakerSprite: {fileID: 21300000, guid: ea26d12a7e5b8a8479d83d964eee541b, type: 3}
+  speakerName: Supermarket Lady
