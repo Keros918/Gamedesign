@@ -14,17 +14,18 @@ public class Inventory : MonoBehaviour
 
     public bool HasLaserSword => hasLaserSword;
     public bool HasLantern => hasLantern;
-    public int Money => money;
-    public int Pfand => pfand;
+    public static int Money;
+    public static int Pfand;
     public int HealingItems => healingItems;
  
     void Start()
     {
         playerControls = InputManager.inputActions;
+        Money = money;
+        Pfand = pfand;
     }
     void Update()
     {
-
         if (playerControls.World.Action3.triggered)
         {
             UseHealingItem();
@@ -38,13 +39,19 @@ public class Inventory : MonoBehaviour
     }
     public void UnlockLantern() => hasLantern = true;
 
-    public void CollectMoney(int amount) => money += amount;
-    public void CollectPfand(int amount) => pfand += amount;
-
+    public void CollectMoney(int amount){
+        money += amount;
+        InventoryMenu.UpdateItemCounts();  
+    }
+    public void CollectPfand(int amount){
+        pfand += amount;
+        InventoryMenu.UpdateItemCounts(); 
+    }
     public void TradePfand(int amountPfandTraded, int pricePerPfand = 1)
     {
         money += amountPfandTraded * pricePerPfand;
         pfand -= amountPfandTraded;
+        InventoryMenu.UpdateItemCounts(); 
     }
 
     public bool BuyHealingItem(int cost)
@@ -53,6 +60,7 @@ public class Inventory : MonoBehaviour
         {
             money -= cost;
             healingItems++;
+            InventoryMenu.UpdateItemCounts(); 
             return true;
         }
         return false;
@@ -64,6 +72,7 @@ public class Inventory : MonoBehaviour
         {
             healingItems--;
             pfand++;
+            InventoryMenu.UpdateItemCounts(); 
             if (TryGetComponent<PlayerHealth>(out var player))
             {
                 player.Regenrate(healingAmount);

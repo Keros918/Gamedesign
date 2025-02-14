@@ -36,6 +36,7 @@ public class MenuManager : MonoBehaviour
         resumeAction = playerControls.UI.Exit;
         phoneAction.started += OnMenuButtonPressed;
         resumeAction.started += OnResumeButtonPressed;
+        InventoryMenu.InitializeUI();
     }
 
     private void GoToPhoneMain()

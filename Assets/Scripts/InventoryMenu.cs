@@ -1,32 +1,25 @@
 using UnityEngine;
-using System;
-using UnityEngine.AI;
+using TMPro; // Ensure you have the TextMeshPro namespace
 
 public class InventoryMenu : MonoBehaviour
 {
-    public GameObject inventoryMenu;
-    public static bool isPaused;
-    private float select;                               //NewInputSystem
-    private PlayerControls playerControls;              //NewInputSystem
+    [SerializeField] private static TextMeshPro _MoneyCount; // Reference to the TextMeshPro for the first item
+    [SerializeField] private static TextMeshPro _PfandCount; // Reference to the TextMeshPro for the second item
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    
+    public static void InitializeUI()
     {
-        inventoryMenu.SetActive(false);
-        playerControls = InputManager.inputActions; 
+        _MoneyCount = GameObject.Find("MoneyCount").GetComponent<TextMeshPro>();
+        _PfandCount = GameObject.Find("PfandCount").GetComponent<TextMeshPro>();
     }
-
-    // Update is called once per frame
-    void Update()
+    public static void UpdateItemCounts()
     {
+        // Get item counts from the inventory
+        int money = Inventory.Money;
+        int pfand = Inventory.Pfand;
+
+        // Update the TextMeshPro elements
+        _MoneyCount.text = "" + money;
+        _PfandCount.text = "" + pfand;
     }
-
-public void ResumeGame()
-{
-    inventoryMenu.SetActive(false);
-    Time.timeScale = 1f;
-    isPaused = false;
-}
-
-
 }
